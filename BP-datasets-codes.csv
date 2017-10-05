@@ -1,0 +1,2333 @@
+BP/OIL_RESERVES_ARG,Proved Oil Reserves - Argentina
+BP/OIL_RESERVES_MEX,Proved Oil Reserves - Mexico
+BP/OIL_RESERVES_PER,Proved Oil Reserves - Peru
+BP/OIL_RESERVES_NOAM,Proved Oil Reserves - Total North America
+BP/OIL_RESERVES_ECU,Proved Oil Reserves - Ecuador
+BP/OIL_RESERVES_USA,Proved Oil Reserves - USA
+BP/OIL_RESERVES_BRA,Proved Oil Reserves - Brazil
+BP/OIL_RESERVES_TTO,Proved Oil Reserves - Trinidad & Tobago
+BP/OIL_RESERVES_CAN,Proved Oil Reserves - Canada
+BP/OIL_RESERVES_COL,Proved Oil Reserves - Colombia
+BP/OIL_RESERVES_OSCA,Proved Oil Reserves - Other S. & Cent. America
+BP/OIL_RESERVES_CESA,Proved Oil Reserves - Total S. & Cent. America
+BP/OIL_RESERVES_KAZ,Proved Oil Reserves - Kazakhstan
+BP/OIL_RESERVES_DNK,Proved Oil Reserves - Denmark
+BP/OIL_RESERVES_VEN,Proved Oil Reserves - Venezuela
+BP/OIL_RESERVES_AZE,Proved Oil Reserves - Azerbaijan
+BP/OIL_RESERVES_NOR,Proved Oil Reserves - Norway
+BP/OIL_RESERVES_ROU,Proved Oil Reserves - Romania
+BP/OIL_RESERVES_RUS,Proved Oil Reserves - Russian Federation
+BP/OIL_RESERVES_ITA,Proved Oil Reserves - Italy
+BP/OIL_RESERVES_TKM,Proved Oil Reserves - Turkmenistan
+BP/OIL_RESERVES_GBR,Proved Oil Reserves - United Kingdom
+BP/OIL_RESERVES_UZB,Proved Oil Reserves - Uzbekistan
+BP/OIL_RESERVES_IRN,Proved Oil Reserves - Iran
+BP/OIL_RESERVES_OMN,Proved Oil Reserves - Oman
+BP/OIL_RESERVES_KWT,Proved Oil Reserves - Kuwait
+BP/OIL_RESERVES_IRQ,Proved Oil Reserves - Iraq
+BP/OIL_RESERVES_OEUE,Proved Oil Reserves - Other Europe & Eurasia
+BP/OIL_RESERVES_TEUE,Proved Oil Reserves - Total Europe & Eurasia
+BP/OIL_RESERVES_QAT,Proved Oil Reserves - Qatar
+BP/OIL_RESERVES_SAU,Proved Oil Reserves - Saudi Arabia
+BP/OIL_RESERVES_SYR,Proved Oil Reserves - Syria
+BP/OIL_RESERVES_ARE,Proved Oil Reserves - United Arab Emirates
+BP/OIL_RESERVES_YEM,Proved Oil Reserves - Yemen
+BP/OIL_RESERVES_MIDE,Proved Oil Reserves - Total Middle East
+BP/OIL_RESERVES_OMDE,Proved Oil Reserves - Other Middle East
+BP/OIL_RESERVES_DZA,Proved Oil Reserves - Algeria
+BP/OIL_RESERVES_AGO,Proved Oil Reserves - Angola
+BP/OIL_RESERVES_TCD,Proved Oil Reserves - Chad
+BP/OIL_RESERVES_EGY,Proved Oil Reserves - Egypt
+BP/OIL_RESERVES_COG,Proved Oil Reserves - Republic of Congo
+BP/OIL_RESERVES_GNQ,Proved Oil Reserves - Equatorial Guinea
+BP/OIL_RESERVES_GAB,Proved Oil Reserves - Gabon
+BP/OIL_RESERVES_NGA,Proved Oil Reserves - Nigeria
+BP/OIL_RESERVES_SSUD,Proved Oil Reserves - South Sudan
+BP/OIL_RESERVES_LBY,Proved Oil Reserves - Libya
+BP/OIL_RESERVES_TUN,Proved Oil Reserves - Tunisia
+BP/OIL_RESERVES_SDN,Proved Oil Reserves - Sudan
+BP/OIL_RESERVES_OAFR,Proved Oil Reserves - Other Africa
+BP/OIL_RESERVES_AUS,Proved Oil Reserves - Australia
+BP/OIL_RESERVES_TAFR,Proved Oil Reserves - Total Africa
+BP/OIL_RESERVES_BRN,Proved Oil Reserves - Brunei
+BP/OIL_RESERVES_CHN,Proved Oil Reserves - China
+BP/OIL_RESERVES_IND,Proved Oil Reserves - India
+BP/OIL_RESERVES_THA,Proved Oil Reserves - Thailand
+BP/OIL_RESERVES_IDN,Proved Oil Reserves - Indonesia
+BP/OIL_RESERVES_MYS,Proved Oil Reserves - Malaysia
+BP/OIL_RESERVES_VNM,Proved Oil Reserves - Vietnam
+BP/OIL_RESERVES_OASP,Proved Oil Reserves - Other Asia Pacific
+BP/OIL_RESERVES_WRLD,Proved Oil Reserves - Total World
+BP/OIL_RESERVES_TASP,Proved Oil Reserves - Total Asia Pacific
+BP/GAS_RESERVES_CAN,Proved Natural Gas Reserves - Canada
+BP/GAS_RESERVES_USA,Proved Natural Gas Reserves - USA
+BP/GAS_RESERVES_NOAM,Proved Natural Gas Reserves - Total North America
+BP/GAS_RESERVES_MEX,Proved Natural Gas Reserves - Mexico
+BP/GAS_RESERVES_ARG,Proved Natural Gas Reserves - Argentina
+BP/GAS_RESERVES_COL,Proved Natural Gas Reserves - Colombia
+BP/GAS_RESERVES_BOL,Proved Natural Gas Reserves - Bolivia
+BP/GAS_RESERVES_BRA,Proved Natural Gas Reserves - Brazil
+BP/GAS_RESERVES_PER,Proved Natural Gas Reserves - Peru
+BP/GAS_RESERVES_TTO,Proved Natural Gas Reserves - Trinidad & Tobago
+BP/GAS_RESERVES_VEN,Proved Natural Gas Reserves - Venezuela
+BP/GAS_RESERVES_AZE,Proved Natural Gas Reserves - Azerbaijan
+BP/GAS_RESERVES_OSCA,Proved Natural Gas Reserves - Other S. & Cent. America
+BP/GAS_RESERVES_CESA,Proved Natural Gas Reserves - Total S. & Cent. America
+BP/GAS_RESERVES_DNK,Proved Natural Gas Reserves - Denmark
+BP/GAS_RESERVES_DEU,Proved Natural Gas Reserves - Germany
+BP/GAS_RESERVES_ITA,Proved Natural Gas Reserves - Italy
+BP/GAS_RESERVES_NLD,Proved Natural Gas Reserves - Netherlands
+BP/GAS_RESERVES_NOR,Proved Natural Gas Reserves - Norway
+BP/GAS_RESERVES_POL,Proved Natural Gas Reserves - Poland
+BP/GAS_RESERVES_KAZ,Proved Natural Gas Reserves - Kazakhstan
+BP/GAS_RESERVES_RUS,Proved Natural Gas Reserves - Russian Federation
+BP/GAS_RESERVES_ROU,Proved Natural Gas Reserves - Romania
+BP/GAS_RESERVES_TKM,Proved Natural Gas Reserves - Turkmenistan
+BP/GAS_RESERVES_UKR,Proved Natural Gas Reserves - Ukraine
+BP/GAS_RESERVES_GBR,Proved Natural Gas Reserves - United Kingdom
+BP/GAS_RESERVES_UZB,Proved Natural Gas Reserves - Uzbekistan
+BP/GAS_RESERVES_TEUE,Proved Natural Gas Reserves - Total Europe & Eurasia
+BP/GAS_RESERVES_OEUE,Proved Natural Gas Reserves - Other Europe & Eurasia
+BP/GAS_RESERVES_IRQ,Proved Natural Gas Reserves - Iraq
+BP/GAS_RESERVES_BHR,Proved Natural Gas Reserves - Bahrain
+BP/GAS_RESERVES_KWT,Proved Natural Gas Reserves - Kuwait
+BP/GAS_RESERVES_IRN,Proved Natural Gas Reserves - Iran
+BP/GAS_RESERVES_OMN,Proved Natural Gas Reserves - Oman
+BP/GAS_RESERVES_QAT,Proved Natural Gas Reserves - Qatar
+BP/GAS_RESERVES_SAU,Proved Natural Gas Reserves - Saudi Arabia
+BP/GAS_RESERVES_SYR,Proved Natural Gas Reserves - Syria
+BP/GAS_RESERVES_ARE,Proved Natural Gas Reserves - United Arab Emirates
+BP/GAS_RESERVES_YEM,Proved Natural Gas Reserves - Yemen
+BP/GAS_RESERVES_MIDE,Proved Natural Gas Reserves - Total Middle East
+BP/GAS_RESERVES_EGY,Proved Natural Gas Reserves - Egypt
+BP/GAS_RESERVES_DZA,Proved Natural Gas Reserves - Algeria
+BP/GAS_RESERVES_OMDE,Proved Natural Gas Reserves - Other Middle East
+BP/GAS_RESERVES_LBY,Proved Natural Gas Reserves - Libya
+BP/GAS_RESERVES_NGA,Proved Natural Gas Reserves - Nigeria
+BP/GAS_RESERVES_OAFR,Proved Natural Gas Reserves - Other Africa
+BP/GAS_RESERVES_TAFR,Proved Natural Gas Reserves - Total Africa
+BP/GAS_RESERVES_AUS,Proved Natural Gas Reserves - Australia
+BP/GAS_RESERVES_BGD,Proved Natural Gas Reserves - Bangladesh
+BP/GAS_RESERVES_BRN,Proved Natural Gas Reserves - Brunei
+BP/GAS_RESERVES_CHN,Proved Natural Gas Reserves - China
+BP/GAS_RESERVES_IDN,Proved Natural Gas Reserves - Indonesia
+BP/GAS_RESERVES_IND,Proved Natural Gas Reserves - India
+BP/GAS_RESERVES_MYS,Proved Natural Gas Reserves - Malaysia
+BP/GAS_RESERVES_MMR,Proved Natural Gas Reserves - Myanmar
+BP/GAS_RESERVES_PNG,Proved Natural Gas Reserves - Papua New Guinea
+BP/GAS_RESERVES_PAK,Proved Natural Gas Reserves - Pakistan
+BP/GAS_RESERVES_THA,Proved Natural Gas Reserves - Thailand
+BP/GAS_RESERVES_VNM,Proved Natural Gas Reserves - Vietnam
+BP/GAS_RESERVES_OASP,Proved Natural Gas Reserves - Other Asia Pacific
+BP/GAS_RESERVES_TASP,Proved Natural Gas Reserves - Total Asia Pacific
+BP/HYDRO_CONSUM_USA,Hydroelectric Consumption - USA
+BP/GAS_RESERVES_WRLD,Proved Natural Gas Reserves - Total World
+BP/HYDRO_CONSUM_CAN,Hydroelectric Consumption - Canada
+BP/HYDRO_CONSUM_NOAM,Hydroelectric Consumption - Total North America
+BP/HYDRO_CONSUM_MEX,Hydroelectric Consumption - Mexico
+BP/HYDRO_CONSUM_ARG,Hydroelectric Consumption - Argentina
+BP/HYDRO_CONSUM_BRA,Hydroelectric Consumption - Brazil
+BP/HYDRO_CONSUM_CHL,Hydroelectric Consumption - Chile
+BP/HYDRO_CONSUM_COL,Hydroelectric Consumption - Colombia
+BP/HYDRO_CONSUM_ECU,Hydroelectric Consumption - Ecuador
+BP/HYDRO_CONSUM_PER,Hydroelectric Consumption - Peru
+BP/HYDRO_CONSUM_TTO,Hydroelectric Consumption - Trinidad & Tobago
+BP/HYDRO_CONSUM_VEN,Hydroelectric Consumption - Venezuela
+BP/HYDRO_CONSUM_OSCA,Hydroelectric Consumption - Other S. & Cent. America
+BP/HYDRO_CONSUM_CESA,Hydroelectric Consumption - Total S. & Cent. America
+BP/HYDRO_CONSUM_BLR,Hydroelectric Consumption - Belarus
+BP/HYDRO_CONSUM_AUT,Hydroelectric Consumption - Austria
+BP/HYDRO_CONSUM_AZE,Hydroelectric Consumption - Azerbaijan
+BP/HYDRO_CONSUM_BEL,Hydroelectric Consumption - Belgium
+BP/HYDRO_CONSUM_BGR,Hydroelectric Consumption - Bulgaria
+BP/HYDRO_CONSUM_CZE,Hydroelectric Consumption - Czech Republic
+BP/HYDRO_CONSUM_DNK,Hydroelectric Consumption - Denmark
+BP/HYDRO_CONSUM_FIN,Hydroelectric Consumption - Finland
+BP/HYDRO_CONSUM_FRA,Hydroelectric Consumption - France
+BP/HYDRO_CONSUM_DEU,Hydroelectric Consumption - Germany
+BP/HYDRO_CONSUM_IRL,Hydroelectric Consumption - Ireland
+BP/HYDRO_CONSUM_HUN,Hydroelectric Consumption - Hungary
+BP/HYDRO_CONSUM_GRC,Hydroelectric Consumption - Greece
+BP/HYDRO_CONSUM_ITA,Hydroelectric Consumption - Italy
+BP/HYDRO_CONSUM_KAZ,Hydroelectric Consumption - Kazakhstan
+BP/HYDRO_CONSUM_NLD,Hydroelectric Consumption - Netherlands
+BP/HYDRO_CONSUM_LTU,Hydroelectric Consumption - Lithuania
+BP/HYDRO_CONSUM_NOR,Hydroelectric Consumption - Norway
+BP/HYDRO_CONSUM_POL,Hydroelectric Consumption - Poland
+BP/HYDRO_CONSUM_PRT,Hydroelectric Consumption - Portugal
+BP/HYDRO_CONSUM_ROU,Hydroelectric Consumption - Romania
+BP/HYDRO_CONSUM_RUS,Hydroelectric Consumption - Russian Federation
+BP/HYDRO_CONSUM_SVK,Hydroelectric Consumption - Slovakia
+BP/HYDRO_CONSUM_CHE,Hydroelectric Consumption - Switzerland
+BP/HYDRO_CONSUM_SWE,Hydroelectric Consumption - Sweden
+BP/HYDRO_CONSUM_ESP,Hydroelectric Consumption - Spain
+BP/HYDRO_CONSUM_TUR,Hydroelectric Consumption - Turkey
+BP/HYDRO_CONSUM_TKM,Hydroelectric Consumption - Turkmenistan
+BP/HYDRO_CONSUM_UKR,Hydroelectric Consumption - Ukraine
+BP/HYDRO_CONSUM_GBR,Hydroelectric Consumption - United Kingdom
+BP/HYDRO_CONSUM_UZB,Hydroelectric Consumption - Uzbekistan
+BP/HYDRO_CONSUM_OEUE,Hydroelectric Consumption - Other Europe & Eurasia
+BP/HYDRO_CONSUM_TEUE,Hydroelectric Consumption - Total Europe & Eurasia
+BP/HYDRO_CONSUM_IRN,Hydroelectric Consumption - Iran
+BP/HYDRO_CONSUM_KWT,Hydroelectric Consumption - Kuwait
+BP/HYDRO_CONSUM_ISR,Hydroelectric Consumption - Israel
+BP/HYDRO_CONSUM_QAT,Hydroelectric Consumption - Qatar
+BP/HYDRO_CONSUM_SAU,Hydroelectric Consumption - Saudi Arabia
+BP/HYDRO_CONSUM_ARE,Hydroelectric Consumption - United Arab Emirates
+BP/HYDRO_CONSUM_OMDE,Hydroelectric Consumption - Other Middle East
+BP/HYDRO_CONSUM_DZA,Hydroelectric Consumption - Algeria
+BP/HYDRO_CONSUM_EGY,Hydroelectric Consumption - Egypt
+BP/HYDRO_CONSUM_MIDE,Hydroelectric Consumption - Total Middle East
+BP/HYDRO_CONSUM_ZAF,Hydroelectric Consumption - South Africa
+BP/HYDRO_CONSUM_TAFR,Hydroelectric Consumption - Total Africa
+BP/HYDRO_CONSUM_BGD,Hydroelectric Consumption - Bangladesh
+BP/HYDRO_CONSUM_OAFR,Hydroelectric Consumption - Other Africa
+BP/HYDRO_CONSUM_AUS,Hydroelectric Consumption - Australia
+BP/HYDRO_CONSUM_CHN,Hydroelectric Consumption - China
+BP/HYDRO_CONSUM_HKG,Hydroelectric Consumption - China Hong Kong SAR
+BP/HYDRO_CONSUM_IND,Hydroelectric Consumption - India
+BP/HYDRO_CONSUM_JPN,Hydroelectric Consumption - Japan
+BP/HYDRO_CONSUM_IDN,Hydroelectric Consumption - Indonesia
+BP/HYDRO_CONSUM_NZL,Hydroelectric Consumption - New Zealand
+BP/HYDRO_CONSUM_MYS,Hydroelectric Consumption - Malaysia
+BP/HYDRO_CONSUM_PAK,Hydroelectric Consumption - Pakistan
+BP/HYDRO_CONSUM_PHL,Hydroelectric Consumption - Philippines
+BP/HYDRO_CONSUM_KOR,Hydroelectric Consumption - South Korea
+BP/HYDRO_CONSUM_SGP,Hydroelectric Consumption - Singapore
+BP/HYDRO_CONSUM_TWN,Hydroelectric Consumption - Taiwan
+BP/HYDRO_CONSUM_VNM,Hydroelectric Consumption - Vietnam
+BP/HYDRO_CONSUM_THA,Hydroelectric Consumption - Thailand
+BP/HYDRO_CONSUM_TASP,Hydroelectric Consumption - Total Asia Pacific
+BP/HYDRO_CONSUM_OASP,Hydroelectric Consumption - Other Asia Pacific
+BP/HYDRO_CONSUM_WRLD,Hydroelectric Consumption - Total World
+BP/COAL_PRICES,Coal Prices
+BP/GAS_PRICES,Natural Gas Prices (vs. Crude)
+BP/CRUDE_OIL_PRICES,Crude Oil Prices from 1861
+BP/SPOT_CRUDE_OIL_PRICES,Spot Crude Oil Prices
+BP/OIL_REF_MARG,Oil Refining Margins - Regional
+BP/OIL_PROD_D_COL,Oil Production - Daily Average - Colombia
+BP/OIL_PROD_D_MEX,Oil Production - Daily Average - Mexico
+BP/OIL_PROD_D_NOAM,Oil Production - Daily Average - Total North America
+BP/OIL_PROD_D_CAN,Oil Production - Daily Average - Canada
+BP/OIL_PROD_D_TTO,Oil Production - Daily Average - Trinidad & Tobago
+BP/OIL_PROD_D_BRA,Oil Production - Daily Average - Brazil
+BP/OIL_PROD_D_ECU,Oil Production - Daily Average - Ecuador
+BP/OIL_PROD_D_ARG,Oil Production - Daily Average - Argentina
+BP/OIL_PROD_D_USA,Oil Production - Daily Average - USA
+BP/OIL_PROD_D_PER,Oil Production - Daily Average - Peru
+BP/OIL_PROD_D_CESA,Oil Production - Daily Average - Total S. & Cent. America
+BP/OIL_PROD_D_VEN,Oil Production - Daily Average - Venezuela
+BP/OIL_PROD_D_AZE,Oil Production - Daily Average - Azerbaijan
+BP/OIL_PROD_D_DNK,Oil Production - Daily Average - Denmark
+BP/OIL_PROD_D_OSCA,Oil Production - Daily Average - Other S. & Cent. America
+BP/OIL_PROD_D_ITA,Oil Production - Daily Average - Italy
+BP/OIL_PROD_D_KAZ,Oil Production - Daily Average - Kazakhstan
+BP/OIL_PROD_D_NOR,Oil Production - Daily Average - Norway
+BP/OIL_PROD_D_TKM,Oil Production - Daily Average - Turkmenistan
+BP/OIL_PROD_D_ROU,Oil Production - Daily Average - Romania
+BP/OIL_PROD_D_RUS,Oil Production - Daily Average - Russian Federation
+BP/OIL_PROD_D_GBR,Oil Production - Daily Average - United Kingdom
+BP/OIL_PROD_D_UZB,Oil Production - Daily Average - Uzbekistan
+BP/OIL_PROD_D_OEUE,Oil Production - Daily Average - Other Europe & Eurasia
+BP/OIL_PROD_D_IRN,Oil Production - Daily Average - Iran
+BP/OIL_PROD_D_IRQ,Oil Production - Daily Average - Iraq
+BP/OIL_PROD_D_TEUE,Oil Production - Daily Average - Total Europe & Eurasia
+BP/OIL_PROD_D_KWT,Oil Production - Daily Average - Kuwait
+BP/OIL_PROD_D_OMN,Oil Production - Daily Average - Oman
+BP/OIL_PROD_D_QAT,Oil Production - Daily Average - Qatar
+BP/OIL_PROD_D_SYR,Oil Production - Daily Average - Syria
+BP/OIL_PROD_D_ARE,Oil Production - Daily Average - United Arab Emirates
+BP/OIL_PROD_D_YEM,Oil Production - Daily Average - Yemen
+BP/OIL_PROD_D_SAU,Oil Production - Daily Average - Saudi Arabia
+BP/OIL_PROD_D_OMDE,Oil Production - Daily Average - Other Middle East
+BP/OIL_PROD_D_MIDE,Oil Production - Daily Average - Total Middle East
+BP/OIL_PROD_D_DZA,Oil Production - Daily Average - Algeria
+BP/OIL_PROD_D_AGO,Oil Production - Daily Average - Angola
+BP/OIL_PROD_D_COG,Oil Production - Daily Average - Republic of Congo
+BP/OIL_PROD_D_TCD,Oil Production - Daily Average - Chad
+BP/OIL_PROD_D_EGY,Oil Production - Daily Average - Egypt
+BP/OIL_PROD_D_GNQ,Oil Production - Daily Average - Equatorial Guinea
+BP/OIL_PROD_D_GAB,Oil Production - Daily Average - Gabon
+BP/OIL_PROD_D_LBY,Oil Production - Daily Average - Libya
+BP/OIL_PROD_D_NGA,Oil Production - Daily Average - Nigeria
+BP/OIL_PROD_D_SSUD,Oil Production - Daily Average - South Sudan
+BP/OIL_PROD_D_SDN,Oil Production - Daily Average - Sudan
+BP/OIL_PROD_D_TUN,Oil Production - Daily Average - Tunisia
+BP/OIL_PROD_D_TAFR,Oil Production - Daily Average - Total Africa
+BP/OIL_PROD_D_OAFR,Oil Production - Daily Average - Other Africa
+BP/OIL_PROD_D_AUS,Oil Production - Daily Average - Australia
+BP/OIL_PROD_D_BRN,Oil Production - Daily Average - Brunei
+BP/OIL_PROD_D_CHN,Oil Production - Daily Average - China
+BP/OIL_PROD_D_IDN,Oil Production - Daily Average - Indonesia
+BP/OIL_PROD_D_THA,Oil Production - Daily Average - Thailand
+BP/OIL_PROD_D_MYS,Oil Production - Daily Average - Malaysia
+BP/OIL_PROD_D_IND,Oil Production - Daily Average - India
+BP/OIL_PROD_D_VNM,Oil Production - Daily Average - Vietnam
+BP/OIL_PROD_D_OASP,Oil Production - Daily Average - Other Asia Pacific
+BP/OIL_PROD_D_TASP,Oil Production - Daily Average - Total Asia Pacific
+BP/OIL_PROD_D_WRLD,Oil Production - Daily Average - Total World
+BP/OIL_CONSUM_D_USA,Oil Consumption - Daily Average - USA
+BP/OIL_CONSUM_D_CAN,Oil Consumption - Daily Average - Canada
+BP/OIL_CONSUM_D_MEX,Oil Consumption - Daily Average - Mexico
+BP/OIL_CONSUM_D_NOAM,Oil Consumption - Daily Average - Total North America
+BP/OIL_CONSUM_D_ARG,Oil Consumption - Daily Average - Argentina
+BP/OIL_CONSUM_D_BRA,Oil Consumption - Daily Average - Brazil
+BP/OIL_CONSUM_D_CHL,Oil Consumption - Daily Average - Chile
+BP/OIL_CONSUM_D_COL,Oil Consumption - Daily Average - Colombia
+BP/OIL_CONSUM_D_ECU,Oil Consumption - Daily Average - Ecuador
+BP/OIL_CONSUM_D_PER,Oil Consumption - Daily Average - Peru
+BP/OIL_CONSUM_D_TTO,Oil Consumption - Daily Average - Trinidad & Tobago
+BP/OIL_CONSUM_D_VEN,Oil Consumption - Daily Average - Venezuela
+BP/OIL_CONSUM_D_OSCA,Oil Consumption - Daily Average - Other S. & Cent. America
+BP/OIL_CONSUM_D_CESA,Oil Consumption - Daily Average - Total S. & Cent. America
+BP/OIL_CONSUM_D_AUT,Oil Consumption - Daily Average - Austria
+BP/OIL_CONSUM_D_BEL,Oil Consumption - Daily Average - Belgium
+BP/OIL_CONSUM_D_BLR,Oil Consumption - Daily Average - Belarus
+BP/OIL_CONSUM_D_AZE,Oil Consumption - Daily Average - Azerbaijan
+BP/OIL_CONSUM_D_BGR,Oil Consumption - Daily Average - Bulgaria
+BP/OIL_CONSUM_D_CZE,Oil Consumption - Daily Average - Czech Republic
+BP/OIL_CONSUM_D_DNK,Oil Consumption - Daily Average - Denmark
+BP/OIL_CONSUM_D_FIN,Oil Consumption - Daily Average - Finland
+BP/OIL_CONSUM_D_FRA,Oil Consumption - Daily Average - France
+BP/OIL_CONSUM_D_DEU,Oil Consumption - Daily Average - Germany
+BP/OIL_CONSUM_D_GRC,Oil Consumption - Daily Average - Greece
+BP/OIL_CONSUM_D_HUN,Oil Consumption - Daily Average - Hungary
+BP/OIL_CONSUM_D_IRL,Oil Consumption - Daily Average - Ireland
+BP/OIL_CONSUM_D_KAZ,Oil Consumption - Daily Average - Kazakhstan
+BP/OIL_CONSUM_D_ITA,Oil Consumption - Daily Average - Italy
+BP/OIL_CONSUM_D_LTU,Oil Consumption - Daily Average - Lithuania
+BP/OIL_CONSUM_D_NLD,Oil Consumption - Daily Average - Netherlands
+BP/OIL_CONSUM_D_NOR,Oil Consumption - Daily Average - Norway
+BP/OIL_CONSUM_D_POL,Oil Consumption - Daily Average - Poland
+BP/OIL_CONSUM_D_PRT,Oil Consumption - Daily Average - Portugal
+BP/OIL_CONSUM_D_ROU,Oil Consumption - Daily Average - Romania
+BP/OIL_CONSUM_D_RUS,Oil Consumption - Daily Average - Russian Federation
+BP/OIL_CONSUM_D_SVK,Oil Consumption - Daily Average - Slovakia
+BP/OIL_CONSUM_D_ESP,Oil Consumption - Daily Average - Spain
+BP/OIL_CONSUM_D_SWE,Oil Consumption - Daily Average - Sweden
+BP/OIL_CONSUM_D_CHE,Oil Consumption - Daily Average - Switzerland
+BP/OIL_CONSUM_D_TUR,Oil Consumption - Daily Average - Turkey
+BP/OIL_CONSUM_D_GBR,Oil Consumption - Daily Average - United Kingdom
+BP/OIL_CONSUM_D_UKR,Oil Consumption - Daily Average - Ukraine
+BP/OIL_CONSUM_D_TKM,Oil Consumption - Daily Average - Turkmenistan
+BP/OIL_CONSUM_D_UZB,Oil Consumption - Daily Average - Uzbekistan
+BP/OIL_CONSUM_D_OEUE,Oil Consumption - Daily Average - Other Europe & Eurasia
+BP/OIL_CONSUM_D_TEUE,Oil Consumption - Daily Average - Total Europe & Eurasia
+BP/OIL_CONSUM_D_IRN,Oil Consumption - Daily Average - Iran
+BP/OIL_CONSUM_D_ISR,Oil Consumption - Daily Average - Israel
+BP/OIL_CONSUM_D_KWT,Oil Consumption - Daily Average - Kuwait
+BP/OIL_CONSUM_D_QAT,Oil Consumption - Daily Average - Qatar
+BP/OIL_CONSUM_D_SAU,Oil Consumption - Daily Average - Saudi Arabia
+BP/OIL_CONSUM_D_OMDE,Oil Consumption - Daily Average - Other Middle East
+BP/OIL_CONSUM_D_ARE,Oil Consumption - Daily Average - United Arab Emirates
+BP/OIL_CONSUM_D_MIDE,Oil Consumption - Daily Average - Total Middle East
+BP/OIL_CONSUM_D_DZA,Oil Consumption - Daily Average - Algeria
+BP/OIL_CONSUM_D_EGY,Oil Consumption - Daily Average - Egypt
+BP/OIL_CONSUM_D_ZAF,Oil Consumption - Daily Average - South Africa
+BP/OIL_CONSUM_D_OAFR,Oil Consumption - Daily Average - Other Africa
+BP/OIL_CONSUM_D_TAFR,Oil Consumption - Daily Average - Total Africa
+BP/OIL_CONSUM_D_AUS,Oil Consumption - Daily Average - Australia
+BP/OIL_CONSUM_D_BGD,Oil Consumption - Daily Average - Bangladesh
+BP/OIL_CONSUM_D_CHN,Oil Consumption - Daily Average - China
+BP/OIL_CONSUM_D_HKG,Oil Consumption - Daily Average - China Hong Kong SAR
+BP/OIL_CONSUM_D_IND,Oil Consumption - Daily Average - India
+BP/OIL_CONSUM_D_IDN,Oil Consumption - Daily Average - Indonesia
+BP/OIL_CONSUM_D_JPN,Oil Consumption - Daily Average - Japan
+BP/OIL_CONSUM_D_MYS,Oil Consumption - Daily Average - Malaysia
+BP/OIL_CONSUM_D_NZL,Oil Consumption - Daily Average - New Zealand
+BP/OIL_CONSUM_D_PAK,Oil Consumption - Daily Average - Pakistan
+BP/OIL_CONSUM_D_PHL,Oil Consumption - Daily Average - Philippines
+BP/OIL_CONSUM_D_SGP,Oil Consumption - Daily Average - Singapore
+BP/OIL_CONSUM_D_TWN,Oil Consumption - Daily Average - Taiwan
+BP/OIL_CONSUM_D_KOR,Oil Consumption - Daily Average - South Korea
+BP/OIL_CONSUM_D_THA,Oil Consumption - Daily Average - Thailand
+BP/OIL_CONSUM_D_OASP,Oil Consumption - Daily Average - Other Asia Pacific
+BP/OIL_CONSUM_D_VNM,Oil Consumption - Daily Average - Vietnam
+BP/OIL_CONSUM_D_TASP,Oil Consumption - Daily Average - Total Asia Pacific
+BP/OIL_CONSUM_D_WRLD,Oil Consumption - Daily Average - Total World
+BP/BIOFUEL_PROD_D_USA,Biofuel Production - Daily Average - USA
+BP/BIOFUEL_PROD_D_CAN,Biofuel Production - Daily Average - Canada
+BP/BIOFUEL_PROD_D_NOAM,Biofuel Production - Daily Average - Total North America
+BP/BIOFUEL_PROD_D_ARG,Biofuel Production - Daily Average - Argentina
+BP/BIOFUEL_PROD_D_BRA,Biofuel Production - Daily Average - Brazil
+BP/BIOFUEL_PROD_D_COL,Biofuel Production - Daily Average - Colombia
+BP/BIOFUEL_PROD_D_OSCA,Biofuel Production - Daily Average - Other S. & Cent. America
+BP/BIOFUEL_PROD_D_CESA,Biofuel Production - Daily Average - Total S. & Cent. America
+BP/BIOFUEL_PROD_D_AUT,Biofuel Production - Daily Average - Austria
+BP/BIOFUEL_PROD_D_BEL,Biofuel Production - Daily Average - Belgium
+BP/BIOFUEL_PROD_D_FRA,Biofuel Production - Daily Average - France
+BP/BIOFUEL_PROD_D_DEU,Biofuel Production - Daily Average - Germany
+BP/BIOFUEL_PROD_D_ITA,Biofuel Production - Daily Average - Italy
+BP/BIOFUEL_PROD_D_NLD,Biofuel Production - Daily Average - Netherlands
+BP/BIOFUEL_PROD_D_POL,Biofuel Production - Daily Average - Poland
+BP/BIOFUEL_PROD_D_PRT,Biofuel Production - Daily Average - Portugal
+BP/BIOFUEL_PROD_D_ESP,Biofuel Production - Daily Average - Spain
+BP/BIOFUEL_PROD_D_FIN,Biofuel Production - Daily Average - Finland
+BP/BIOFUEL_PROD_D_SWE,Biofuel Production - Daily Average - Sweden
+BP/BIOFUEL_PROD_D_GBR,Biofuel Production - Daily Average - United Kingdom
+BP/BIOFUEL_PROD_D_OEUE,Biofuel Production - Daily Average - Other Europe & Eurasia
+BP/BIOFUEL_PROD_D_TEUE,Biofuel Production - Daily Average - Total Europe & Eurasia
+BP/BIOFUEL_PROD_D_MIDE,Biofuel Production - Daily Average - Total Middle East
+BP/BIOFUEL_PROD_D_AUS,Biofuel Production - Daily Average - Australia
+BP/BIOFUEL_PROD_D_TAFR,Biofuel Production - Daily Average - Total Africa
+BP/BIOFUEL_PROD_D_CHN,Biofuel Production - Daily Average - China
+BP/BIOFUEL_PROD_D_IND,Biofuel Production - Daily Average - India
+BP/BIOFUEL_PROD_D_IDN,Biofuel Production - Daily Average - Indonesia
+BP/BIOFUEL_PROD_D_KOR,Biofuel Production - Daily Average - South Korea
+BP/BIOFUEL_PROD_D_THA,Biofuel Production - Daily Average - Thailand
+BP/BIOFUEL_PROD_D_OASP,Biofuel Production - Daily Average - Other Asia Pacific
+BP/BIOFUEL_PROD_D_TASP,Biofuel Production - Daily Average - Total Asia Pacific
+BP/BIOFUEL_PROD_D_WRLD,Biofuel Production - Daily Average - Total World
+BP/ELEC_GEN_USA,Electricity Generation - USA
+BP/ELEC_GEN_CAN,Electricity Generation - Canada
+BP/ELEC_GEN_NOAM,Electricity Generation - Total North America
+BP/ELEC_GEN_MEX,Electricity Generation - Mexico
+BP/ELEC_GEN_ARG,Electricity Generation - Argentina
+BP/ELEC_GEN_BRA,Electricity Generation - Brazil
+BP/ELEC_GEN_CHL,Electricity Generation - Chile
+BP/ELEC_GEN_COL,Electricity Generation - Colombia
+BP/ELEC_GEN_ECU,Electricity Generation - Ecuador
+BP/ELEC_GEN_PER,Electricity Generation - Peru
+BP/ELEC_GEN_TTO,Electricity Generation - Trinidad & Tobago
+BP/ELEC_GEN_VEN,Electricity Generation - Venezuela
+BP/ELEC_GEN_CESA,Electricity Generation - Total S. & Cent. America
+BP/ELEC_GEN_OSCA,Electricity Generation - Other S. & Cent. America
+BP/ELEC_GEN_AUT,Electricity Generation - Austria
+BP/ELEC_GEN_AZE,Electricity Generation - Azerbaijan
+BP/ELEC_GEN_BLR,Electricity Generation - Belarus
+BP/ELEC_GEN_BEL,Electricity Generation - Belgium
+BP/ELEC_GEN_DNK,Electricity Generation - Denmark
+BP/ELEC_GEN_BGR,Electricity Generation - Bulgaria
+BP/ELEC_GEN_CZE,Electricity Generation - Czech Republic
+BP/ELEC_GEN_FIN,Electricity Generation - Finland
+BP/ELEC_GEN_FRA,Electricity Generation - France
+BP/ELEC_GEN_DEU,Electricity Generation - Germany
+BP/ELEC_GEN_GRC,Electricity Generation - Greece
+BP/ELEC_GEN_HUN,Electricity Generation - Hungary
+BP/ELEC_GEN_IRL,Electricity Generation - Ireland
+BP/ELEC_GEN_ITA,Electricity Generation - Italy
+BP/ELEC_GEN_KAZ,Electricity Generation - Kazakhstan
+BP/ELEC_GEN_LTU,Electricity Generation - Lithuania
+BP/ELEC_GEN_NOR,Electricity Generation - Norway
+BP/ELEC_GEN_NLD,Electricity Generation - Netherlands
+BP/ELEC_GEN_POL,Electricity Generation - Poland
+BP/ELEC_GEN_PRT,Electricity Generation - Portugal
+BP/ELEC_GEN_ROU,Electricity Generation - Romania
+BP/ELEC_GEN_RUS,Electricity Generation - Russian Federation
+BP/ELEC_GEN_SVK,Electricity Generation - Slovakia
+BP/ELEC_GEN_ESP,Electricity Generation - Spain
+BP/ELEC_GEN_SWE,Electricity Generation - Sweden
+BP/ELEC_GEN_TUR,Electricity Generation - Turkey
+BP/ELEC_GEN_CHE,Electricity Generation - Switzerland
+BP/ELEC_GEN_TKM,Electricity Generation - Turkmenistan
+BP/ELEC_GEN_UKR,Electricity Generation - Ukraine
+BP/ELEC_GEN_GBR,Electricity Generation - United Kingdom
+BP/ELEC_GEN_OEUE,Electricity Generation - Other Europe & Eurasia
+BP/ELEC_GEN_IRN,Electricity Generation - Iran
+BP/ELEC_GEN_TEUE,Electricity Generation - Total Europe & Eurasia
+BP/ELEC_GEN_ISR,Electricity Generation - Israel
+BP/ELEC_GEN_KWT,Electricity Generation - Kuwait
+BP/ELEC_GEN_QAT,Electricity Generation - Qatar
+BP/ELEC_GEN_SAU,Electricity Generation - Saudi Arabia
+BP/ELEC_GEN_ARE,Electricity Generation - United Arab Emirates
+BP/ELEC_GEN_OMDE,Electricity Generation - Other Middle East
+BP/ELEC_GEN_UZB,Electricity Generation - Uzbekistan
+BP/ELEC_GEN_MIDE,Electricity Generation - Total Middle East
+BP/ELEC_GEN_DZA,Electricity Generation - Algeria
+BP/ELEC_GEN_EGY,Electricity Generation - Egypt
+BP/ELEC_GEN_OAFR,Electricity Generation - Other Africa
+BP/ELEC_GEN_TAFR,Electricity Generation - Total Africa
+BP/ELEC_GEN_ZAF,Electricity Generation - South Africa
+BP/ELEC_GEN_AUS,Electricity Generation - Australia
+BP/ELEC_GEN_CHN,Electricity Generation - China
+BP/ELEC_GEN_BGD,Electricity Generation - Bangladesh
+BP/ELEC_GEN_HKG,Electricity Generation - China Hong Kong SAR
+BP/ELEC_GEN_IND,Electricity Generation - India
+BP/ELEC_GEN_JPN,Electricity Generation - Japan
+BP/ELEC_GEN_MYS,Electricity Generation - Malaysia
+BP/ELEC_GEN_NZL,Electricity Generation - New Zealand
+BP/ELEC_GEN_IDN,Electricity Generation - Indonesia
+BP/ELEC_GEN_PHL,Electricity Generation - Philippines
+BP/ELEC_GEN_SGP,Electricity Generation - Singapore
+BP/ELEC_GEN_PAK,Electricity Generation - Pakistan
+BP/ELEC_GEN_KOR,Electricity Generation - South Korea
+BP/ELEC_GEN_THA,Electricity Generation - Thailand
+BP/ELEC_GEN_TWN,Electricity Generation - Taiwan
+BP/ELEC_GEN_VNM,Electricity Generation - Vietnam
+BP/ELEC_GEN_OASP,Electricity Generation - Other Asia Pacific
+BP/ELEC_GEN_TASP,Electricity Generation - Total Asia Pacific
+BP/COAL_PROD_USA,Coal Production - USA
+BP/ELEC_GEN_WRLD,Electricity Generation - Total World
+BP/COAL_PROD_CAN,Coal Production - Canada
+BP/COAL_PROD_MEX,Coal Production - Mexico
+BP/COAL_PROD_BRA,Coal Production - Brazil
+BP/COAL_PROD_NOAM,Coal Production - Total North America
+BP/COAL_PROD_COL,Coal Production - Colombia
+BP/COAL_PROD_CZE,Coal Production - Czech Republic
+BP/COAL_PROD_BGR,Coal Production - Bulgaria
+BP/COAL_PROD_CESA,Coal Production - Total S. & Cent. America
+BP/COAL_PROD_VEN,Coal Production - Venezuela
+BP/COAL_PROD_OSCA,Coal Production - Other S. & Cent. America
+BP/COAL_PROD_FRA,Coal Production - France
+BP/COAL_PROD_DEU,Coal Production - Germany
+BP/COAL_PROD_GRC,Coal Production - Greece
+BP/COAL_PROD_KAZ,Coal Production - Kazakhstan
+BP/COAL_PROD_HUN,Coal Production - Hungary
+BP/COAL_PROD_POL,Coal Production - Poland
+BP/COAL_PROD_RUS,Coal Production - Russian Federation
+BP/COAL_PROD_ESP,Coal Production - Spain
+BP/COAL_PROD_ROU,Coal Production - Romania
+BP/COAL_PROD_TUR,Coal Production - Turkey
+BP/COAL_PROD_UKR,Coal Production - Ukraine
+BP/COAL_PROD_GBR,Coal Production - United Kingdom
+BP/COAL_PROD_TEUE,Coal Production - Total Europe & Eurasia
+BP/COAL_PROD_OEUE,Coal Production - Other Europe & Eurasia
+BP/COAL_PROD_MIDE,Coal Production - Total Middle East
+BP/COAL_PROD_TAFR,Coal Production - Total Africa
+BP/COAL_PROD_OAFR,Coal Production - Other Africa
+BP/COAL_PROD_ZAF,Coal Production - South Africa
+BP/COAL_PROD_CHN,Coal Production - China
+BP/COAL_PROD_ZWE,Coal Production - Zimbabwe
+BP/COAL_PROD_AUS,Coal Production - Australia
+BP/COAL_PROD_IND,Coal Production - India
+BP/COAL_PROD_IDN,Coal Production - Indonesia
+BP/COAL_PROD_JPN,Coal Production - Japan
+BP/COAL_PROD_NZL,Coal Production - New Zealand
+BP/COAL_PROD_PAK,Coal Production - Pakistan
+BP/COAL_PROD_KOR,Coal Production - South Korea
+BP/COAL_PROD_THA,Coal Production - Thailand
+BP/COAL_PROD_OASP,Coal Production - Other Asia Pacific
+BP/COAL_PROD_VNM,Coal Production - Vietnam
+BP/COAL_PROD_TASP,Coal Production - Total Asia Pacific
+BP/COAL_PROD_WRLD,Coal Production - Total World
+BP/GAS_CONSUM_USA,Natural Gas Consumption - USA
+BP/GAS_CONSUM_CAN,Natural Gas Consumption - Canada
+BP/GAS_CONSUM_MEX,Natural Gas Consumption - Mexico
+BP/GAS_CONSUM_NOAM,Natural Gas Consumption - Total North America
+BP/GAS_CONSUM_BRA,Natural Gas Consumption - Brazil
+BP/GAS_CONSUM_ARG,Natural Gas Consumption - Argentina
+BP/GAS_CONSUM_CHL,Natural Gas Consumption - Chile
+BP/GAS_CONSUM_COL,Natural Gas Consumption - Colombia
+BP/GAS_CONSUM_ECU,Natural Gas Consumption - Ecuador
+BP/GAS_CONSUM_PER,Natural Gas Consumption - Peru
+BP/GAS_CONSUM_OSCA,Natural Gas Consumption - Other S. & Cent. America
+BP/GAS_CONSUM_VEN,Natural Gas Consumption - Venezuela
+BP/GAS_CONSUM_TTO,Natural Gas Consumption - Trinidad & Tobago
+BP/GAS_CONSUM_CESA,Natural Gas Consumption - Total S. & Cent. America
+BP/GAS_CONSUM_AUT,Natural Gas Consumption - Austria
+BP/GAS_CONSUM_BLR,Natural Gas Consumption - Belarus
+BP/GAS_CONSUM_AZE,Natural Gas Consumption - Azerbaijan
+BP/GAS_CONSUM_BGR,Natural Gas Consumption - Bulgaria
+BP/GAS_CONSUM_BEL,Natural Gas Consumption - Belgium
+BP/GAS_CONSUM_CZE,Natural Gas Consumption - Czech Republic
+BP/GAS_CONSUM_DNK,Natural Gas Consumption - Denmark
+BP/GAS_CONSUM_FIN,Natural Gas Consumption - Finland
+BP/GAS_CONSUM_FRA,Natural Gas Consumption - France
+BP/GAS_CONSUM_DEU,Natural Gas Consumption - Germany
+BP/GAS_CONSUM_GRC,Natural Gas Consumption - Greece
+BP/GAS_CONSUM_IRL,Natural Gas Consumption - Ireland
+BP/GAS_CONSUM_HUN,Natural Gas Consumption - Hungary
+BP/GAS_CONSUM_KAZ,Natural Gas Consumption - Kazakhstan
+BP/GAS_CONSUM_ITA,Natural Gas Consumption - Italy
+BP/GAS_CONSUM_LTU,Natural Gas Consumption - Lithuania
+BP/GAS_CONSUM_NLD,Natural Gas Consumption - Netherlands
+BP/GAS_CONSUM_POL,Natural Gas Consumption - Poland
+BP/GAS_CONSUM_NOR,Natural Gas Consumption - Norway
+BP/GAS_CONSUM_PRT,Natural Gas Consumption - Portugal
+BP/GAS_CONSUM_ROU,Natural Gas Consumption - Romania
+BP/GAS_CONSUM_ESP,Natural Gas Consumption - Spain
+BP/GAS_CONSUM_RUS,Natural Gas Consumption - Russian Federation
+BP/GAS_CONSUM_SVK,Natural Gas Consumption - Slovakia
+BP/GAS_CONSUM_CHE,Natural Gas Consumption - Switzerland
+BP/GAS_CONSUM_SWE,Natural Gas Consumption - Sweden
+BP/GAS_CONSUM_TUR,Natural Gas Consumption - Turkey
+BP/GAS_CONSUM_TKM,Natural Gas Consumption - Turkmenistan
+BP/GAS_CONSUM_UKR,Natural Gas Consumption - Ukraine
+BP/GAS_CONSUM_GBR,Natural Gas Consumption - United Kingdom
+BP/GAS_CONSUM_UZB,Natural Gas Consumption - Uzbekistan
+BP/GAS_CONSUM_OEUE,Natural Gas Consumption - Other Europe & Eurasia
+BP/GAS_CONSUM_TEUE,Natural Gas Consumption - Total Europe & Eurasia
+BP/GAS_CONSUM_IRN,Natural Gas Consumption - Iran
+BP/GAS_CONSUM_ISR,Natural Gas Consumption - Israel
+BP/GAS_CONSUM_KWT,Natural Gas Consumption - Kuwait
+BP/GAS_CONSUM_SAU,Natural Gas Consumption - Saudi Arabia
+BP/GAS_CONSUM_QAT,Natural Gas Consumption - Qatar
+BP/GAS_CONSUM_ARE,Natural Gas Consumption - United Arab Emirates
+BP/GAS_CONSUM_OMDE,Natural Gas Consumption - Other Middle East
+BP/GAS_CONSUM_DZA,Natural Gas Consumption - Algeria
+BP/GAS_CONSUM_EGY,Natural Gas Consumption - Egypt
+BP/GAS_CONSUM_ZAF,Natural Gas Consumption - South Africa
+BP/GAS_CONSUM_OAFR,Natural Gas Consumption - Other Africa
+BP/GAS_CONSUM_TAFR,Natural Gas Consumption - Total Africa
+BP/GAS_CONSUM_AUS,Natural Gas Consumption - Australia
+BP/GAS_CONSUM_BGD,Natural Gas Consumption - Bangladesh
+BP/GAS_CONSUM_CHN,Natural Gas Consumption - China
+BP/GAS_CONSUM_MIDE,Natural Gas Consumption - Total Middle East
+BP/GAS_CONSUM_IND,Natural Gas Consumption - India
+BP/GAS_CONSUM_JPN,Natural Gas Consumption - Japan
+BP/GAS_CONSUM_HKG,Natural Gas Consumption - China Hong Kong SAR
+BP/GAS_CONSUM_MYS,Natural Gas Consumption - Malaysia
+BP/GAS_CONSUM_NZL,Natural Gas Consumption - New Zealand
+BP/GAS_CONSUM_PAK,Natural Gas Consumption - Pakistan
+BP/GAS_CONSUM_SGP,Natural Gas Consumption - Singapore
+BP/GAS_CONSUM_PHL,Natural Gas Consumption - Philippines
+BP/GAS_CONSUM_KOR,Natural Gas Consumption - South Korea
+BP/GAS_CONSUM_IDN,Natural Gas Consumption - Indonesia
+BP/GAS_CONSUM_TWN,Natural Gas Consumption - Taiwan
+BP/GAS_CONSUM_THA,Natural Gas Consumption - Thailand
+BP/GAS_CONSUM_OASP,Natural Gas Consumption - Other Asia Pacific
+BP/GAS_CONSUM_VNM,Natural Gas Consumption - Vietnam
+BP/GAS_CONSUM_WRLD,Natural Gas Consumption - Total World
+BP/GAS_CONSUM_TASP,Natural Gas Consumption - Total Asia Pacific
+BP/GAS_PROD_USA,Natural Gas Production - USA
+BP/GAS_PROD_CAN,Natural Gas Production - Canada
+BP/GAS_PROD_MEX,Natural Gas Production - Mexico
+BP/GAS_PROD_NOAM,Natural Gas Production - Total North America
+BP/GAS_PROD_ARG,Natural Gas Production - Argentina
+BP/GAS_PROD_BRA,Natural Gas Production - Brazil
+BP/GAS_PROD_BOL,Natural Gas Production - Bolivia
+BP/GAS_PROD_COL,Natural Gas Production - Colombia
+BP/GAS_PROD_PER,Natural Gas Production - Peru
+BP/GAS_PROD_VEN,Natural Gas Production - Venezuela
+BP/GAS_PROD_OSCA,Natural Gas Production - Other S. & Cent. America
+BP/GAS_PROD_AZE,Natural Gas Production - Azerbaijan
+BP/GAS_PROD_DNK,Natural Gas Production - Denmark
+BP/GAS_PROD_DEU,Natural Gas Production - Germany
+BP/GAS_PROD_ITA,Natural Gas Production - Italy
+BP/GAS_PROD_KAZ,Natural Gas Production - Kazakhstan
+BP/GAS_PROD_TTO,Natural Gas Production - Trinidad & Tobago
+BP/GAS_PROD_NLD,Natural Gas Production - Netherlands
+BP/GAS_PROD_CESA,Natural Gas Production - Total S. & Cent. America
+BP/GAS_PROD_NOR,Natural Gas Production - Norway
+BP/GAS_PROD_POL,Natural Gas Production - Poland
+BP/GAS_PROD_ROU,Natural Gas Production - Romania
+BP/GAS_PROD_RUS,Natural Gas Production - Russian Federation
+BP/GAS_PROD_UKR,Natural Gas Production - Ukraine
+BP/GAS_PROD_TKM,Natural Gas Production - Turkmenistan
+BP/GAS_PROD_GBR,Natural Gas Production - United Kingdom
+BP/GAS_PROD_UZB,Natural Gas Production - Uzbekistan
+BP/GAS_PROD_OEUE,Natural Gas Production - Other Europe & Eurasia
+BP/GAS_PROD_TEUE,Natural Gas Production - Total Europe & Eurasia
+BP/GAS_PROD_BHR,Natural Gas Production - Bahrain
+BP/GAS_PROD_IRN,Natural Gas Production - Iran
+BP/GAS_PROD_IRQ,Natural Gas Production - Iraq
+BP/GAS_PROD_KWT,Natural Gas Production - Kuwait
+BP/GAS_PROD_SAU,Natural Gas Production - Saudi Arabia
+BP/GAS_PROD_OMN,Natural Gas Production - Oman
+BP/GAS_PROD_QAT,Natural Gas Production - Qatar
+BP/GAS_PROD_SYR,Natural Gas Production - Syria
+BP/GAS_PROD_ARE,Natural Gas Production - United Arab Emirates
+BP/GAS_PROD_YEM,Natural Gas Production - Yemen
+BP/GAS_PROD_MIDE,Natural Gas Production - Total Middle East
+BP/GAS_PROD_OMDE,Natural Gas Production - Other Middle East
+BP/GAS_PROD_DZA,Natural Gas Production - Algeria
+BP/GAS_PROD_EGY,Natural Gas Production - Egypt
+BP/GAS_PROD_LBY,Natural Gas Production - Libya
+BP/GAS_PROD_NGA,Natural Gas Production - Nigeria
+BP/GAS_PROD_OAFR,Natural Gas Production - Other Africa
+BP/GAS_PROD_TAFR,Natural Gas Production - Total Africa
+BP/GAS_PROD_AUS,Natural Gas Production - Australia
+BP/GAS_PROD_BGD,Natural Gas Production - Bangladesh
+BP/GAS_PROD_BRN,Natural Gas Production - Brunei
+BP/GAS_PROD_CHN,Natural Gas Production - China
+BP/GAS_PROD_IND,Natural Gas Production - India
+BP/GAS_PROD_IDN,Natural Gas Production - Indonesia
+BP/GAS_PROD_MMR,Natural Gas Production - Myanmar
+BP/GAS_PROD_MYS,Natural Gas Production - Malaysia
+BP/GAS_PROD_PAK,Natural Gas Production - Pakistan
+BP/GAS_PROD_VNM,Natural Gas Production - Vietnam
+BP/GAS_PROD_THA,Natural Gas Production - Thailand
+BP/GAS_PROD_OASP,Natural Gas Production - Other Asia Pacific
+BP/GAS_PROD_TASP,Natural Gas Production - Total Asia Pacific
+BP/NUC_CONSUM_CAN,Nuclear Power Consumption - Canada
+BP/GAS_PROD_WRLD,Natural Gas Production - Total World
+BP/NUC_CONSUM_USA,Nuclear Power Consumption - USA
+BP/NUC_CONSUM_NOAM,Nuclear Power Consumption - Total North America
+BP/NUC_CONSUM_MEX,Nuclear Power Consumption - Mexico
+BP/NUC_CONSUM_ARG,Nuclear Power Consumption - Argentina
+BP/NUC_CONSUM_BRA,Nuclear Power Consumption - Brazil
+BP/NUC_CONSUM_CHL,Nuclear Power Consumption - Chile
+BP/NUC_CONSUM_ECU,Nuclear Power Consumption - Ecuador
+BP/NUC_CONSUM_COL,Nuclear Power Consumption - Colombia
+BP/NUC_CONSUM_PER,Nuclear Power Consumption - Peru
+BP/NUC_CONSUM_TTO,Nuclear Power Consumption - Trinidad & Tobago
+BP/NUC_CONSUM_VEN,Nuclear Power Consumption - Venezuela
+BP/NUC_CONSUM_OSCA,Nuclear Power Consumption - Other S. & Cent. America
+BP/NUC_CONSUM_AUT,Nuclear Power Consumption - Austria
+BP/NUC_CONSUM_CESA,Nuclear Power Consumption - Total S. & Cent. America
+BP/NUC_CONSUM_BLR,Nuclear Power Consumption - Belarus
+BP/NUC_CONSUM_AZE,Nuclear Power Consumption - Azerbaijan
+BP/NUC_CONSUM_BEL,Nuclear Power Consumption - Belgium
+BP/NUC_CONSUM_DNK,Nuclear Power Consumption - Denmark
+BP/NUC_CONSUM_BGR,Nuclear Power Consumption - Bulgaria
+BP/NUC_CONSUM_CZE,Nuclear Power Consumption - Czech Republic
+BP/NUC_CONSUM_FIN,Nuclear Power Consumption - Finland
+BP/NUC_CONSUM_FRA,Nuclear Power Consumption - France
+BP/NUC_CONSUM_DEU,Nuclear Power Consumption - Germany
+BP/NUC_CONSUM_GRC,Nuclear Power Consumption - Greece
+BP/NUC_CONSUM_HUN,Nuclear Power Consumption - Hungary
+BP/NUC_CONSUM_IRL,Nuclear Power Consumption - Ireland
+BP/NUC_CONSUM_ITA,Nuclear Power Consumption - Italy
+BP/NUC_CONSUM_KAZ,Nuclear Power Consumption - Kazakhstan
+BP/NUC_CONSUM_NLD,Nuclear Power Consumption - Netherlands
+BP/NUC_CONSUM_LTU,Nuclear Power Consumption - Lithuania
+BP/NUC_CONSUM_PRT,Nuclear Power Consumption - Portugal
+BP/NUC_CONSUM_POL,Nuclear Power Consumption - Poland
+BP/NUC_CONSUM_NOR,Nuclear Power Consumption - Norway
+BP/NUC_CONSUM_ROU,Nuclear Power Consumption - Romania
+BP/NUC_CONSUM_RUS,Nuclear Power Consumption - Russian Federation
+BP/NUC_CONSUM_SVK,Nuclear Power Consumption - Slovakia
+BP/NUC_CONSUM_ESP,Nuclear Power Consumption - Spain
+BP/NUC_CONSUM_SWE,Nuclear Power Consumption - Sweden
+BP/NUC_CONSUM_TUR,Nuclear Power Consumption - Turkey
+BP/NUC_CONSUM_CHE,Nuclear Power Consumption - Switzerland
+BP/NUC_CONSUM_TKM,Nuclear Power Consumption - Turkmenistan
+BP/NUC_CONSUM_UKR,Nuclear Power Consumption - Ukraine
+BP/NUC_CONSUM_UZB,Nuclear Power Consumption - Uzbekistan
+BP/NUC_CONSUM_OEUE,Nuclear Power Consumption - Other Europe & Eurasia
+BP/NUC_CONSUM_GBR,Nuclear Power Consumption - United Kingdom
+BP/NUC_CONSUM_TEUE,Nuclear Power Consumption - Total Europe & Eurasia
+BP/NUC_CONSUM_IRN,Nuclear Power Consumption - Iran
+BP/NUC_CONSUM_ISR,Nuclear Power Consumption - Israel
+BP/NUC_CONSUM_KWT,Nuclear Power Consumption - Kuwait
+BP/NUC_CONSUM_QAT,Nuclear Power Consumption - Qatar
+BP/NUC_CONSUM_ARE,Nuclear Power Consumption - United Arab Emirates
+BP/NUC_CONSUM_SAU,Nuclear Power Consumption - Saudi Arabia
+BP/NUC_CONSUM_MIDE,Nuclear Power Consumption - Total Middle East
+BP/NUC_CONSUM_OMDE,Nuclear Power Consumption - Other Middle East
+BP/NUC_CONSUM_DZA,Nuclear Power Consumption - Algeria
+BP/NUC_CONSUM_EGY,Nuclear Power Consumption - Egypt
+BP/NUC_CONSUM_ZAF,Nuclear Power Consumption - South Africa
+BP/NUC_CONSUM_AUS,Nuclear Power Consumption - Australia
+BP/NUC_CONSUM_OAFR,Nuclear Power Consumption - Other Africa
+BP/NUC_CONSUM_TAFR,Nuclear Power Consumption - Total Africa
+BP/NUC_CONSUM_BGD,Nuclear Power Consumption - Bangladesh
+BP/NUC_CONSUM_CHN,Nuclear Power Consumption - China
+BP/NUC_CONSUM_HKG,Nuclear Power Consumption - China Hong Kong SAR
+BP/NUC_CONSUM_IND,Nuclear Power Consumption - India
+BP/NUC_CONSUM_IDN,Nuclear Power Consumption - Indonesia
+BP/NUC_CONSUM_JPN,Nuclear Power Consumption - Japan
+BP/NUC_CONSUM_MYS,Nuclear Power Consumption - Malaysia
+BP/NUC_CONSUM_NZL,Nuclear Power Consumption - New Zealand
+BP/NUC_CONSUM_PAK,Nuclear Power Consumption - Pakistan
+BP/NUC_CONSUM_PHL,Nuclear Power Consumption - Philippines
+BP/NUC_CONSUM_SGP,Nuclear Power Consumption - Singapore
+BP/NUC_CONSUM_THA,Nuclear Power Consumption - Thailand
+BP/NUC_CONSUM_KOR,Nuclear Power Consumption - South Korea
+BP/NUC_CONSUM_TWN,Nuclear Power Consumption - Taiwan
+BP/NUC_CONSUM_VNM,Nuclear Power Consumption - Vietnam
+BP/NUC_CONSUM_OASP,Nuclear Power Consumption - Other Asia Pacific
+BP/NUC_CONSUM_TASP,Nuclear Power Consumption - Total Asia Pacific
+BP/NUC_CONSUM_WRLD,Nuclear Power Consumption - Total World
+BP/SOLAR_CAP_USA,Solar Power Capacity - USA
+BP/SOLAR_CAP_CAN,Solar Power Capacity - Canada
+BP/SOLAR_CAP_MEX,Solar Power Capacity - Mexico
+BP/SOLAR_CAP_NOAM,Solar Power Capacity - Total North America
+BP/SOLAR_CAP_AUT,Solar Power Capacity - Austria
+BP/SOLAR_CAP_BGR,Solar Power Capacity - Bulgaria
+BP/SOLAR_CAP_BEL,Solar Power Capacity - Belgium
+BP/SOLAR_CAP_DNK,Solar Power Capacity - Denmark
+BP/SOLAR_CAP_CZE,Solar Power Capacity - Czech Republic
+BP/SOLAR_CAP_FIN,Solar Power Capacity - Finland
+BP/SOLAR_CAP_FRA,Solar Power Capacity - France
+BP/SOLAR_CAP_DEU,Solar Power Capacity - Germany
+BP/SOLAR_CAP_GRC,Solar Power Capacity - Greece
+BP/SOLAR_CAP_ITA,Solar Power Capacity - Italy
+BP/SOLAR_CAP_NOR,Solar Power Capacity - Norway
+BP/SOLAR_CAP_NLD,Solar Power Capacity - Netherlands
+BP/SOLAR_CAP_PRT,Solar Power Capacity - Portugal
+BP/SOLAR_CAP_ESP,Solar Power Capacity - Spain
+BP/SOLAR_CAP_SVK,Solar Power Capacity - Slovakia
+BP/SOLAR_CAP_CHE,Solar Power Capacity - Switzerland
+BP/SOLAR_CAP_SWE,Solar Power Capacity - Sweden
+BP/SOLAR_CAP_TUR,Solar Power Capacity - Turkey
+BP/SOLAR_CAP_EUR,Solar Power Capacity - Total Europe
+BP/SOLAR_CAP_GBR,Solar Power Capacity - United Kingdom
+BP/SOLAR_CAP_AUS,Solar Power Capacity - Australia
+BP/SOLAR_CAP_CHN,Solar Power Capacity - China
+BP/SOLAR_CAP_ISR,Solar Power Capacity - Israel
+BP/SOLAR_CAP_IND,Solar Power Capacity - India
+BP/SOLAR_CAP_MYS,Solar Power Capacity - Malaysia
+BP/SOLAR_CAP_KOR,Solar Power Capacity - South Korea
+BP/SOLAR_CAP_JPN,Solar Power Capacity - Japan
+BP/SOLAR_CAP_WRLD,Solar Power Capacity - Total World
+BP/WIND_CAP_USA,Wind Power Capacity - USA
+BP/WIND_CAP_CAN,Wind Power Capacity - Canada
+BP/WIND_CAP_NOAM,Wind Power Capacity - Total North America
+BP/WIND_CAP_MEX,Wind Power Capacity - Mexico
+BP/WIND_CAP_BRA,Wind Power Capacity - Brazil
+BP/WIND_CAP_ARG,Wind Power Capacity - Argentina
+BP/WIND_CAP_CESA,Wind Power Capacity - Total S. & Cent. America
+BP/WIND_CAP_CRI,Wind Power Capacity - Costa Rica
+BP/WIND_CAP_OSCA,Wind Power Capacity - Other S. & Cent. America
+BP/WIND_CAP_AUT,Wind Power Capacity - Austria
+BP/WIND_CAP_BEL,Wind Power Capacity - Belgium
+BP/WIND_CAP_BGR,Wind Power Capacity - Bulgaria
+BP/WIND_CAP_DNK,Wind Power Capacity - Denmark
+BP/WIND_CAP_FIN,Wind Power Capacity - Finland
+BP/WIND_CAP_FRA,Wind Power Capacity - France
+BP/WIND_CAP_HUN,Wind Power Capacity - Hungary
+BP/WIND_CAP_DEU,Wind Power Capacity - Germany
+BP/WIND_CAP_GRC,Wind Power Capacity - Greece
+BP/WIND_CAP_IRL,Wind Power Capacity - Ireland
+BP/WIND_CAP_ITA,Wind Power Capacity - Italy
+BP/WIND_CAP_NLD,Wind Power Capacity - Netherlands
+BP/WIND_CAP_NOR,Wind Power Capacity - Norway
+BP/WIND_CAP_PRT,Wind Power Capacity - Portugal
+BP/WIND_CAP_POL,Wind Power Capacity - Poland
+BP/WIND_CAP_ESP,Wind Power Capacity - Spain
+BP/WIND_CAP_ROU,Wind Power Capacity - Romania
+BP/WIND_CAP_SWE,Wind Power Capacity - Sweden
+BP/WIND_CAP_TUR,Wind Power Capacity - Turkey
+BP/WIND_CAP_GBR,Wind Power Capacity - United Kingdom
+BP/WIND_CAP_OEUE,Wind Power Capacity - Other Europe & Eurasia
+BP/WIND_CAP_IRN,Wind Power Capacity - Iran
+BP/WIND_CAP_TEUE,Wind Power Capacity - Total Europe & Eurasia
+BP/WIND_CAP_OMDE,Wind Power Capacity - Other Middle East
+BP/WIND_CAP_MIDE,Wind Power Capacity - Total Middle East
+BP/WIND_CAP_EGY,Wind Power Capacity - Egypt
+BP/WIND_CAP_MAR,Wind Power Capacity - Morocco
+BP/WIND_CAP_TUN,Wind Power Capacity - Tunisia
+BP/WIND_CAP_OAFR,Wind Power Capacity - Other Africa
+BP/WIND_CAP_TAFR,Wind Power Capacity - Total Africa
+BP/WIND_CAP_AUS,Wind Power Capacity - Australia
+BP/WIND_CAP_IND,Wind Power Capacity - India
+BP/WIND_CAP_CHN,Wind Power Capacity - China
+BP/WIND_CAP_JPN,Wind Power Capacity - Japan
+BP/WIND_CAP_KOR,Wind Power Capacity - South Korea
+BP/WIND_CAP_NZL,Wind Power Capacity - New Zealand
+BP/WIND_CAP_TWN,Wind Power Capacity - Taiwan
+BP/WIND_CAP_OASP,Wind Power Capacity - Other Asia Pacific
+BP/WIND_CAP_TASP,Wind Power Capacity - Total Asia Pacific
+BP/WIND_CAP_WRLD,Wind Power Capacity - Total World
+BP/GEO_CAP_AUT,Geothermal Power Capacity - Austria
+BP/GEO_CAP_CHN,Geothermal Power Capacity - China
+BP/GEO_CAP_CRI,Geothermal Power Capacity - Costa Rica
+BP/GEO_CAP_AUS,Geothermal Power Capacity - Australia
+BP/GEO_CAP_SLV,Geothermal Power Capacity - El Salvador
+BP/GEO_CAP_ETH,Geothermal Power Capacity - Ethiopia
+BP/GEO_CAP_FRA,Geothermal Power Capacity - France (Guadeloupe)
+BP/GEO_CAP_DEU,Geothermal Power Capacity - Germany
+BP/GEO_CAP_GTM,Geothermal Power Capacity - Guatemala
+BP/GEO_CAP_ISL,Geothermal Power Capacity - Iceland
+BP/GEO_CAP_IDN,Geothermal Power Capacity - Indonesia
+BP/GEO_CAP_JPN,Geothermal Power Capacity - Japan
+BP/GEO_CAP_KEN,Geothermal Power Capacity - Kenya
+BP/GEO_CAP_ITA,Geothermal Power Capacity - Italy
+BP/GEO_CAP_MEX,Geothermal Power Capacity - Mexico
+BP/GEO_CAP_NIC,Geothermal Power Capacity - Nicaragua
+BP/GEO_CAP_NZL,Geothermal Power Capacity - New Zealand
+BP/GEO_CAP_PNG,Geothermal Power Capacity - Papua New Guinea
+BP/GEO_CAP_PRT,Geothermal Power Capacity - Portugal (The Azores)
+BP/GEO_CAP_PHL,Geothermal Power Capacity - Philippines
+BP/GEO_CAP_RUS,Geothermal Power Capacity - Russia (Kamchatka)
+BP/GEO_CAP_TUR,Geothermal Power Capacity - Turkey
+BP/GEO_CAP_USA,Geothermal Power Capacity - USA
+BP/GEO_CAP_THA,Geothermal Power Capacity - Thailand
+BP/GEO_CAP_WRLD,Geothermal Power Capacity - Total World
+BP/OIL_PROD_USA,Oil Production - USA
+BP/OIL_PROD_CAN,Oil Production - Canada
+BP/OIL_PROD_MEX,Oil Production - Mexico
+BP/OIL_PROD_NOAM,Oil Production - Total North America
+BP/OIL_PROD_ARG,Oil Production - Argentina
+BP/OIL_PROD_BRA,Oil Production - Brazil
+BP/OIL_PROD_COL,Oil Production - Colombia
+BP/OIL_PROD_ECU,Oil Production - Ecuador
+BP/OIL_PROD_PER,Oil Production - Peru
+BP/OIL_PROD_VEN,Oil Production - Venezuela
+BP/OIL_PROD_OSCA,Oil Production - Other S. & Cent. America
+BP/OIL_PROD_CESA,Oil Production - Total S. & Cent. America
+BP/OIL_PROD_AZE,Oil Production - Azerbaijan
+BP/OIL_PROD_TTO,Oil Production - Trinidad & Tobago
+BP/OIL_PROD_DNK,Oil Production - Denmark
+BP/OIL_PROD_ITA,Oil Production - Italy
+BP/OIL_PROD_KAZ,Oil Production - Kazakhstan
+BP/OIL_PROD_ROU,Oil Production - Romania
+BP/OIL_PROD_NOR,Oil Production - Norway
+BP/OIL_PROD_RUS,Oil Production - Russian Federation
+BP/OIL_PROD_TKM,Oil Production - Turkmenistan
+BP/OIL_PROD_GBR,Oil Production - United Kingdom
+BP/OIL_PROD_UZB,Oil Production - Uzbekistan
+BP/OIL_PROD_OEUE,Oil Production - Other Europe & Eurasia
+BP/OIL_PROD_TEUE,Oil Production - Total Europe & Eurasia
+BP/OIL_PROD_IRQ,Oil Production - Iraq
+BP/OIL_PROD_IRN,Oil Production - Iran
+BP/OIL_PROD_OMN,Oil Production - Oman
+BP/OIL_PROD_QAT,Oil Production - Qatar
+BP/OIL_PROD_SAU,Oil Production - Saudi Arabia
+BP/OIL_PROD_KWT,Oil Production - Kuwait
+BP/OIL_PROD_SYR,Oil Production - Syria
+BP/OIL_PROD_ARE,Oil Production - United Arab Emirates
+BP/OIL_PROD_OMDE,Oil Production - Other Middle East
+BP/OIL_PROD_YEM,Oil Production - Yemen
+BP/OIL_PROD_MIDE,Oil Production - Total Middle East
+BP/OIL_PROD_DZA,Oil Production - Algeria
+BP/OIL_PROD_AGO,Oil Production - Angola
+BP/OIL_PROD_TCD,Oil Production - Chad
+BP/OIL_PROD_COG,Oil Production - Republic of Congo
+BP/OIL_PROD_EGY,Oil Production - Egypt
+BP/OIL_PROD_GNQ,Oil Production - Equatorial Guinea
+BP/OIL_PROD_GAB,Oil Production - Gabon
+BP/OIL_PROD_LBY,Oil Production - Libya
+BP/OIL_PROD_NGA,Oil Production - Nigeria
+BP/OIL_PROD_SSUD,Oil Production - South Sudan
+BP/OIL_PROD_SDN,Oil Production - Sudan
+BP/OIL_PROD_TUN,Oil Production - Tunisia
+BP/OIL_PROD_OAFR,Oil Production - Other Africa
+BP/OIL_PROD_AUS,Oil Production - Australia
+BP/OIL_PROD_TAFR,Oil Production - Total Africa
+BP/OIL_PROD_BRN,Oil Production - Brunei
+BP/OIL_PROD_CHN,Oil Production - China
+BP/OIL_PROD_IND,Oil Production - India
+BP/OIL_PROD_IDN,Oil Production - Indonesia
+BP/OIL_PROD_MYS,Oil Production - Malaysia
+BP/OIL_PROD_THA,Oil Production - Thailand
+BP/OIL_PROD_VNM,Oil Production - Vietnam
+BP/OIL_PROD_OASP,Oil Production - Other Asia Pacific
+BP/OIL_PROD_TASP,Oil Production - Total Asia Pacific
+BP/OIL_CONSUM_USA,Oil Consumption - USA
+BP/OIL_PROD_WRLD,Oil Production - Total World
+BP/OIL_CONSUM_CAN,Oil Consumption - Canada
+BP/OIL_CONSUM_MEX,Oil Consumption - Mexico
+BP/OIL_CONSUM_NOAM,Oil Consumption - Total North America
+BP/OIL_CONSUM_ARG,Oil Consumption - Argentina
+BP/OIL_CONSUM_BRA,Oil Consumption - Brazil
+BP/OIL_CONSUM_COL,Oil Consumption - Colombia
+BP/OIL_CONSUM_CHL,Oil Consumption - Chile
+BP/OIL_CONSUM_ECU,Oil Consumption - Ecuador
+BP/OIL_CONSUM_PER,Oil Consumption - Peru
+BP/OIL_CONSUM_TTO,Oil Consumption - Trinidad & Tobago
+BP/OIL_CONSUM_VEN,Oil Consumption - Venezuela
+BP/OIL_CONSUM_OSCA,Oil Consumption - Other S. & Cent. America
+BP/OIL_CONSUM_CESA,Oil Consumption - Total S. & Cent. America
+BP/OIL_CONSUM_AUT,Oil Consumption - Austria
+BP/OIL_CONSUM_AZE,Oil Consumption - Azerbaijan
+BP/OIL_CONSUM_BLR,Oil Consumption - Belarus
+BP/OIL_CONSUM_BGR,Oil Consumption - Bulgaria
+BP/OIL_CONSUM_FIN,Oil Consumption - Finland
+BP/OIL_CONSUM_FRA,Oil Consumption - France
+BP/OIL_CONSUM_DNK,Oil Consumption - Denmark
+BP/OIL_CONSUM_CZE,Oil Consumption - Czech Republic
+BP/OIL_CONSUM_BEL,Oil Consumption - Belgium
+BP/OIL_CONSUM_DEU,Oil Consumption - Germany
+BP/OIL_CONSUM_GRC,Oil Consumption - Greece
+BP/OIL_CONSUM_HUN,Oil Consumption - Hungary
+BP/OIL_CONSUM_IRL,Oil Consumption - Ireland
+BP/OIL_CONSUM_KAZ,Oil Consumption - Kazakhstan
+BP/OIL_CONSUM_POL,Oil Consumption - Poland
+BP/OIL_CONSUM_ITA,Oil Consumption - Italy
+BP/OIL_CONSUM_PRT,Oil Consumption - Portugal
+BP/OIL_CONSUM_NLD,Oil Consumption - Netherlands
+BP/OIL_CONSUM_LTU,Oil Consumption - Lithuania
+BP/OIL_CONSUM_NOR,Oil Consumption - Norway
+BP/OIL_CONSUM_ROU,Oil Consumption - Romania
+BP/OIL_CONSUM_RUS,Oil Consumption - Russian Federation
+BP/OIL_CONSUM_SVK,Oil Consumption - Slovakia
+BP/OIL_CONSUM_TUR,Oil Consumption - Turkey
+BP/OIL_CONSUM_ESP,Oil Consumption - Spain
+BP/OIL_CONSUM_SWE,Oil Consumption - Sweden
+BP/OIL_CONSUM_CHE,Oil Consumption - Switzerland
+BP/OIL_CONSUM_TKM,Oil Consumption - Turkmenistan
+BP/OIL_CONSUM_GBR,Oil Consumption - United Kingdom
+BP/OIL_CONSUM_UKR,Oil Consumption - Ukraine
+BP/OIL_CONSUM_UZB,Oil Consumption - Uzbekistan
+BP/OIL_CONSUM_OEUE,Oil Consumption - Other Europe & Eurasia
+BP/OIL_CONSUM_IRN,Oil Consumption - Iran
+BP/OIL_CONSUM_TEUE,Oil Consumption - Total Europe & Eurasia
+BP/OIL_CONSUM_SAU,Oil Consumption - Saudi Arabia
+BP/OIL_CONSUM_QAT,Oil Consumption - Qatar
+BP/OIL_CONSUM_KWT,Oil Consumption - Kuwait
+BP/OIL_CONSUM_OMDE,Oil Consumption - Other Middle East
+BP/OIL_CONSUM_ISR,Oil Consumption - Israel
+BP/OIL_CONSUM_ARE,Oil Consumption - United Arab Emirates
+BP/OIL_CONSUM_MIDE,Oil Consumption - Total Middle East
+BP/OIL_CONSUM_DZA,Oil Consumption - Algeria
+BP/OIL_CONSUM_ZAF,Oil Consumption - South Africa
+BP/OIL_CONSUM_EGY,Oil Consumption - Egypt
+BP/OIL_CONSUM_OAFR,Oil Consumption - Other Africa
+BP/OIL_CONSUM_TAFR,Oil Consumption - Total Africa
+BP/OIL_CONSUM_BGD,Oil Consumption - Bangladesh
+BP/OIL_CONSUM_AUS,Oil Consumption - Australia
+BP/OIL_CONSUM_HKG,Oil Consumption - China Hong Kong SAR
+BP/OIL_CONSUM_CHN,Oil Consumption - China
+BP/OIL_CONSUM_IND,Oil Consumption - India
+BP/OIL_CONSUM_IDN,Oil Consumption - Indonesia
+BP/OIL_CONSUM_JPN,Oil Consumption - Japan
+BP/OIL_CONSUM_MYS,Oil Consumption - Malaysia
+BP/OIL_CONSUM_NZL,Oil Consumption - New Zealand
+BP/OIL_CONSUM_PAK,Oil Consumption - Pakistan
+BP/OIL_CONSUM_PHL,Oil Consumption - Philippines
+BP/OIL_CONSUM_TWN,Oil Consumption - Taiwan
+BP/OIL_CONSUM_KOR,Oil Consumption - South Korea
+BP/OIL_CONSUM_SGP,Oil Consumption - Singapore
+BP/OIL_CONSUM_THA,Oil Consumption - Thailand
+BP/OIL_CONSUM_VNM,Oil Consumption - Vietnam
+BP/OIL_CONSUM_OASP,Oil Consumption - Other Asia Pacific
+BP/OIL_CONSUM_TASP,Oil Consumption - Total Asia Pacific
+BP/OIL_CONSUM_WRLD,Oil Consumption - Total World
+BP/OIL_REF_CAP_USA,Oil Refinery Capacity - USA
+BP/OIL_REF_CAP_CAN,Oil Refinery Capacity - Canada
+BP/OIL_REF_CAP_MEX,Oil Refinery Capacity - Mexico
+BP/OIL_REF_CAP_ARG,Oil Refinery Capacity - Argentina
+BP/OIL_REF_CAP_NOAM,Oil Refinery Capacity - Total North America
+BP/OIL_REF_CAP_BRA,Oil Refinery Capacity - Brazil
+BP/OIL_REF_CAP_NLDA,Oil Refinery Capacity - Netherlands Antilles
+BP/OIL_REF_CAP_VEN,Oil Refinery Capacity - Venezuela
+BP/OIL_REF_CAP_OSCA,Oil Refinery Capacity - Other S. & Cent. America
+BP/OIL_REF_CAP_BEL,Oil Refinery Capacity - Belgium
+BP/OIL_REF_CAP_CESA,Oil Refinery Capacity - Total S. & Cent. America
+BP/OIL_REF_CAP_FRA,Oil Refinery Capacity - France
+BP/OIL_REF_CAP_DEU,Oil Refinery Capacity - Germany
+BP/OIL_REF_CAP_GRC,Oil Refinery Capacity - Greece
+BP/OIL_REF_CAP_ITA,Oil Refinery Capacity - Italy
+BP/OIL_REF_CAP_NLD,Oil Refinery Capacity - Netherlands
+BP/OIL_REF_CAP_NOR,Oil Refinery Capacity - Norway
+BP/OIL_REF_CAP_RUS,Oil Refinery Capacity - Russian Federation
+BP/OIL_REF_CAP_ESP,Oil Refinery Capacity - Spain
+BP/OIL_REF_CAP_SWE,Oil Refinery Capacity - Sweden
+BP/OIL_REF_CAP_TUR,Oil Refinery Capacity - Turkey
+BP/OIL_REF_CAP_GBR,Oil Refinery Capacity - United Kingdom
+BP/OIL_REF_CAP_OEUE,Oil Refinery Capacity - Other Europe & Eurasia
+BP/OIL_REF_CAP_TEUE,Oil Refinery Capacity - Total Europe & Eurasia
+BP/OIL_REF_CAP_IRN,Oil Refinery Capacity - Iran
+BP/OIL_REF_CAP_IRQ,Oil Refinery Capacity - Iraq
+BP/OIL_REF_CAP_KWT,Oil Refinery Capacity - Kuwait
+BP/OIL_REF_CAP_SAU,Oil Refinery Capacity - Saudi Arabia
+BP/OIL_REF_CAP_ARE,Oil Refinery Capacity - United Arab Emirates
+BP/OIL_REF_CAP_OMDE,Oil Refinery Capacity - Other Middle East
+BP/OIL_REF_CAP_TAFR,Oil Refinery Capacity - Total Africa
+BP/OIL_REF_CAP_MIDE,Oil Refinery Capacity - Total Middle East
+BP/OIL_REF_CAP_AUS,Oil Refinery Capacity - Australia
+BP/OIL_REF_CAP_CHN,Oil Refinery Capacity - China
+BP/OIL_REF_CAP_IND,Oil Refinery Capacity - India
+BP/OIL_REF_CAP_IDN,Oil Refinery Capacity - Indonesia
+BP/OIL_REF_CAP_SGP,Oil Refinery Capacity - Singapore
+BP/OIL_REF_CAP_JPN,Oil Refinery Capacity - Japan
+BP/OIL_REF_CAP_KOR,Oil Refinery Capacity - South Korea
+BP/OIL_REF_CAP_TWN,Oil Refinery Capacity - Taiwan
+BP/OIL_REF_CAP_OASP,Oil Refinery Capacity - Other Asia Pacific
+BP/OIL_REF_CAP_THA,Oil Refinery Capacity - Thailand
+BP/OIL_REF_CAP_TASP,Oil Refinery Capacity - Total Asia Pacific
+BP/OIL_REF_CAP_WRLD,Oil Refinery Capacity - Total World
+BP/OIL_REF_THR_MEX,Oil Refinery Throughputs - Mexico
+BP/OIL_REF_THR_CAN,Oil Refinery Throughputs - Canada
+BP/OIL_REF_THR_CESA,Oil Refinery Throughputs - S. & Cent. America
+BP/OIL_REF_THR_USA,Oil Refinery Throughputs - USA
+BP/OIL_REF_THR_TEUE,Oil Refinery Throughputs - Europe & Eurasia
+BP/OIL_REF_THR_MIDE,Oil Refinery Throughputs - Middle East
+BP/OIL_REF_THR_TAFR,Oil Refinery Throughputs - Africa
+BP/OIL_REF_THR_AUSA,Oil Refinery Throughputs - Australasia
+BP/OIL_REF_THR_CHN,Oil Refinery Throughputs - China
+BP/OIL_REF_THR_IND,Oil Refinery Throughputs - India
+BP/OIL_REF_THR_JPN,Oil Refinery Throughputs - Japan
+BP/OIL_REF_THR_WRLD,Oil Refinery Throughputs - Total World
+BP/GAS_PROD_D_USA,Natural Gas Production - Daily Average - USA
+BP/GAS_PROD_D_CAN,Natural Gas Production - Daily Average - Canada
+BP/GAS_PROD_D_MEX,Natural Gas Production - Daily Average - Mexico
+BP/OIL_REF_THR_OASP,Oil Refinery Throughputs - Other Asia Pacific
+BP/GAS_PROD_D_NOAM,Natural Gas Production - Daily Average - Total North America
+BP/GAS_PROD_D_ARG,Natural Gas Production - Daily Average - Argentina
+BP/GAS_PROD_D_BOL,Natural Gas Production - Daily Average - Bolivia
+BP/GAS_PROD_D_BRA,Natural Gas Production - Daily Average - Brazil
+BP/GAS_PROD_D_COL,Natural Gas Production - Daily Average - Colombia
+BP/GAS_PROD_D_PER,Natural Gas Production - Daily Average - Peru
+BP/GAS_PROD_D_TTO,Natural Gas Production - Daily Average - Trinidad & Tobago
+BP/GAS_PROD_D_VEN,Natural Gas Production - Daily Average - Venezuela
+BP/GAS_PROD_D_OSCA,Natural Gas Production - Daily Average - Other S. & Cent. America
+BP/GAS_PROD_D_AZE,Natural Gas Production - Daily Average - Azerbaijan
+BP/GAS_PROD_D_CESA,Natural Gas Production - Daily Average - Total S. & Cent. America
+BP/GAS_PROD_D_DNK,Natural Gas Production - Daily Average - Denmark
+BP/GAS_PROD_D_DEU,Natural Gas Production - Daily Average - Germany
+BP/GAS_PROD_D_KAZ,Natural Gas Production - Daily Average - Kazakhstan
+BP/GAS_PROD_D_NLD,Natural Gas Production - Daily Average - Netherlands
+BP/GAS_PROD_D_ITA,Natural Gas Production - Daily Average - Italy
+BP/GAS_PROD_D_NOR,Natural Gas Production - Daily Average - Norway
+BP/GAS_PROD_D_POL,Natural Gas Production - Daily Average - Poland
+BP/GAS_PROD_D_ROU,Natural Gas Production - Daily Average - Romania
+BP/GAS_PROD_D_RUS,Natural Gas Production - Daily Average - Russian Federation
+BP/GAS_PROD_D_TKM,Natural Gas Production - Daily Average - Turkmenistan
+BP/GAS_PROD_D_UKR,Natural Gas Production - Daily Average - Ukraine
+BP/GAS_PROD_D_GBR,Natural Gas Production - Daily Average - United Kingdom
+BP/GAS_PROD_D_UZB,Natural Gas Production - Daily Average - Uzbekistan
+BP/GAS_PROD_D_OEUE,Natural Gas Production - Daily Average - Other Europe & Eurasia
+BP/GAS_PROD_D_TEUE,Natural Gas Production - Daily Average - Total Europe & Eurasia
+BP/GAS_PROD_D_BHR,Natural Gas Production - Daily Average - Bahrain
+BP/GAS_PROD_D_IRN,Natural Gas Production - Daily Average - Iran
+BP/GAS_PROD_D_IRQ,Natural Gas Production - Daily Average - Iraq
+BP/GAS_PROD_D_KWT,Natural Gas Production - Daily Average - Kuwait
+BP/GAS_PROD_D_OMN,Natural Gas Production - Daily Average - Oman
+BP/GAS_PROD_D_QAT,Natural Gas Production - Daily Average - Qatar
+BP/GAS_PROD_D_SAU,Natural Gas Production - Daily Average - Saudi Arabia
+BP/GAS_PROD_D_SYR,Natural Gas Production - Daily Average - Syria
+BP/GAS_PROD_D_ARE,Natural Gas Production - Daily Average - United Arab Emirates
+BP/GAS_PROD_D_YEM,Natural Gas Production - Daily Average - Yemen
+BP/GAS_PROD_D_OMDE,Natural Gas Production - Daily Average - Other Middle East
+BP/GAS_PROD_D_MIDE,Natural Gas Production - Daily Average - Total Middle East
+BP/GAS_PROD_D_DZA,Natural Gas Production - Daily Average - Algeria
+BP/GAS_PROD_D_EGY,Natural Gas Production - Daily Average - Egypt
+BP/GAS_PROD_D_LBY,Natural Gas Production - Daily Average - Libya
+BP/GAS_PROD_D_NGA,Natural Gas Production - Daily Average - Nigeria
+BP/GAS_PROD_D_OAFR,Natural Gas Production - Daily Average - Other Africa
+BP/GAS_PROD_D_TAFR,Natural Gas Production - Daily Average - Total Africa
+BP/GAS_PROD_D_AUS,Natural Gas Production - Daily Average - Australia
+BP/GAS_PROD_D_BGD,Natural Gas Production - Daily Average - Bangladesh
+BP/GAS_PROD_D_BRN,Natural Gas Production - Daily Average - Brunei
+BP/GAS_PROD_D_CHN,Natural Gas Production - Daily Average - China
+BP/GAS_PROD_D_IND,Natural Gas Production - Daily Average - India
+BP/GAS_PROD_D_IDN,Natural Gas Production - Daily Average - Indonesia
+BP/GAS_PROD_D_MYS,Natural Gas Production - Daily Average - Malaysia
+BP/GAS_PROD_D_MMR,Natural Gas Production - Daily Average - Myanmar
+BP/GAS_PROD_D_PAK,Natural Gas Production - Daily Average - Pakistan
+BP/GAS_PROD_D_THA,Natural Gas Production - Daily Average - Thailand
+BP/GAS_PROD_D_VNM,Natural Gas Production - Daily Average - Vietnam
+BP/GAS_PROD_D_OASP,Natural Gas Production - Daily Average - Other Asia Pacific
+BP/GAS_PROD_D_TASP,Natural Gas Production - Daily Average - Total Asia Pacific
+BP/GAS_PROD_D_WRLD,Natural Gas Production - Daily Average - Total World
+BP/GAS_PROD_O_USA,Natural Gas Production - Oil Equivalent - USA
+BP/GAS_PROD_O_CAN,Natural Gas Production - Oil Equivalent - Canada
+BP/GAS_PROD_O_NOAM,Natural Gas Production - Oil Equivalent - Total North America
+BP/GAS_PROD_O_MEX,Natural Gas Production - Oil Equivalent - Mexico
+BP/GAS_PROD_O_ARG,Natural Gas Production - Oil Equivalent - Argentina
+BP/GAS_PROD_O_BOL,Natural Gas Production - Oil Equivalent - Bolivia
+BP/GAS_PROD_O_BRA,Natural Gas Production - Oil Equivalent - Brazil
+BP/GAS_PROD_O_COL,Natural Gas Production - Oil Equivalent - Colombia
+BP/GAS_PROD_O_PER,Natural Gas Production - Oil Equivalent - Peru
+BP/GAS_PROD_O_TTO,Natural Gas Production - Oil Equivalent - Trinidad & Tobago
+BP/GAS_PROD_O_OSCA,Natural Gas Production - Oil Equivalent - Other S. & Cent. America
+BP/GAS_PROD_O_VEN,Natural Gas Production - Oil Equivalent - Venezuela
+BP/GAS_PROD_O_CESA,Natural Gas Production - Oil Equivalent - Total S. & Cent. America
+BP/GAS_PROD_O_DNK,Natural Gas Production - Oil Equivalent - Denmark
+BP/GAS_PROD_O_AZE,Natural Gas Production - Oil Equivalent - Azerbaijan
+BP/GAS_PROD_O_DEU,Natural Gas Production - Oil Equivalent - Germany
+BP/GAS_PROD_O_ITA,Natural Gas Production - Oil Equivalent - Italy
+BP/GAS_PROD_O_KAZ,Natural Gas Production - Oil Equivalent - Kazakhstan
+BP/GAS_PROD_O_NLD,Natural Gas Production - Oil Equivalent - Netherlands
+BP/GAS_PROD_O_NOR,Natural Gas Production - Oil Equivalent - Norway
+BP/GAS_PROD_O_TKM,Natural Gas Production - Oil Equivalent - Turkmenistan
+BP/GAS_PROD_O_POL,Natural Gas Production - Oil Equivalent - Poland
+BP/GAS_PROD_O_UZB,Natural Gas Production - Oil Equivalent - Uzbekistan
+BP/GAS_PROD_O_GBR,Natural Gas Production - Oil Equivalent - United Kingdom
+BP/GAS_PROD_O_ROU,Natural Gas Production - Oil Equivalent - Romania
+BP/GAS_PROD_O_UKR,Natural Gas Production - Oil Equivalent - Ukraine
+BP/GAS_PROD_O_RUS,Natural Gas Production - Oil Equivalent - Russian Federation
+BP/GAS_PROD_O_TEUE,Natural Gas Production - Oil Equivalent - Total Europe & Eurasia
+BP/GAS_PROD_O_OEUE,Natural Gas Production - Oil Equivalent - Other Europe & Eurasia
+BP/GAS_PROD_O_BHR,Natural Gas Production - Oil Equivalent - Bahrain
+BP/GAS_PROD_O_IRQ,Natural Gas Production - Oil Equivalent - Iraq
+BP/GAS_PROD_O_IRN,Natural Gas Production - Oil Equivalent - Iran
+BP/GAS_PROD_O_KWT,Natural Gas Production - Oil Equivalent - Kuwait
+BP/GAS_PROD_O_OMN,Natural Gas Production - Oil Equivalent - Oman
+BP/GAS_PROD_O_SYR,Natural Gas Production - Oil Equivalent - Syria
+BP/GAS_PROD_O_SAU,Natural Gas Production - Oil Equivalent - Saudi Arabia
+BP/GAS_PROD_O_QAT,Natural Gas Production - Oil Equivalent - Qatar
+BP/GAS_PROD_O_YEM,Natural Gas Production - Oil Equivalent - Yemen
+BP/GAS_PROD_O_ARE,Natural Gas Production - Oil Equivalent - United Arab Emirates
+BP/GAS_PROD_O_OMDE,Natural Gas Production - Oil Equivalent - Other Middle East
+BP/GAS_PROD_O_MIDE,Natural Gas Production - Oil Equivalent - Total Middle East
+BP/GAS_PROD_O_DZA,Natural Gas Production - Oil Equivalent - Algeria
+BP/GAS_PROD_O_NGA,Natural Gas Production - Oil Equivalent - Nigeria
+BP/GAS_PROD_O_LBY,Natural Gas Production - Oil Equivalent - Libya
+BP/GAS_PROD_O_EGY,Natural Gas Production - Oil Equivalent - Egypt
+BP/GAS_PROD_O_TAFR,Natural Gas Production - Oil Equivalent - Total Africa
+BP/GAS_PROD_O_OAFR,Natural Gas Production - Oil Equivalent - Other Africa
+BP/GAS_PROD_O_AUS,Natural Gas Production - Oil Equivalent - Australia
+BP/GAS_PROD_O_BGD,Natural Gas Production - Oil Equivalent - Bangladesh
+BP/GAS_PROD_O_BRN,Natural Gas Production - Oil Equivalent - Brunei
+BP/GAS_PROD_O_CHN,Natural Gas Production - Oil Equivalent - China
+BP/GAS_PROD_O_IND,Natural Gas Production - Oil Equivalent - India
+BP/GAS_PROD_O_IDN,Natural Gas Production - Oil Equivalent - Indonesia
+BP/GAS_PROD_O_MMR,Natural Gas Production - Oil Equivalent - Myanmar
+BP/GAS_PROD_O_MYS,Natural Gas Production - Oil Equivalent - Malaysia
+BP/GAS_PROD_O_PAK,Natural Gas Production - Oil Equivalent - Pakistan
+BP/GAS_PROD_O_THA,Natural Gas Production - Oil Equivalent - Thailand
+BP/GAS_PROD_O_VNM,Natural Gas Production - Oil Equivalent - Vietnam
+BP/GAS_PROD_O_OASP,Natural Gas Production - Oil Equivalent - Other Asia Pacific
+BP/GAS_PROD_O_TASP,Natural Gas Production - Oil Equivalent - Total Asia Pacific
+BP/GAS_PROD_O_WRLD,Natural Gas Production - Oil Equivalent - Total World
+BP/GAS_CONSUM_D_USA,Natural Gas Consumption - Daily Average - USA
+BP/GAS_CONSUM_D_NOAM,Natural Gas Consumption - Daily Average - Total North America
+BP/GAS_CONSUM_D_CAN,Natural Gas Consumption - Daily Average - Canada
+BP/GAS_CONSUM_D_ARG,Natural Gas Consumption - Daily Average - Argentina
+BP/GAS_CONSUM_D_BRA,Natural Gas Consumption - Daily Average - Brazil
+BP/GAS_CONSUM_D_CHL,Natural Gas Consumption - Daily Average - Chile
+BP/GAS_CONSUM_D_COL,Natural Gas Consumption - Daily Average - Colombia
+BP/GAS_CONSUM_D_MEX,Natural Gas Consumption - Daily Average - Mexico
+BP/GAS_CONSUM_D_PER,Natural Gas Consumption - Daily Average - Peru
+BP/GAS_CONSUM_D_ECU,Natural Gas Consumption - Daily Average - Ecuador
+BP/GAS_CONSUM_D_TTO,Natural Gas Consumption - Daily Average - Trinidad & Tobago
+BP/GAS_CONSUM_D_VEN,Natural Gas Consumption - Daily Average - Venezuela
+BP/GAS_CONSUM_D_CESA,Natural Gas Consumption - Daily Average - Total S. & Cent. America
+BP/GAS_CONSUM_D_OSCA,Natural Gas Consumption - Daily Average - Other S. & Cent. America
+BP/GAS_CONSUM_D_AUT,Natural Gas Consumption - Daily Average - Austria
+BP/GAS_CONSUM_D_AZE,Natural Gas Consumption - Daily Average - Azerbaijan
+BP/GAS_CONSUM_D_BLR,Natural Gas Consumption - Daily Average - Belarus
+BP/GAS_CONSUM_D_BEL,Natural Gas Consumption - Daily Average - Belgium
+BP/GAS_CONSUM_D_BGR,Natural Gas Consumption - Daily Average - Bulgaria
+BP/GAS_CONSUM_D_CZE,Natural Gas Consumption - Daily Average - Czech Republic
+BP/GAS_CONSUM_D_DNK,Natural Gas Consumption - Daily Average - Denmark
+BP/GAS_CONSUM_D_FIN,Natural Gas Consumption - Daily Average - Finland
+BP/GAS_CONSUM_D_FRA,Natural Gas Consumption - Daily Average - France
+BP/GAS_CONSUM_D_DEU,Natural Gas Consumption - Daily Average - Germany
+BP/GAS_CONSUM_D_GRC,Natural Gas Consumption - Daily Average - Greece
+BP/GAS_CONSUM_D_HUN,Natural Gas Consumption - Daily Average - Hungary
+BP/GAS_CONSUM_D_IRL,Natural Gas Consumption - Daily Average - Ireland
+BP/GAS_CONSUM_D_ITA,Natural Gas Consumption - Daily Average - Italy
+BP/GAS_CONSUM_D_KAZ,Natural Gas Consumption - Daily Average - Kazakhstan
+BP/GAS_CONSUM_D_LTU,Natural Gas Consumption - Daily Average - Lithuania
+BP/GAS_CONSUM_D_NLD,Natural Gas Consumption - Daily Average - Netherlands
+BP/GAS_CONSUM_D_NOR,Natural Gas Consumption - Daily Average - Norway
+BP/GAS_CONSUM_D_POL,Natural Gas Consumption - Daily Average - Poland
+BP/GAS_CONSUM_D_PRT,Natural Gas Consumption - Daily Average - Portugal
+BP/GAS_CONSUM_D_ROU,Natural Gas Consumption - Daily Average - Romania
+BP/GAS_CONSUM_D_RUS,Natural Gas Consumption - Daily Average - Russian Federation
+BP/GAS_CONSUM_D_SVK,Natural Gas Consumption - Daily Average - Slovakia
+BP/GAS_CONSUM_D_ESP,Natural Gas Consumption - Daily Average - Spain
+BP/GAS_CONSUM_D_SWE,Natural Gas Consumption - Daily Average - Sweden
+BP/GAS_CONSUM_D_CHE,Natural Gas Consumption - Daily Average - Switzerland
+BP/GAS_CONSUM_D_TUR,Natural Gas Consumption - Daily Average - Turkey
+BP/GAS_CONSUM_D_TKM,Natural Gas Consumption - Daily Average - Turkmenistan
+BP/GAS_CONSUM_D_UKR,Natural Gas Consumption - Daily Average - Ukraine
+BP/GAS_CONSUM_D_GBR,Natural Gas Consumption - Daily Average - United Kingdom
+BP/GAS_CONSUM_D_UZB,Natural Gas Consumption - Daily Average - Uzbekistan
+BP/GAS_CONSUM_D_OEUE,Natural Gas Consumption - Daily Average - Other Europe & Eurasia
+BP/GAS_CONSUM_D_TEUE,Natural Gas Consumption - Daily Average - Total Europe & Eurasia
+BP/GAS_CONSUM_D_IRN,Natural Gas Consumption - Daily Average - Iran
+BP/GAS_CONSUM_D_ISR,Natural Gas Consumption - Daily Average - Israel
+BP/GAS_CONSUM_D_KWT,Natural Gas Consumption - Daily Average - Kuwait
+BP/GAS_CONSUM_D_QAT,Natural Gas Consumption - Daily Average - Qatar
+BP/GAS_CONSUM_D_SAU,Natural Gas Consumption - Daily Average - Saudi Arabia
+BP/GAS_CONSUM_D_ARE,Natural Gas Consumption - Daily Average - United Arab Emirates
+BP/GAS_CONSUM_D_MIDE,Natural Gas Consumption - Daily Average - Total Middle East
+BP/GAS_CONSUM_D_OMDE,Natural Gas Consumption - Daily Average - Other Middle East
+BP/GAS_CONSUM_D_EGY,Natural Gas Consumption - Daily Average - Egypt
+BP/GAS_CONSUM_D_DZA,Natural Gas Consumption - Daily Average - Algeria
+BP/GAS_CONSUM_D_ZAF,Natural Gas Consumption - Daily Average - South Africa
+BP/GAS_CONSUM_D_OAFR,Natural Gas Consumption - Daily Average - Other Africa
+BP/GAS_CONSUM_D_TAFR,Natural Gas Consumption - Daily Average - Total Africa
+BP/GAS_CONSUM_D_BGD,Natural Gas Consumption - Daily Average - Bangladesh
+BP/GAS_CONSUM_D_AUS,Natural Gas Consumption - Daily Average - Australia
+BP/GAS_CONSUM_D_CHN,Natural Gas Consumption - Daily Average - China
+BP/GAS_CONSUM_D_IDN,Natural Gas Consumption - Daily Average - Indonesia
+BP/GAS_CONSUM_D_HKG,Natural Gas Consumption - Daily Average - China Hong Kong SAR
+BP/GAS_CONSUM_D_IND,Natural Gas Consumption - Daily Average - India
+BP/GAS_CONSUM_D_JPN,Natural Gas Consumption - Daily Average - Japan
+BP/GAS_CONSUM_D_MYS,Natural Gas Consumption - Daily Average - Malaysia
+BP/GAS_CONSUM_D_NZL,Natural Gas Consumption - Daily Average - New Zealand
+BP/GAS_CONSUM_D_PHL,Natural Gas Consumption - Daily Average - Philippines
+BP/GAS_CONSUM_D_PAK,Natural Gas Consumption - Daily Average - Pakistan
+BP/GAS_CONSUM_D_SGP,Natural Gas Consumption - Daily Average - Singapore
+BP/GAS_CONSUM_D_KOR,Natural Gas Consumption - Daily Average - South Korea
+BP/GAS_CONSUM_D_TWN,Natural Gas Consumption - Daily Average - Taiwan
+BP/GAS_CONSUM_D_THA,Natural Gas Consumption - Daily Average - Thailand
+BP/GAS_CONSUM_D_VNM,Natural Gas Consumption - Daily Average - Vietnam
+BP/GAS_CONSUM_D_OASP,Natural Gas Consumption - Daily Average - Other Asia Pacific
+BP/GAS_CONSUM_D_TASP,Natural Gas Consumption - Daily Average - Total Asia Pacific
+BP/GAS_CONSUM_O_USA,Natural Gas Consumption - Oil Equivalent - USA
+BP/GAS_CONSUM_D_WRLD,Natural Gas Consumption - Daily Average - Total World
+BP/GAS_CONSUM_O_MEX,Natural Gas Consumption - Oil Equivalent - Mexico
+BP/GAS_CONSUM_O_CAN,Natural Gas Consumption - Oil Equivalent - Canada
+BP/GAS_CONSUM_O_NOAM,Natural Gas Consumption - Oil Equivalent - Total North America
+BP/GAS_CONSUM_O_ARG,Natural Gas Consumption - Oil Equivalent - Argentina
+BP/GAS_CONSUM_O_BRA,Natural Gas Consumption - Oil Equivalent - Brazil
+BP/GAS_CONSUM_O_CHL,Natural Gas Consumption - Oil Equivalent - Chile
+BP/GAS_CONSUM_O_COL,Natural Gas Consumption - Oil Equivalent - Colombia
+BP/GAS_CONSUM_O_TTO,Natural Gas Consumption - Oil Equivalent - Trinidad & Tobago
+BP/GAS_CONSUM_O_ECU,Natural Gas Consumption - Oil Equivalent - Ecuador
+BP/GAS_CONSUM_O_PER,Natural Gas Consumption - Oil Equivalent - Peru
+BP/GAS_CONSUM_O_OSCA,Natural Gas Consumption - Oil Equivalent - Other S. & Cent. America
+BP/GAS_CONSUM_O_VEN,Natural Gas Consumption - Oil Equivalent - Venezuela
+BP/GAS_CONSUM_O_CESA,Natural Gas Consumption - Oil Equivalent - Total S. & Cent. America
+BP/GAS_CONSUM_O_AUT,Natural Gas Consumption - Oil Equivalent - Austria
+BP/GAS_CONSUM_O_BLR,Natural Gas Consumption - Oil Equivalent - Belarus
+BP/GAS_CONSUM_O_AZE,Natural Gas Consumption - Oil Equivalent - Azerbaijan
+BP/GAS_CONSUM_O_BEL,Natural Gas Consumption - Oil Equivalent - Belgium
+BP/GAS_CONSUM_O_BGR,Natural Gas Consumption - Oil Equivalent - Bulgaria
+BP/GAS_CONSUM_O_DNK,Natural Gas Consumption - Oil Equivalent - Denmark
+BP/GAS_CONSUM_O_FRA,Natural Gas Consumption - Oil Equivalent - France
+BP/GAS_CONSUM_O_CZE,Natural Gas Consumption - Oil Equivalent - Czech Republic
+BP/GAS_CONSUM_O_FIN,Natural Gas Consumption - Oil Equivalent - Finland
+BP/GAS_CONSUM_O_DEU,Natural Gas Consumption - Oil Equivalent - Germany
+BP/GAS_CONSUM_O_GRC,Natural Gas Consumption - Oil Equivalent - Greece
+BP/GAS_CONSUM_O_HUN,Natural Gas Consumption - Oil Equivalent - Hungary
+BP/GAS_CONSUM_O_ITA,Natural Gas Consumption - Oil Equivalent - Italy
+BP/GAS_CONSUM_O_IRL,Natural Gas Consumption - Oil Equivalent - Ireland
+BP/GAS_CONSUM_O_KAZ,Natural Gas Consumption - Oil Equivalent - Kazakhstan
+BP/GAS_CONSUM_O_LTU,Natural Gas Consumption - Oil Equivalent - Lithuania
+BP/GAS_CONSUM_O_NOR,Natural Gas Consumption - Oil Equivalent - Norway
+BP/GAS_CONSUM_O_NLD,Natural Gas Consumption - Oil Equivalent - Netherlands
+BP/GAS_CONSUM_O_POL,Natural Gas Consumption - Oil Equivalent - Poland
+BP/GAS_CONSUM_O_PRT,Natural Gas Consumption - Oil Equivalent - Portugal
+BP/GAS_CONSUM_O_ROU,Natural Gas Consumption - Oil Equivalent - Romania
+BP/GAS_CONSUM_O_RUS,Natural Gas Consumption - Oil Equivalent - Russian Federation
+BP/GAS_CONSUM_O_SVK,Natural Gas Consumption - Oil Equivalent - Slovakia
+BP/GAS_CONSUM_O_ESP,Natural Gas Consumption - Oil Equivalent - Spain
+BP/GAS_CONSUM_O_SWE,Natural Gas Consumption - Oil Equivalent - Sweden
+BP/GAS_CONSUM_O_CHE,Natural Gas Consumption - Oil Equivalent - Switzerland
+BP/GAS_CONSUM_O_TUR,Natural Gas Consumption - Oil Equivalent - Turkey
+BP/GAS_CONSUM_O_TKM,Natural Gas Consumption - Oil Equivalent - Turkmenistan
+BP/GAS_CONSUM_O_UKR,Natural Gas Consumption - Oil Equivalent - Ukraine
+BP/GAS_CONSUM_O_UZB,Natural Gas Consumption - Oil Equivalent - Uzbekistan
+BP/GAS_CONSUM_O_GBR,Natural Gas Consumption - Oil Equivalent - United Kingdom
+BP/GAS_CONSUM_O_OEUE,Natural Gas Consumption - Oil Equivalent - Other Europe & Eurasia
+BP/GAS_CONSUM_O_TEUE,Natural Gas Consumption - Oil Equivalent - Total Europe & Eurasia
+BP/GAS_CONSUM_O_IRN,Natural Gas Consumption - Oil Equivalent - Iran
+BP/GAS_CONSUM_O_ISR,Natural Gas Consumption - Oil Equivalent - Israel
+BP/GAS_CONSUM_O_QAT,Natural Gas Consumption - Oil Equivalent - Qatar
+BP/GAS_CONSUM_O_KWT,Natural Gas Consumption - Oil Equivalent - Kuwait
+BP/GAS_CONSUM_O_ARE,Natural Gas Consumption - Oil Equivalent - United Arab Emirates
+BP/GAS_CONSUM_O_SAU,Natural Gas Consumption - Oil Equivalent - Saudi Arabia
+BP/GAS_CONSUM_O_DZA,Natural Gas Consumption - Oil Equivalent - Algeria
+BP/GAS_CONSUM_O_OMDE,Natural Gas Consumption - Oil Equivalent - Other Middle East
+BP/GAS_CONSUM_O_MIDE,Natural Gas Consumption - Oil Equivalent - Total Middle East
+BP/GAS_CONSUM_O_EGY,Natural Gas Consumption - Oil Equivalent - Egypt
+BP/GAS_CONSUM_O_ZAF,Natural Gas Consumption - Oil Equivalent - South Africa
+BP/GAS_CONSUM_O_OAFR,Natural Gas Consumption - Oil Equivalent - Other Africa
+BP/GAS_CONSUM_O_TAFR,Natural Gas Consumption - Oil Equivalent - Total Africa
+BP/GAS_CONSUM_O_BGD,Natural Gas Consumption - Oil Equivalent - Bangladesh
+BP/GAS_CONSUM_O_IND,Natural Gas Consumption - Oil Equivalent - India
+BP/GAS_CONSUM_O_IDN,Natural Gas Consumption - Oil Equivalent - Indonesia
+BP/GAS_CONSUM_O_AUS,Natural Gas Consumption - Oil Equivalent - Australia
+BP/GAS_CONSUM_O_CHN,Natural Gas Consumption - Oil Equivalent - China
+BP/GAS_CONSUM_O_HKG,Natural Gas Consumption - Oil Equivalent - China Hong Kong SAR
+BP/GAS_CONSUM_O_JPN,Natural Gas Consumption - Oil Equivalent - Japan
+BP/GAS_CONSUM_O_MYS,Natural Gas Consumption - Oil Equivalent - Malaysia
+BP/GAS_CONSUM_O_PAK,Natural Gas Consumption - Oil Equivalent - Pakistan
+BP/GAS_CONSUM_O_NZL,Natural Gas Consumption - Oil Equivalent - New Zealand
+BP/GAS_CONSUM_O_PHL,Natural Gas Consumption - Oil Equivalent - Philippines
+BP/GAS_CONSUM_O_KOR,Natural Gas Consumption - Oil Equivalent - South Korea
+BP/GAS_CONSUM_O_VNM,Natural Gas Consumption - Oil Equivalent - Vietnam
+BP/GAS_CONSUM_O_SGP,Natural Gas Consumption - Oil Equivalent - Singapore
+BP/GAS_CONSUM_O_THA,Natural Gas Consumption - Oil Equivalent - Thailand
+BP/GAS_CONSUM_O_TWN,Natural Gas Consumption - Oil Equivalent - Taiwan
+BP/GAS_CONSUM_O_OASP,Natural Gas Consumption - Oil Equivalent - Other Asia Pacific
+BP/GAS_CONSUM_O_TASP,Natural Gas Consumption - Oil Equivalent - Total Asia Pacific
+BP/GAS_CONSUM_O_WRLD,Natural Gas Consumption - Oil Equivalent - Total World
+BP/COAL_PROD_O_USA,Coal Production - Oil Equivalent - USA
+BP/COAL_PROD_O_CAN,Coal Production - Oil Equivalent - Canada
+BP/COAL_PROD_O_COL,Coal Production - Oil Equivalent - Colombia
+BP/COAL_PROD_O_MEX,Coal Production - Oil Equivalent - Mexico
+BP/COAL_PROD_O_NOAM,Coal Production - Oil Equivalent - Total North America
+BP/COAL_PROD_O_VEN,Coal Production - Oil Equivalent - Venezuela
+BP/COAL_PROD_O_BRA,Coal Production - Oil Equivalent - Brazil
+BP/COAL_PROD_O_OSCA,Coal Production - Oil Equivalent - Other S. & Cent. America
+BP/COAL_PROD_O_CESA,Coal Production - Oil Equivalent - Total S. & Cent. America
+BP/COAL_PROD_O_BGR,Coal Production - Oil Equivalent - Bulgaria
+BP/COAL_PROD_O_FRA,Coal Production - Oil Equivalent - France
+BP/COAL_PROD_O_CZE,Coal Production - Oil Equivalent - Czech Republic
+BP/COAL_PROD_O_GRC,Coal Production - Oil Equivalent - Greece
+BP/COAL_PROD_O_POL,Coal Production - Oil Equivalent - Poland
+BP/COAL_PROD_O_DEU,Coal Production - Oil Equivalent - Germany
+BP/COAL_PROD_O_KAZ,Coal Production - Oil Equivalent - Kazakhstan
+BP/COAL_PROD_O_HUN,Coal Production - Oil Equivalent - Hungary
+BP/COAL_PROD_O_ROU,Coal Production - Oil Equivalent - Romania
+BP/COAL_PROD_O_RUS,Coal Production - Oil Equivalent - Russian Federation
+BP/COAL_PROD_O_ESP,Coal Production - Oil Equivalent - Spain
+BP/COAL_PROD_O_TUR,Coal Production - Oil Equivalent - Turkey
+BP/COAL_PROD_O_UKR,Coal Production - Oil Equivalent - Ukraine
+BP/COAL_PROD_O_OEUE,Coal Production - Oil Equivalent - Other Europe & Eurasia
+BP/COAL_PROD_O_MIDE,Coal Production - Oil Equivalent - Total Middle East
+BP/COAL_PROD_O_GBR,Coal Production - Oil Equivalent - United Kingdom
+BP/COAL_PROD_O_ZAF,Coal Production - Oil Equivalent - South Africa
+BP/COAL_PROD_O_TEUE,Coal Production - Oil Equivalent - Total Europe & Eurasia
+BP/COAL_PROD_O_ZWE,Coal Production - Oil Equivalent - Zimbabwe
+BP/COAL_PROD_O_OAFR,Coal Production - Oil Equivalent - Other Africa
+BP/COAL_PROD_O_TAFR,Coal Production - Oil Equivalent - Total Africa
+BP/COAL_PROD_O_AUS,Coal Production - Oil Equivalent - Australia
+BP/COAL_PROD_O_CHN,Coal Production - Oil Equivalent - China
+BP/COAL_PROD_O_IND,Coal Production - Oil Equivalent - India
+BP/COAL_PROD_O_NZL,Coal Production - Oil Equivalent - New Zealand
+BP/COAL_PROD_O_IDN,Coal Production - Oil Equivalent - Indonesia
+BP/COAL_PROD_O_PAK,Coal Production - Oil Equivalent - Pakistan
+BP/COAL_PROD_O_JPN,Coal Production - Oil Equivalent - Japan
+BP/COAL_PROD_O_KOR,Coal Production - Oil Equivalent - South Korea
+BP/COAL_PROD_O_THA,Coal Production - Oil Equivalent - Thailand
+BP/COAL_PROD_O_VNM,Coal Production - Oil Equivalent - Vietnam
+BP/COAL_PROD_O_OASP,Coal Production - Oil Equivalent - Other Asia Pacific
+BP/COAL_PROD_O_TASP,Coal Production - Oil Equivalent - Total Asia Pacific
+BP/COAL_CONSUM_O_USA,Coal Consumption - Oil Equivalent - USA
+BP/COAL_CONSUM_O_ARG,Coal Consumption - Oil Equivalent - Argentina
+BP/COAL_CONSUM_O_MEX,Coal Consumption - Oil Equivalent - Mexico
+BP/COAL_CONSUM_O_CAN,Coal Consumption - Oil Equivalent - Canada
+BP/COAL_CONSUM_O_NOAM,Coal Consumption - Oil Equivalent - Total North America
+BP/COAL_PROD_O_WRLD,Coal Production - Oil Equivalent - Total World
+BP/COAL_CONSUM_O_BRA,Coal Consumption - Oil Equivalent - Brazil
+BP/COAL_CONSUM_O_CHL,Coal Consumption - Oil Equivalent - Chile
+BP/COAL_CONSUM_O_COL,Coal Consumption - Oil Equivalent - Colombia
+BP/COAL_CONSUM_O_PER,Coal Consumption - Oil Equivalent - Peru
+BP/COAL_CONSUM_O_VEN,Coal Consumption - Oil Equivalent - Venezuela
+BP/COAL_CONSUM_O_OSCA,Coal Consumption - Oil Equivalent - Other S. & Cent. America
+BP/COAL_CONSUM_O_CESA,Coal Consumption - Oil Equivalent - Total S. & Cent. America
+BP/COAL_CONSUM_O_AUT,Coal Consumption - Oil Equivalent - Austria
+BP/COAL_CONSUM_O_AZE,Coal Consumption - Oil Equivalent - Azerbaijan
+BP/COAL_CONSUM_O_BLR,Coal Consumption - Oil Equivalent - Belarus
+BP/COAL_CONSUM_O_BEL,Coal Consumption - Oil Equivalent - Belgium
+BP/COAL_CONSUM_O_BGR,Coal Consumption - Oil Equivalent - Bulgaria
+BP/COAL_CONSUM_O_CZE,Coal Consumption - Oil Equivalent - Czech Republic
+BP/COAL_CONSUM_O_FIN,Coal Consumption - Oil Equivalent - Finland
+BP/COAL_CONSUM_O_DNK,Coal Consumption - Oil Equivalent - Denmark
+BP/COAL_CONSUM_O_FRA,Coal Consumption - Oil Equivalent - France
+BP/COAL_CONSUM_O_DEU,Coal Consumption - Oil Equivalent - Germany
+BP/COAL_CONSUM_O_GRC,Coal Consumption - Oil Equivalent - Greece
+BP/COAL_CONSUM_O_IRL,Coal Consumption - Oil Equivalent - Ireland
+BP/COAL_CONSUM_O_HUN,Coal Consumption - Oil Equivalent - Hungary
+BP/COAL_CONSUM_O_ITA,Coal Consumption - Oil Equivalent - Italy
+BP/COAL_CONSUM_O_KAZ,Coal Consumption - Oil Equivalent - Kazakhstan
+BP/COAL_CONSUM_O_LTU,Coal Consumption - Oil Equivalent - Lithuania
+BP/COAL_CONSUM_O_NLD,Coal Consumption - Oil Equivalent - Netherlands
+BP/COAL_CONSUM_O_NOR,Coal Consumption - Oil Equivalent - Norway
+BP/COAL_CONSUM_O_POL,Coal Consumption - Oil Equivalent - Poland
+BP/COAL_CONSUM_O_PRT,Coal Consumption - Oil Equivalent - Portugal
+BP/COAL_CONSUM_O_ROU,Coal Consumption - Oil Equivalent - Romania
+BP/COAL_CONSUM_O_RUS,Coal Consumption - Oil Equivalent - Russian Federation
+BP/COAL_CONSUM_O_SVK,Coal Consumption - Oil Equivalent - Slovakia
+BP/COAL_CONSUM_O_ESP,Coal Consumption - Oil Equivalent - Spain
+BP/COAL_CONSUM_O_SWE,Coal Consumption - Oil Equivalent - Sweden
+BP/COAL_CONSUM_O_CHE,Coal Consumption - Oil Equivalent - Switzerland
+BP/COAL_CONSUM_O_TUR,Coal Consumption - Oil Equivalent - Turkey
+BP/COAL_CONSUM_O_TKM,Coal Consumption - Oil Equivalent - Turkmenistan
+BP/COAL_CONSUM_O_GBR,Coal Consumption - Oil Equivalent - United Kingdom
+BP/COAL_CONSUM_O_UKR,Coal Consumption - Oil Equivalent - Ukraine
+BP/COAL_CONSUM_O_UZB,Coal Consumption - Oil Equivalent - Uzbekistan
+BP/COAL_CONSUM_O_OEUE,Coal Consumption - Oil Equivalent - Other Europe & Eurasia
+BP/COAL_CONSUM_O_TEUE,Coal Consumption - Oil Equivalent - Total Europe & Eurasia
+BP/COAL_CONSUM_O_IRN,Coal Consumption - Oil Equivalent - Iran
+BP/COAL_CONSUM_O_ISR,Coal Consumption - Oil Equivalent - Israel
+BP/COAL_CONSUM_O_OMDE,Coal Consumption - Oil Equivalent - Other Middle East
+BP/COAL_CONSUM_O_MIDE,Coal Consumption - Oil Equivalent - Total Middle East
+BP/COAL_CONSUM_O_DZA,Coal Consumption - Oil Equivalent - Algeria
+BP/COAL_CONSUM_O_EGY,Coal Consumption - Oil Equivalent - Egypt
+BP/COAL_CONSUM_O_ZAF,Coal Consumption - Oil Equivalent - South Africa
+BP/COAL_CONSUM_O_TAFR,Coal Consumption - Oil Equivalent - Total Africa
+BP/COAL_CONSUM_O_OAFR,Coal Consumption - Oil Equivalent - Other Africa
+BP/COAL_CONSUM_O_AUS,Coal Consumption - Oil Equivalent - Australia
+BP/COAL_CONSUM_O_BGD,Coal Consumption - Oil Equivalent - Bangladesh
+BP/COAL_CONSUM_O_CHN,Coal Consumption - Oil Equivalent - China
+BP/COAL_CONSUM_O_HKG,Coal Consumption - Oil Equivalent - China Hong Kong SAR
+BP/COAL_CONSUM_O_IND,Coal Consumption - Oil Equivalent - India
+BP/COAL_CONSUM_O_IDN,Coal Consumption - Oil Equivalent - Indonesia
+BP/COAL_CONSUM_O_JPN,Coal Consumption - Oil Equivalent - Japan
+BP/COAL_CONSUM_O_MYS,Coal Consumption - Oil Equivalent - Malaysia
+BP/COAL_CONSUM_O_NZL,Coal Consumption - Oil Equivalent - New Zealand
+BP/COAL_CONSUM_O_PHL,Coal Consumption - Oil Equivalent - Philippines
+BP/COAL_CONSUM_O_PAK,Coal Consumption - Oil Equivalent - Pakistan
+BP/COAL_CONSUM_O_KOR,Coal Consumption - Oil Equivalent - South Korea
+BP/COAL_CONSUM_O_TWN,Coal Consumption - Oil Equivalent - Taiwan
+BP/COAL_CONSUM_O_THA,Coal Consumption - Oil Equivalent - Thailand
+BP/COAL_CONSUM_O_TASP,Coal Consumption - Oil Equivalent - Total Asia Pacific
+BP/COAL_CONSUM_O_VNM,Coal Consumption - Oil Equivalent - Vietnam
+BP/COAL_CONSUM_O_OASP,Coal Consumption - Oil Equivalent - Other Asia Pacific
+BP/COAL_CONSUM_O_WRLD,Coal Consumption - Oil Equivalent - Total World
+BP/NUC_CONSUM_O_USA,Nuclear Power Consumption - Oil Equivalent - USA
+BP/NUC_CONSUM_O_CAN,Nuclear Power Consumption - Oil Equivalent - Canada
+BP/NUC_CONSUM_O_NOAM,Nuclear Power Consumption - Oil Equivalent - Total North America
+BP/NUC_CONSUM_O_MEX,Nuclear Power Consumption - Oil Equivalent - Mexico
+BP/NUC_CONSUM_O_ARG,Nuclear Power Consumption - Oil Equivalent - Argentina
+BP/NUC_CONSUM_O_BRA,Nuclear Power Consumption - Oil Equivalent - Brazil
+BP/NUC_CONSUM_O_COL,Nuclear Power Consumption - Oil Equivalent - Colombia
+BP/NUC_CONSUM_O_ECU,Nuclear Power Consumption - Oil Equivalent - Ecuador
+BP/NUC_CONSUM_O_CHL,Nuclear Power Consumption - Oil Equivalent - Chile
+BP/NUC_CONSUM_O_PER,Nuclear Power Consumption - Oil Equivalent - Peru
+BP/NUC_CONSUM_O_TTO,Nuclear Power Consumption - Oil Equivalent - Trinidad & Tobago
+BP/NUC_CONSUM_O_VEN,Nuclear Power Consumption - Oil Equivalent - Venezuela
+BP/NUC_CONSUM_O_OSCA,Nuclear Power Consumption - Oil Equivalent - Other S. & Cent. America
+BP/NUC_CONSUM_O_AUT,Nuclear Power Consumption - Oil Equivalent - Austria
+BP/NUC_CONSUM_O_CESA,Nuclear Power Consumption - Oil Equivalent - Total S. & Cent. America
+BP/NUC_CONSUM_O_AZE,Nuclear Power Consumption - Oil Equivalent - Azerbaijan
+BP/NUC_CONSUM_O_BEL,Nuclear Power Consumption - Oil Equivalent - Belgium
+BP/NUC_CONSUM_O_BLR,Nuclear Power Consumption - Oil Equivalent - Belarus
+BP/NUC_CONSUM_O_BGR,Nuclear Power Consumption - Oil Equivalent - Bulgaria
+BP/NUC_CONSUM_O_CZE,Nuclear Power Consumption - Oil Equivalent - Czech Republic
+BP/NUC_CONSUM_O_DNK,Nuclear Power Consumption - Oil Equivalent - Denmark
+BP/NUC_CONSUM_O_FRA,Nuclear Power Consumption - Oil Equivalent - France
+BP/NUC_CONSUM_O_FIN,Nuclear Power Consumption - Oil Equivalent - Finland
+BP/NUC_CONSUM_O_GRC,Nuclear Power Consumption - Oil Equivalent - Greece
+BP/NUC_CONSUM_O_HUN,Nuclear Power Consumption - Oil Equivalent - Hungary
+BP/NUC_CONSUM_O_DEU,Nuclear Power Consumption - Oil Equivalent - Germany
+BP/NUC_CONSUM_O_IRL,Nuclear Power Consumption - Oil Equivalent - Ireland
+BP/NUC_CONSUM_O_ITA,Nuclear Power Consumption - Oil Equivalent - Italy
+BP/NUC_CONSUM_O_LTU,Nuclear Power Consumption - Oil Equivalent - Lithuania
+BP/NUC_CONSUM_O_KAZ,Nuclear Power Consumption - Oil Equivalent - Kazakhstan
+BP/NUC_CONSUM_O_NLD,Nuclear Power Consumption - Oil Equivalent - Netherlands
+BP/NUC_CONSUM_O_NOR,Nuclear Power Consumption - Oil Equivalent - Norway
+BP/NUC_CONSUM_O_POL,Nuclear Power Consumption - Oil Equivalent - Poland
+BP/NUC_CONSUM_O_ROU,Nuclear Power Consumption - Oil Equivalent - Romania
+BP/NUC_CONSUM_O_PRT,Nuclear Power Consumption - Oil Equivalent - Portugal
+BP/NUC_CONSUM_O_RUS,Nuclear Power Consumption - Oil Equivalent - Russian Federation
+BP/NUC_CONSUM_O_SVK,Nuclear Power Consumption - Oil Equivalent - Slovakia
+BP/NUC_CONSUM_O_ESP,Nuclear Power Consumption - Oil Equivalent - Spain
+BP/NUC_CONSUM_O_SWE,Nuclear Power Consumption - Oil Equivalent - Sweden
+BP/NUC_CONSUM_O_CHE,Nuclear Power Consumption - Oil Equivalent - Switzerland
+BP/NUC_CONSUM_O_TUR,Nuclear Power Consumption - Oil Equivalent - Turkey
+BP/NUC_CONSUM_O_TKM,Nuclear Power Consumption - Oil Equivalent - Turkmenistan
+BP/NUC_CONSUM_O_UKR,Nuclear Power Consumption - Oil Equivalent - Ukraine
+BP/NUC_CONSUM_O_UZB,Nuclear Power Consumption - Oil Equivalent - Uzbekistan
+BP/NUC_CONSUM_O_OEUE,Nuclear Power Consumption - Oil Equivalent - Other Europe & Eurasia
+BP/NUC_CONSUM_O_TEUE,Nuclear Power Consumption - Oil Equivalent - Total Europe & Eurasia
+BP/NUC_CONSUM_O_GBR,Nuclear Power Consumption - Oil Equivalent - United Kingdom
+BP/NUC_CONSUM_O_QAT,Nuclear Power Consumption - Oil Equivalent - Qatar
+BP/NUC_CONSUM_O_ISR,Nuclear Power Consumption - Oil Equivalent - Israel
+BP/NUC_CONSUM_O_IRN,Nuclear Power Consumption - Oil Equivalent - Iran
+BP/NUC_CONSUM_O_KWT,Nuclear Power Consumption - Oil Equivalent - Kuwait
+BP/NUC_CONSUM_O_ARE,Nuclear Power Consumption - Oil Equivalent - United Arab Emirates
+BP/NUC_CONSUM_O_SAU,Nuclear Power Consumption - Oil Equivalent - Saudi Arabia
+BP/NUC_CONSUM_O_OMDE,Nuclear Power Consumption - Oil Equivalent - Other Middle East
+BP/NUC_CONSUM_O_MIDE,Nuclear Power Consumption - Oil Equivalent - Total Middle East
+BP/NUC_CONSUM_O_DZA,Nuclear Power Consumption - Oil Equivalent - Algeria
+BP/NUC_CONSUM_O_EGY,Nuclear Power Consumption - Oil Equivalent - Egypt
+BP/NUC_CONSUM_O_OAFR,Nuclear Power Consumption - Oil Equivalent - Other Africa
+BP/NUC_CONSUM_O_ZAF,Nuclear Power Consumption - Oil Equivalent - South Africa
+BP/NUC_CONSUM_O_AUS,Nuclear Power Consumption - Oil Equivalent - Australia
+BP/NUC_CONSUM_O_BGD,Nuclear Power Consumption - Oil Equivalent - Bangladesh
+BP/NUC_CONSUM_O_TAFR,Nuclear Power Consumption - Oil Equivalent - Total Africa
+BP/NUC_CONSUM_O_CHN,Nuclear Power Consumption - Oil Equivalent - China
+BP/NUC_CONSUM_O_IDN,Nuclear Power Consumption - Oil Equivalent - Indonesia
+BP/NUC_CONSUM_O_IND,Nuclear Power Consumption - Oil Equivalent - India
+BP/NUC_CONSUM_O_HKG,Nuclear Power Consumption - Oil Equivalent - China Hong Kong SAR
+BP/NUC_CONSUM_O_NZL,Nuclear Power Consumption - Oil Equivalent - New Zealand
+BP/NUC_CONSUM_O_MYS,Nuclear Power Consumption - Oil Equivalent - Malaysia
+BP/NUC_CONSUM_O_JPN,Nuclear Power Consumption - Oil Equivalent - Japan
+BP/NUC_CONSUM_O_PAK,Nuclear Power Consumption - Oil Equivalent - Pakistan
+BP/NUC_CONSUM_O_PHL,Nuclear Power Consumption - Oil Equivalent - Philippines
+BP/NUC_CONSUM_O_SGP,Nuclear Power Consumption - Oil Equivalent - Singapore
+BP/NUC_CONSUM_O_KOR,Nuclear Power Consumption - Oil Equivalent - South Korea
+BP/NUC_CONSUM_O_TWN,Nuclear Power Consumption - Oil Equivalent - Taiwan
+BP/NUC_CONSUM_O_THA,Nuclear Power Consumption - Oil Equivalent - Thailand
+BP/NUC_CONSUM_O_VNM,Nuclear Power Consumption - Oil Equivalent - Vietnam
+BP/NUC_CONSUM_O_WRLD,Nuclear Power Consumption - Oil Equivalent - Total World
+BP/NUC_CONSUM_O_TASP,Nuclear Power Consumption - Oil Equivalent - Total Asia Pacific
+BP/NUC_CONSUM_O_OASP,Nuclear Power Consumption - Oil Equivalent - Other Asia Pacific
+BP/HYDRO_CONSUM_O_USA,Hydroelectric Consumption - Oil Equivalent - USA
+BP/HYDRO_CONSUM_O_CAN,Hydroelectric Consumption - Oil Equivalent - Canada
+BP/HYDRO_CONSUM_O_NOAM,Hydroelectric Consumption - Oil Equivalent - Total North America
+BP/HYDRO_CONSUM_O_ARG,Hydroelectric Consumption - Oil Equivalent - Argentina
+BP/HYDRO_CONSUM_O_MEX,Hydroelectric Consumption - Oil Equivalent - Mexico
+BP/HYDRO_CONSUM_O_BRA,Hydroelectric Consumption - Oil Equivalent - Brazil
+BP/HYDRO_CONSUM_O_COL,Hydroelectric Consumption - Oil Equivalent - Colombia
+BP/HYDRO_CONSUM_O_ECU,Hydroelectric Consumption - Oil Equivalent - Ecuador
+BP/HYDRO_CONSUM_O_TTO,Hydroelectric Consumption - Oil Equivalent - Trinidad & Tobago
+BP/HYDRO_CONSUM_O_PER,Hydroelectric Consumption - Oil Equivalent - Peru
+BP/HYDRO_CONSUM_O_VEN,Hydroelectric Consumption - Oil Equivalent - Venezuela
+BP/HYDRO_CONSUM_O_OSCA,Hydroelectric Consumption - Oil Equivalent - Other S. & Cent. America
+BP/HYDRO_CONSUM_O_AUT,Hydroelectric Consumption - Oil Equivalent - Austria
+BP/HYDRO_CONSUM_O_CESA,Hydroelectric Consumption - Oil Equivalent - Total S. & Cent. America
+BP/HYDRO_CONSUM_O_CHL,Hydroelectric Consumption - Oil Equivalent - Chile
+BP/HYDRO_CONSUM_O_AZE,Hydroelectric Consumption - Oil Equivalent - Azerbaijan
+BP/HYDRO_CONSUM_O_BLR,Hydroelectric Consumption - Oil Equivalent - Belarus
+BP/HYDRO_CONSUM_O_BEL,Hydroelectric Consumption - Oil Equivalent - Belgium
+BP/HYDRO_CONSUM_O_CZE,Hydroelectric Consumption - Oil Equivalent - Czech Republic
+BP/HYDRO_CONSUM_O_DNK,Hydroelectric Consumption - Oil Equivalent - Denmark
+BP/HYDRO_CONSUM_O_BGR,Hydroelectric Consumption - Oil Equivalent - Bulgaria
+BP/HYDRO_CONSUM_O_FIN,Hydroelectric Consumption - Oil Equivalent - Finland
+BP/HYDRO_CONSUM_O_FRA,Hydroelectric Consumption - Oil Equivalent - France
+BP/HYDRO_CONSUM_O_DEU,Hydroelectric Consumption - Oil Equivalent - Germany
+BP/HYDRO_CONSUM_O_GRC,Hydroelectric Consumption - Oil Equivalent - Greece
+BP/HYDRO_CONSUM_O_HUN,Hydroelectric Consumption - Oil Equivalent - Hungary
+BP/HYDRO_CONSUM_O_ITA,Hydroelectric Consumption - Oil Equivalent - Italy
+BP/HYDRO_CONSUM_O_IRL,Hydroelectric Consumption - Oil Equivalent - Ireland
+BP/HYDRO_CONSUM_O_KAZ,Hydroelectric Consumption - Oil Equivalent - Kazakhstan
+BP/HYDRO_CONSUM_O_LTU,Hydroelectric Consumption - Oil Equivalent - Lithuania
+BP/HYDRO_CONSUM_O_NLD,Hydroelectric Consumption - Oil Equivalent - Netherlands
+BP/HYDRO_CONSUM_O_POL,Hydroelectric Consumption - Oil Equivalent - Poland
+BP/HYDRO_CONSUM_O_PRT,Hydroelectric Consumption - Oil Equivalent - Portugal
+BP/HYDRO_CONSUM_O_NOR,Hydroelectric Consumption - Oil Equivalent - Norway
+BP/HYDRO_CONSUM_O_ROU,Hydroelectric Consumption - Oil Equivalent - Romania
+BP/HYDRO_CONSUM_O_RUS,Hydroelectric Consumption - Oil Equivalent - Russian Federation
+BP/HYDRO_CONSUM_O_SVK,Hydroelectric Consumption - Oil Equivalent - Slovakia
+BP/HYDRO_CONSUM_O_ESP,Hydroelectric Consumption - Oil Equivalent - Spain
+BP/HYDRO_CONSUM_O_SWE,Hydroelectric Consumption - Oil Equivalent - Sweden
+BP/HYDRO_CONSUM_O_CHE,Hydroelectric Consumption - Oil Equivalent - Switzerland
+BP/HYDRO_CONSUM_O_TKM,Hydroelectric Consumption - Oil Equivalent - Turkmenistan
+BP/HYDRO_CONSUM_O_UKR,Hydroelectric Consumption - Oil Equivalent - Ukraine
+BP/HYDRO_CONSUM_O_TUR,Hydroelectric Consumption - Oil Equivalent - Turkey
+BP/HYDRO_CONSUM_O_GBR,Hydroelectric Consumption - Oil Equivalent - United Kingdom
+BP/HYDRO_CONSUM_O_UZB,Hydroelectric Consumption - Oil Equivalent - Uzbekistan
+BP/HYDRO_CONSUM_O_OEUE,Hydroelectric Consumption - Oil Equivalent - Other Europe & Eurasia
+BP/HYDRO_CONSUM_O_IRN,Hydroelectric Consumption - Oil Equivalent - Iran
+BP/HYDRO_CONSUM_O_TEUE,Hydroelectric Consumption - Oil Equivalent - Total Europe & Eurasia
+BP/HYDRO_CONSUM_O_ISR,Hydroelectric Consumption - Oil Equivalent - Israel
+BP/HYDRO_CONSUM_O_KWT,Hydroelectric Consumption - Oil Equivalent - Kuwait
+BP/HYDRO_CONSUM_O_QAT,Hydroelectric Consumption - Oil Equivalent - Qatar
+BP/HYDRO_CONSUM_O_SAU,Hydroelectric Consumption - Oil Equivalent - Saudi Arabia
+BP/HYDRO_CONSUM_O_ARE,Hydroelectric Consumption - Oil Equivalent - United Arab Emirates
+BP/HYDRO_CONSUM_O_OMDE,Hydroelectric Consumption - Oil Equivalent - Other Middle East
+BP/HYDRO_CONSUM_O_MIDE,Hydroelectric Consumption - Oil Equivalent - Total Middle East
+BP/HYDRO_CONSUM_O_DZA,Hydroelectric Consumption - Oil Equivalent - Algeria
+BP/HYDRO_CONSUM_O_EGY,Hydroelectric Consumption - Oil Equivalent - Egypt
+BP/HYDRO_CONSUM_O_ZAF,Hydroelectric Consumption - Oil Equivalent - South Africa
+BP/HYDRO_CONSUM_O_OAFR,Hydroelectric Consumption - Oil Equivalent - Other Africa
+BP/HYDRO_CONSUM_O_TAFR,Hydroelectric Consumption - Oil Equivalent - Total Africa
+BP/HYDRO_CONSUM_O_AUS,Hydroelectric Consumption - Oil Equivalent - Australia
+BP/HYDRO_CONSUM_O_BGD,Hydroelectric Consumption - Oil Equivalent - Bangladesh
+BP/HYDRO_CONSUM_O_HKG,Hydroelectric Consumption - Oil Equivalent - China Hong Kong SAR
+BP/HYDRO_CONSUM_O_CHN,Hydroelectric Consumption - Oil Equivalent - China
+BP/HYDRO_CONSUM_O_IND,Hydroelectric Consumption - Oil Equivalent - India
+BP/HYDRO_CONSUM_O_IDN,Hydroelectric Consumption - Oil Equivalent - Indonesia
+BP/HYDRO_CONSUM_O_MYS,Hydroelectric Consumption - Oil Equivalent - Malaysia
+BP/HYDRO_CONSUM_O_JPN,Hydroelectric Consumption - Oil Equivalent - Japan
+BP/HYDRO_CONSUM_O_NZL,Hydroelectric Consumption - Oil Equivalent - New Zealand
+BP/HYDRO_CONSUM_O_PAK,Hydroelectric Consumption - Oil Equivalent - Pakistan
+BP/HYDRO_CONSUM_O_PHL,Hydroelectric Consumption - Oil Equivalent - Philippines
+BP/HYDRO_CONSUM_O_SGP,Hydroelectric Consumption - Oil Equivalent - Singapore
+BP/HYDRO_CONSUM_O_KOR,Hydroelectric Consumption - Oil Equivalent - South Korea
+BP/HYDRO_CONSUM_O_TWN,Hydroelectric Consumption - Oil Equivalent - Taiwan
+BP/HYDRO_CONSUM_O_THA,Hydroelectric Consumption - Oil Equivalent - Thailand
+BP/HYDRO_CONSUM_O_VNM,Hydroelectric Consumption - Oil Equivalent - Vietnam
+BP/HYDRO_CONSUM_O_OASP,Hydroelectric Consumption - Oil Equivalent - Other Asia Pacific
+BP/HYDRO_CONSUM_O_TASP,Hydroelectric Consumption - Oil Equivalent - Total Asia Pacific
+BP/HYDRO_CONSUM_O_WRLD,Hydroelectric Consumption - Oil Equivalent - Total World
+BP/SOLAR_CONSUM_USA,Solar Power Consumption - USA
+BP/SOLAR_CONSUM_CAN,Solar Power Consumption - Canada
+BP/SOLAR_CONSUM_NOAM,Solar Power Consumption - Total North America
+BP/SOLAR_CONSUM_MEX,Solar Power Consumption - Mexico
+BP/SOLAR_CONSUM_ARG,Solar Power Consumption - Argentina
+BP/SOLAR_CONSUM_BRA,Solar Power Consumption - Brazil
+BP/SOLAR_CONSUM_CHL,Solar Power Consumption - Chile
+BP/SOLAR_CONSUM_COL,Solar Power Consumption - Colombia
+BP/SOLAR_CONSUM_ECU,Solar Power Consumption - Ecuador
+BP/SOLAR_CONSUM_TTO,Solar Power Consumption - Trinidad & Tobago
+BP/SOLAR_CONSUM_VEN,Solar Power Consumption - Venezuela
+BP/SOLAR_CONSUM_PER,Solar Power Consumption - Peru
+BP/SOLAR_CONSUM_AUT,Solar Power Consumption - Austria
+BP/SOLAR_CONSUM_AZE,Solar Power Consumption - Azerbaijan
+BP/SOLAR_CONSUM_BLR,Solar Power Consumption - Belarus
+BP/SOLAR_CONSUM_BEL,Solar Power Consumption - Belgium
+BP/SOLAR_CONSUM_BGR,Solar Power Consumption - Bulgaria
+BP/SOLAR_CONSUM_CZE,Solar Power Consumption - Czech Republic
+BP/SOLAR_CONSUM_CESA,Solar Power Consumption - Total S. & Cent. America
+BP/SOLAR_CONSUM_OSCA,Solar Power Consumption - Other S. & Cent. America
+BP/SOLAR_CONSUM_DNK,Solar Power Consumption - Denmark
+BP/SOLAR_CONSUM_FIN,Solar Power Consumption - Finland
+BP/SOLAR_CONSUM_FRA,Solar Power Consumption - France
+BP/SOLAR_CONSUM_DEU,Solar Power Consumption - Germany
+BP/SOLAR_CONSUM_HUN,Solar Power Consumption - Hungary
+BP/SOLAR_CONSUM_GRC,Solar Power Consumption - Greece
+BP/SOLAR_CONSUM_IRL,Solar Power Consumption - Ireland
+BP/SOLAR_CONSUM_ITA,Solar Power Consumption - Italy
+BP/SOLAR_CONSUM_KAZ,Solar Power Consumption - Kazakhstan
+BP/SOLAR_CONSUM_LTU,Solar Power Consumption - Lithuania
+BP/SOLAR_CONSUM_NLD,Solar Power Consumption - Netherlands
+BP/SOLAR_CONSUM_NOR,Solar Power Consumption - Norway
+BP/SOLAR_CONSUM_PRT,Solar Power Consumption - Portugal
+BP/SOLAR_CONSUM_POL,Solar Power Consumption - Poland
+BP/SOLAR_CONSUM_RUS,Solar Power Consumption - Russian Federation
+BP/SOLAR_CONSUM_ROU,Solar Power Consumption - Romania
+BP/SOLAR_CONSUM_SVK,Solar Power Consumption - Slovakia
+BP/SOLAR_CONSUM_SWE,Solar Power Consumption - Sweden
+BP/SOLAR_CONSUM_CHE,Solar Power Consumption - Switzerland
+BP/SOLAR_CONSUM_ESP,Solar Power Consumption - Spain
+BP/SOLAR_CONSUM_TUR,Solar Power Consumption - Turkey
+BP/SOLAR_CONSUM_TKM,Solar Power Consumption - Turkmenistan
+BP/SOLAR_CONSUM_UKR,Solar Power Consumption - Ukraine
+BP/SOLAR_CONSUM_GBR,Solar Power Consumption - United Kingdom
+BP/SOLAR_CONSUM_OEUE,Solar Power Consumption - Other Europe & Eurasia
+BP/SOLAR_CONSUM_UZB,Solar Power Consumption - Uzbekistan
+BP/SOLAR_CONSUM_TEUE,Solar Power Consumption - Total Europe & Eurasia
+BP/SOLAR_CONSUM_ISR,Solar Power Consumption - Israel
+BP/SOLAR_CONSUM_IRN,Solar Power Consumption - Iran
+BP/SOLAR_CONSUM_KWT,Solar Power Consumption - Kuwait
+BP/SOLAR_CONSUM_QAT,Solar Power Consumption - Qatar
+BP/SOLAR_CONSUM_ARE,Solar Power Consumption - United Arab Emirates
+BP/SOLAR_CONSUM_OMDE,Solar Power Consumption - Other Middle East
+BP/SOLAR_CONSUM_SAU,Solar Power Consumption - Saudi Arabia
+BP/SOLAR_CONSUM_DZA,Solar Power Consumption - Algeria
+BP/SOLAR_CONSUM_MIDE,Solar Power Consumption - Total Middle East
+BP/SOLAR_CONSUM_EGY,Solar Power Consumption - Egypt
+BP/SOLAR_CONSUM_ZAF,Solar Power Consumption - South Africa
+BP/SOLAR_CONSUM_OAFR,Solar Power Consumption - Other Africa
+BP/SOLAR_CONSUM_AUS,Solar Power Consumption - Australia
+BP/SOLAR_CONSUM_TAFR,Solar Power Consumption - Total Africa
+BP/SOLAR_CONSUM_CHN,Solar Power Consumption - China
+BP/SOLAR_CONSUM_BGD,Solar Power Consumption - Bangladesh
+BP/SOLAR_CONSUM_HKG,Solar Power Consumption - China Hong Kong SAR
+BP/SOLAR_CONSUM_IND,Solar Power Consumption - India
+BP/SOLAR_CONSUM_IDN,Solar Power Consumption - Indonesia
+BP/SOLAR_CONSUM_JPN,Solar Power Consumption - Japan
+BP/SOLAR_CONSUM_MYS,Solar Power Consumption - Malaysia
+BP/SOLAR_CONSUM_NZL,Solar Power Consumption - New Zealand
+BP/SOLAR_CONSUM_PAK,Solar Power Consumption - Pakistan
+BP/SOLAR_CONSUM_PHL,Solar Power Consumption - Philippines
+BP/SOLAR_CONSUM_SGP,Solar Power Consumption - Singapore
+BP/SOLAR_CONSUM_KOR,Solar Power Consumption - South Korea
+BP/SOLAR_CONSUM_TWN,Solar Power Consumption - Taiwan
+BP/SOLAR_CONSUM_THA,Solar Power Consumption - Thailand
+BP/SOLAR_CONSUM_VNM,Solar Power Consumption - Vietnam
+BP/SOLAR_CONSUM_OASP,Solar Power Consumption - Other Asia Pacific
+BP/SOLAR_CONSUM_TASP,Solar Power Consumption - Total Asia Pacific
+BP/SOLAR_CONSUM_WRLD,Solar Power Consumption - Total World
+BP/SOLAR_CONSUM_O_CAN,Solar Power Consumption - Oil Equivalent - Canada
+BP/SOLAR_CONSUM_O_USA,Solar Power Consumption - Oil Equivalent - USA
+BP/SOLAR_CONSUM_O_NOAM,Solar Power Consumption - Oil Equivalent - Total North America
+BP/SOLAR_CONSUM_O_MEX,Solar Power Consumption - Oil Equivalent - Mexico
+BP/SOLAR_CONSUM_O_ARG,Solar Power Consumption - Oil Equivalent - Argentina
+BP/SOLAR_CONSUM_O_BRA,Solar Power Consumption - Oil Equivalent - Brazil
+BP/SOLAR_CONSUM_O_CHL,Solar Power Consumption - Oil Equivalent - Chile
+BP/SOLAR_CONSUM_O_COL,Solar Power Consumption - Oil Equivalent - Colombia
+BP/SOLAR_CONSUM_O_ECU,Solar Power Consumption - Oil Equivalent - Ecuador
+BP/SOLAR_CONSUM_O_PER,Solar Power Consumption - Oil Equivalent - Peru
+BP/SOLAR_CONSUM_O_TTO,Solar Power Consumption - Oil Equivalent - Trinidad & Tobago
+BP/SOLAR_CONSUM_O_OSCA,Solar Power Consumption - Oil Equivalent - Other S. & Cent. America
+BP/SOLAR_CONSUM_O_VEN,Solar Power Consumption - Oil Equivalent - Venezuela
+BP/SOLAR_CONSUM_O_CESA,Solar Power Consumption - Oil Equivalent - Total S. & Cent. America
+BP/SOLAR_CONSUM_O_AUT,Solar Power Consumption - Oil Equivalent - Austria
+BP/SOLAR_CONSUM_O_AZE,Solar Power Consumption - Oil Equivalent - Azerbaijan
+BP/SOLAR_CONSUM_O_BLR,Solar Power Consumption - Oil Equivalent - Belarus
+BP/SOLAR_CONSUM_O_BEL,Solar Power Consumption - Oil Equivalent - Belgium
+BP/SOLAR_CONSUM_O_BGR,Solar Power Consumption - Oil Equivalent - Bulgaria
+BP/SOLAR_CONSUM_O_CZE,Solar Power Consumption - Oil Equivalent - Czech Republic
+BP/SOLAR_CONSUM_O_DNK,Solar Power Consumption - Oil Equivalent - Denmark
+BP/SOLAR_CONSUM_O_FIN,Solar Power Consumption - Oil Equivalent - Finland
+BP/SOLAR_CONSUM_O_FRA,Solar Power Consumption - Oil Equivalent - France
+BP/SOLAR_CONSUM_O_DEU,Solar Power Consumption - Oil Equivalent - Germany
+BP/SOLAR_CONSUM_O_GRC,Solar Power Consumption - Oil Equivalent - Greece
+BP/SOLAR_CONSUM_O_HUN,Solar Power Consumption - Oil Equivalent - Hungary
+BP/SOLAR_CONSUM_O_IRL,Solar Power Consumption - Oil Equivalent - Ireland
+BP/SOLAR_CONSUM_O_ITA,Solar Power Consumption - Oil Equivalent - Italy
+BP/SOLAR_CONSUM_O_LTU,Solar Power Consumption - Oil Equivalent - Lithuania
+BP/SOLAR_CONSUM_O_KAZ,Solar Power Consumption - Oil Equivalent - Kazakhstan
+BP/SOLAR_CONSUM_O_NOR,Solar Power Consumption - Oil Equivalent - Norway
+BP/SOLAR_CONSUM_O_POL,Solar Power Consumption - Oil Equivalent - Poland
+BP/SOLAR_CONSUM_O_NLD,Solar Power Consumption - Oil Equivalent - Netherlands
+BP/SOLAR_CONSUM_O_RUS,Solar Power Consumption - Oil Equivalent - Russian Federation
+BP/SOLAR_CONSUM_O_ROU,Solar Power Consumption - Oil Equivalent - Romania
+BP/SOLAR_CONSUM_O_PRT,Solar Power Consumption - Oil Equivalent - Portugal
+BP/SOLAR_CONSUM_O_SVK,Solar Power Consumption - Oil Equivalent - Slovakia
+BP/SOLAR_CONSUM_O_ESP,Solar Power Consumption - Oil Equivalent - Spain
+BP/SOLAR_CONSUM_O_CHE,Solar Power Consumption - Oil Equivalent - Switzerland
+BP/SOLAR_CONSUM_O_SWE,Solar Power Consumption - Oil Equivalent - Sweden
+BP/SOLAR_CONSUM_O_TKM,Solar Power Consumption - Oil Equivalent - Turkmenistan
+BP/SOLAR_CONSUM_O_UKR,Solar Power Consumption - Oil Equivalent - Ukraine
+BP/SOLAR_CONSUM_O_TUR,Solar Power Consumption - Oil Equivalent - Turkey
+BP/SOLAR_CONSUM_O_UZB,Solar Power Consumption - Oil Equivalent - Uzbekistan
+BP/SOLAR_CONSUM_O_GBR,Solar Power Consumption - Oil Equivalent - United Kingdom
+BP/SOLAR_CONSUM_O_OEUE,Solar Power Consumption - Oil Equivalent - Other Europe & Eurasia
+BP/SOLAR_CONSUM_O_TEUE,Solar Power Consumption - Oil Equivalent - Total Europe & Eurasia
+BP/SOLAR_CONSUM_O_IRN,Solar Power Consumption - Oil Equivalent - Iran
+BP/SOLAR_CONSUM_O_KWT,Solar Power Consumption - Oil Equivalent - Kuwait
+BP/SOLAR_CONSUM_O_ISR,Solar Power Consumption - Oil Equivalent - Israel
+BP/SOLAR_CONSUM_O_QAT,Solar Power Consumption - Oil Equivalent - Qatar
+BP/SOLAR_CONSUM_O_SAU,Solar Power Consumption - Oil Equivalent - Saudi Arabia
+BP/SOLAR_CONSUM_O_ARE,Solar Power Consumption - Oil Equivalent - United Arab Emirates
+BP/SOLAR_CONSUM_O_EGY,Solar Power Consumption - Oil Equivalent - Egypt
+BP/SOLAR_CONSUM_O_ZAF,Solar Power Consumption - Oil Equivalent - South Africa
+BP/SOLAR_CONSUM_O_MIDE,Solar Power Consumption - Oil Equivalent - Total Middle East
+BP/SOLAR_CONSUM_O_OAFR,Solar Power Consumption - Oil Equivalent - Other Africa
+BP/SOLAR_CONSUM_O_DZA,Solar Power Consumption - Oil Equivalent - Algeria
+BP/SOLAR_CONSUM_O_TAFR,Solar Power Consumption - Oil Equivalent - Total Africa
+BP/SOLAR_CONSUM_O_OMDE,Solar Power Consumption - Oil Equivalent - Other Middle East
+BP/SOLAR_CONSUM_O_CHN,Solar Power Consumption - Oil Equivalent - China
+BP/SOLAR_CONSUM_O_AUS,Solar Power Consumption - Oil Equivalent - Australia
+BP/SOLAR_CONSUM_O_BGD,Solar Power Consumption - Oil Equivalent - Bangladesh
+BP/SOLAR_CONSUM_O_IDN,Solar Power Consumption - Oil Equivalent - Indonesia
+BP/SOLAR_CONSUM_O_HKG,Solar Power Consumption - Oil Equivalent - China Hong Kong SAR
+BP/SOLAR_CONSUM_O_JPN,Solar Power Consumption - Oil Equivalent - Japan
+BP/SOLAR_CONSUM_O_NZL,Solar Power Consumption - Oil Equivalent - New Zealand
+BP/SOLAR_CONSUM_O_IND,Solar Power Consumption - Oil Equivalent - India
+BP/SOLAR_CONSUM_O_PAK,Solar Power Consumption - Oil Equivalent - Pakistan
+BP/SOLAR_CONSUM_O_MYS,Solar Power Consumption - Oil Equivalent - Malaysia
+BP/SOLAR_CONSUM_O_PHL,Solar Power Consumption - Oil Equivalent - Philippines
+BP/SOLAR_CONSUM_O_SGP,Solar Power Consumption - Oil Equivalent - Singapore
+BP/SOLAR_CONSUM_O_KOR,Solar Power Consumption - Oil Equivalent - South Korea
+BP/SOLAR_CONSUM_O_TASP,Solar Power Consumption - Oil Equivalent - Total Asia Pacific
+BP/SOLAR_CONSUM_O_TWN,Solar Power Consumption - Oil Equivalent - Taiwan
+BP/SOLAR_CONSUM_O_OASP,Solar Power Consumption - Oil Equivalent - Other Asia Pacific
+BP/SOLAR_CONSUM_O_VNM,Solar Power Consumption - Oil Equivalent - Vietnam
+BP/SOLAR_CONSUM_O_THA,Solar Power Consumption - Oil Equivalent - Thailand
+BP/SOLAR_CONSUM_O_WRLD,Solar Power Consumption - Oil Equivalent - Total World
+BP/WIND_CONSUM_USA,Wind Power Consumption - USA
+BP/WIND_CONSUM_CAN,Wind Power Consumption - Canada
+BP/WIND_CONSUM_MEX,Wind Power Consumption - Mexico
+BP/WIND_CONSUM_NOAM,Wind Power Consumption - Total North America
+BP/WIND_CONSUM_BRA,Wind Power Consumption - Brazil
+BP/WIND_CONSUM_ARG,Wind Power Consumption - Argentina
+BP/WIND_CONSUM_ECU,Wind Power Consumption - Ecuador
+BP/WIND_CONSUM_COL,Wind Power Consumption - Colombia
+BP/WIND_CONSUM_CHL,Wind Power Consumption - Chile
+BP/WIND_CONSUM_PER,Wind Power Consumption - Peru
+BP/WIND_CONSUM_TTO,Wind Power Consumption - Trinidad & Tobago
+BP/WIND_CONSUM_VEN,Wind Power Consumption - Venezuela
+BP/WIND_CONSUM_OSCA,Wind Power Consumption - Other S. & Cent. America
+BP/WIND_CONSUM_CESA,Wind Power Consumption - Total S. & Cent. America
+BP/WIND_CONSUM_AUT,Wind Power Consumption - Austria
+BP/WIND_CONSUM_AZE,Wind Power Consumption - Azerbaijan
+BP/WIND_CONSUM_BLR,Wind Power Consumption - Belarus
+BP/WIND_CONSUM_BEL,Wind Power Consumption - Belgium
+BP/WIND_CONSUM_BGR,Wind Power Consumption - Bulgaria
+BP/WIND_CONSUM_CZE,Wind Power Consumption - Czech Republic
+BP/WIND_CONSUM_DNK,Wind Power Consumption - Denmark
+BP/WIND_CONSUM_FIN,Wind Power Consumption - Finland
+BP/WIND_CONSUM_FRA,Wind Power Consumption - France
+BP/WIND_CONSUM_DEU,Wind Power Consumption - Germany
+BP/WIND_CONSUM_GRC,Wind Power Consumption - Greece
+BP/WIND_CONSUM_HUN,Wind Power Consumption - Hungary
+BP/WIND_CONSUM_IRL,Wind Power Consumption - Ireland
+BP/WIND_CONSUM_ITA,Wind Power Consumption - Italy
+BP/WIND_CONSUM_KAZ,Wind Power Consumption - Kazakhstan
+BP/WIND_CONSUM_LTU,Wind Power Consumption - Lithuania
+BP/WIND_CONSUM_NLD,Wind Power Consumption - Netherlands
+BP/WIND_CONSUM_NOR,Wind Power Consumption - Norway
+BP/WIND_CONSUM_POL,Wind Power Consumption - Poland
+BP/WIND_CONSUM_RUS,Wind Power Consumption - Russian Federation
+BP/WIND_CONSUM_ROU,Wind Power Consumption - Romania
+BP/WIND_CONSUM_PRT,Wind Power Consumption - Portugal
+BP/WIND_CONSUM_SVK,Wind Power Consumption - Slovakia
+BP/WIND_CONSUM_ESP,Wind Power Consumption - Spain
+BP/WIND_CONSUM_SWE,Wind Power Consumption - Sweden
+BP/WIND_CONSUM_TUR,Wind Power Consumption - Turkey
+BP/WIND_CONSUM_CHE,Wind Power Consumption - Switzerland
+BP/WIND_CONSUM_TKM,Wind Power Consumption - Turkmenistan
+BP/WIND_CONSUM_UKR,Wind Power Consumption - Ukraine
+BP/WIND_CONSUM_TEUE,Wind Power Consumption - Total Europe & Eurasia
+BP/WIND_CONSUM_IRN,Wind Power Consumption - Iran
+BP/WIND_CONSUM_GBR,Wind Power Consumption - United Kingdom
+BP/WIND_CONSUM_UZB,Wind Power Consumption - Uzbekistan
+BP/WIND_CONSUM_OEUE,Wind Power Consumption - Other Europe & Eurasia
+BP/WIND_CONSUM_ISR,Wind Power Consumption - Israel
+BP/WIND_CONSUM_QAT,Wind Power Consumption - Qatar
+BP/WIND_CONSUM_SAU,Wind Power Consumption - Saudi Arabia
+BP/WIND_CONSUM_KWT,Wind Power Consumption - Kuwait
+BP/WIND_CONSUM_ARE,Wind Power Consumption - United Arab Emirates
+BP/WIND_CONSUM_EGY,Wind Power Consumption - Egypt
+BP/WIND_CONSUM_DZA,Wind Power Consumption - Algeria
+BP/WIND_CONSUM_MIDE,Wind Power Consumption - Total Middle East
+BP/WIND_CONSUM_ZAF,Wind Power Consumption - South Africa
+BP/WIND_CONSUM_OMDE,Wind Power Consumption - Other Middle East
+BP/WIND_CONSUM_BGD,Wind Power Consumption - Bangladesh
+BP/WIND_CONSUM_OAFR,Wind Power Consumption - Other Africa
+BP/WIND_CONSUM_TAFR,Wind Power Consumption - Total Africa
+BP/WIND_CONSUM_AUS,Wind Power Consumption - Australia
+BP/WIND_CONSUM_CHN,Wind Power Consumption - China
+BP/WIND_CONSUM_HKG,Wind Power Consumption - China Hong Kong SAR
+BP/WIND_CONSUM_IND,Wind Power Consumption - India
+BP/WIND_CONSUM_JPN,Wind Power Consumption - Japan
+BP/WIND_CONSUM_IDN,Wind Power Consumption - Indonesia
+BP/WIND_CONSUM_MYS,Wind Power Consumption - Malaysia
+BP/WIND_CONSUM_NZL,Wind Power Consumption - New Zealand
+BP/WIND_CONSUM_PAK,Wind Power Consumption - Pakistan
+BP/WIND_CONSUM_SGP,Wind Power Consumption - Singapore
+BP/WIND_CONSUM_PHL,Wind Power Consumption - Philippines
+BP/WIND_CONSUM_KOR,Wind Power Consumption - South Korea
+BP/WIND_CONSUM_TWN,Wind Power Consumption - Taiwan
+BP/WIND_CONSUM_OASP,Wind Power Consumption - Other Asia Pacific
+BP/WIND_CONSUM_VNM,Wind Power Consumption - Vietnam
+BP/WIND_CONSUM_TASP,Wind Power Consumption - Total Asia Pacific
+BP/WIND_CONSUM_WRLD,Wind Power Consumption - Total World
+BP/WIND_CONSUM_THA,Wind Power Consumption - Thailand
+BP/WIND_CONSUM_O_USA,Wind Power Consumption - Oil Equivalent - USA
+BP/WIND_CONSUM_O_MEX,Wind Power Consumption - Oil Equivalent - Mexico
+BP/WIND_CONSUM_O_CAN,Wind Power Consumption - Oil Equivalent - Canada
+BP/WIND_CONSUM_O_NOAM,Wind Power Consumption - Oil Equivalent - Total North America
+BP/WIND_CONSUM_O_BRA,Wind Power Consumption - Oil Equivalent - Brazil
+BP/WIND_CONSUM_O_ARG,Wind Power Consumption - Oil Equivalent - Argentina
+BP/WIND_CONSUM_O_CHL,Wind Power Consumption - Oil Equivalent - Chile
+BP/WIND_CONSUM_O_COL,Wind Power Consumption - Oil Equivalent - Colombia
+BP/WIND_CONSUM_O_ECU,Wind Power Consumption - Oil Equivalent - Ecuador
+BP/WIND_CONSUM_O_TTO,Wind Power Consumption - Oil Equivalent - Trinidad & Tobago
+BP/WIND_CONSUM_O_PER,Wind Power Consumption - Oil Equivalent - Peru
+BP/WIND_CONSUM_O_VEN,Wind Power Consumption - Oil Equivalent - Venezuela
+BP/WIND_CONSUM_O_OSCA,Wind Power Consumption - Oil Equivalent - Other S. & Cent. America
+BP/WIND_CONSUM_O_CESA,Wind Power Consumption - Oil Equivalent - Total S. & Cent. America
+BP/WIND_CONSUM_O_AUT,Wind Power Consumption - Oil Equivalent - Austria
+BP/WIND_CONSUM_O_BEL,Wind Power Consumption - Oil Equivalent - Belgium
+BP/WIND_CONSUM_O_BLR,Wind Power Consumption - Oil Equivalent - Belarus
+BP/WIND_CONSUM_O_AZE,Wind Power Consumption - Oil Equivalent - Azerbaijan
+BP/WIND_CONSUM_O_CZE,Wind Power Consumption - Oil Equivalent - Czech Republic
+BP/WIND_CONSUM_O_BGR,Wind Power Consumption - Oil Equivalent - Bulgaria
+BP/WIND_CONSUM_O_DNK,Wind Power Consumption - Oil Equivalent - Denmark
+BP/WIND_CONSUM_O_FIN,Wind Power Consumption - Oil Equivalent - Finland
+BP/WIND_CONSUM_O_FRA,Wind Power Consumption - Oil Equivalent - France
+BP/WIND_CONSUM_O_DEU,Wind Power Consumption - Oil Equivalent - Germany
+BP/WIND_CONSUM_O_GRC,Wind Power Consumption - Oil Equivalent - Greece
+BP/WIND_CONSUM_O_IRL,Wind Power Consumption - Oil Equivalent - Ireland
+BP/WIND_CONSUM_O_ITA,Wind Power Consumption - Oil Equivalent - Italy
+BP/WIND_CONSUM_O_HUN,Wind Power Consumption - Oil Equivalent - Hungary
+BP/WIND_CONSUM_O_KAZ,Wind Power Consumption - Oil Equivalent - Kazakhstan
+BP/WIND_CONSUM_O_LTU,Wind Power Consumption - Oil Equivalent - Lithuania
+BP/WIND_CONSUM_O_NLD,Wind Power Consumption - Oil Equivalent - Netherlands
+BP/WIND_CONSUM_O_NOR,Wind Power Consumption - Oil Equivalent - Norway
+BP/WIND_CONSUM_O_POL,Wind Power Consumption - Oil Equivalent - Poland
+BP/WIND_CONSUM_O_PRT,Wind Power Consumption - Oil Equivalent - Portugal
+BP/WIND_CONSUM_O_ROU,Wind Power Consumption - Oil Equivalent - Romania
+BP/WIND_CONSUM_O_RUS,Wind Power Consumption - Oil Equivalent - Russian Federation
+BP/WIND_CONSUM_O_SVK,Wind Power Consumption - Oil Equivalent - Slovakia
+BP/WIND_CONSUM_O_SWE,Wind Power Consumption - Oil Equivalent - Sweden
+BP/WIND_CONSUM_O_ESP,Wind Power Consumption - Oil Equivalent - Spain
+BP/WIND_CONSUM_O_CHE,Wind Power Consumption - Oil Equivalent - Switzerland
+BP/WIND_CONSUM_O_TUR,Wind Power Consumption - Oil Equivalent - Turkey
+BP/WIND_CONSUM_O_TKM,Wind Power Consumption - Oil Equivalent - Turkmenistan
+BP/WIND_CONSUM_O_UKR,Wind Power Consumption - Oil Equivalent - Ukraine
+BP/WIND_CONSUM_O_GBR,Wind Power Consumption - Oil Equivalent - United Kingdom
+BP/WIND_CONSUM_O_UZB,Wind Power Consumption - Oil Equivalent - Uzbekistan
+BP/WIND_CONSUM_O_TEUE,Wind Power Consumption - Oil Equivalent - Total Europe & Eurasia
+BP/WIND_CONSUM_O_OEUE,Wind Power Consumption - Oil Equivalent - Other Europe & Eurasia
+BP/WIND_CONSUM_O_IRN,Wind Power Consumption - Oil Equivalent - Iran
+BP/WIND_CONSUM_O_ISR,Wind Power Consumption - Oil Equivalent - Israel
+BP/WIND_CONSUM_O_KWT,Wind Power Consumption - Oil Equivalent - Kuwait
+BP/WIND_CONSUM_O_QAT,Wind Power Consumption - Oil Equivalent - Qatar
+BP/WIND_CONSUM_O_SAU,Wind Power Consumption - Oil Equivalent - Saudi Arabia
+BP/WIND_CONSUM_O_ARE,Wind Power Consumption - Oil Equivalent - United Arab Emirates
+BP/WIND_CONSUM_O_OMDE,Wind Power Consumption - Oil Equivalent - Other Middle East
+BP/WIND_CONSUM_O_MIDE,Wind Power Consumption - Oil Equivalent - Total Middle East
+BP/WIND_CONSUM_O_DZA,Wind Power Consumption - Oil Equivalent - Algeria
+BP/WIND_CONSUM_O_EGY,Wind Power Consumption - Oil Equivalent - Egypt
+BP/WIND_CONSUM_O_ZAF,Wind Power Consumption - Oil Equivalent - South Africa
+BP/WIND_CONSUM_O_OAFR,Wind Power Consumption - Oil Equivalent - Other Africa
+BP/WIND_CONSUM_O_TAFR,Wind Power Consumption - Oil Equivalent - Total Africa
+BP/WIND_CONSUM_O_AUS,Wind Power Consumption - Oil Equivalent - Australia
+BP/WIND_CONSUM_O_BGD,Wind Power Consumption - Oil Equivalent - Bangladesh
+BP/WIND_CONSUM_O_CHN,Wind Power Consumption - Oil Equivalent - China
+BP/WIND_CONSUM_O_HKG,Wind Power Consumption - Oil Equivalent - China Hong Kong SAR
+BP/WIND_CONSUM_O_IND,Wind Power Consumption - Oil Equivalent - India
+BP/WIND_CONSUM_O_IDN,Wind Power Consumption - Oil Equivalent - Indonesia
+BP/WIND_CONSUM_O_MYS,Wind Power Consumption - Oil Equivalent - Malaysia
+BP/WIND_CONSUM_O_JPN,Wind Power Consumption - Oil Equivalent - Japan
+BP/WIND_CONSUM_O_NZL,Wind Power Consumption - Oil Equivalent - New Zealand
+BP/WIND_CONSUM_O_PAK,Wind Power Consumption - Oil Equivalent - Pakistan
+BP/WIND_CONSUM_O_SGP,Wind Power Consumption - Oil Equivalent - Singapore
+BP/WIND_CONSUM_O_PHL,Wind Power Consumption - Oil Equivalent - Philippines
+BP/WIND_CONSUM_O_KOR,Wind Power Consumption - Oil Equivalent - South Korea
+BP/WIND_CONSUM_O_THA,Wind Power Consumption - Oil Equivalent - Thailand
+BP/WIND_CONSUM_O_TWN,Wind Power Consumption - Oil Equivalent - Taiwan
+BP/WIND_CONSUM_O_VNM,Wind Power Consumption - Oil Equivalent - Vietnam
+BP/WIND_CONSUM_O_OASP,Wind Power Consumption - Oil Equivalent - Other Asia Pacific
+BP/WIND_CONSUM_O_TASP,Wind Power Consumption - Oil Equivalent - Total Asia Pacific
+BP/WIND_CONSUM_O_WRLD,Wind Power Consumption - Oil Equivalent - Total World
+BP/GEO_CONSUM_USA,Geothermal and Biomass Power Consumption - USA
+BP/GEO_CONSUM_CAN,Geothermal and Biomass Power Consumption - Canada
+BP/GEO_CONSUM_MEX,Geothermal and Biomass Power Consumption - Mexico
+BP/GEO_CONSUM_BRA,Geothermal and Biomass Power Consumption - Brazil
+BP/GEO_CONSUM_ARG,Geothermal and Biomass Power Consumption - Argentina
+BP/GEO_CONSUM_NOAM,Geothermal and Biomass Power Consumption - Total North America
+BP/GEO_CONSUM_CHL,Geothermal and Biomass Power Consumption - Chile
+BP/GEO_CONSUM_ECU,Geothermal and Biomass Power Consumption - Ecuador
+BP/GEO_CONSUM_COL,Geothermal and Biomass Power Consumption - Colombia
+BP/GEO_CONSUM_PER,Geothermal and Biomass Power Consumption - Peru
+BP/GEO_CONSUM_VEN,Geothermal and Biomass Power Consumption - Venezuela
+BP/GEO_CONSUM_TTO,Geothermal and Biomass Power Consumption - Trinidad & Tobago
+BP/GEO_CONSUM_OSCA,Geothermal and Biomass Power Consumption - Other S. & Cent. America
+BP/GEO_CONSUM_CESA,Geothermal and Biomass Power Consumption - Total S. & Cent. America
+BP/GEO_CONSUM_AZE,Geothermal and Biomass Power Consumption - Azerbaijan
+BP/GEO_CONSUM_AUT,Geothermal and Biomass Power Consumption - Austria
+BP/GEO_CONSUM_BLR,Geothermal and Biomass Power Consumption - Belarus
+BP/GEO_CONSUM_CZE,Geothermal and Biomass Power Consumption - Czech Republic
+BP/GEO_CONSUM_BEL,Geothermal and Biomass Power Consumption - Belgium
+BP/GEO_CONSUM_BGR,Geothermal and Biomass Power Consumption - Bulgaria
+BP/GEO_CONSUM_FRA,Geothermal and Biomass Power Consumption - France
+BP/GEO_CONSUM_DNK,Geothermal and Biomass Power Consumption - Denmark
+BP/GEO_CONSUM_FIN,Geothermal and Biomass Power Consumption - Finland
+BP/GEO_CONSUM_DEU,Geothermal and Biomass Power Consumption - Germany
+BP/GEO_CONSUM_GRC,Geothermal and Biomass Power Consumption - Greece
+BP/GEO_CONSUM_HUN,Geothermal and Biomass Power Consumption - Hungary
+BP/GEO_CONSUM_ITA,Geothermal and Biomass Power Consumption - Italy
+BP/GEO_CONSUM_KAZ,Geothermal and Biomass Power Consumption - Kazakhstan
+BP/GEO_CONSUM_LTU,Geothermal and Biomass Power Consumption - Lithuania
+BP/GEO_CONSUM_NLD,Geothermal and Biomass Power Consumption - Netherlands
+BP/GEO_CONSUM_IRL,Geothermal and Biomass Power Consumption - Ireland
+BP/GEO_CONSUM_NOR,Geothermal and Biomass Power Consumption - Norway
+BP/GEO_CONSUM_POL,Geothermal and Biomass Power Consumption - Poland
+BP/GEO_CONSUM_PRT,Geothermal and Biomass Power Consumption - Portugal
+BP/GEO_CONSUM_ROU,Geothermal and Biomass Power Consumption - Romania
+BP/GEO_CONSUM_RUS,Geothermal and Biomass Power Consumption - Russian Federation
+BP/GEO_CONSUM_ESP,Geothermal and Biomass Power Consumption - Spain
+BP/GEO_CONSUM_SWE,Geothermal and Biomass Power Consumption - Sweden
+BP/GEO_CONSUM_SVK,Geothermal and Biomass Power Consumption - Slovakia
+BP/GEO_CONSUM_TUR,Geothermal and Biomass Power Consumption - Turkey
+BP/GEO_CONSUM_CHE,Geothermal and Biomass Power Consumption - Switzerland
+BP/GEO_CONSUM_TKM,Geothermal and Biomass Power Consumption - Turkmenistan
+BP/GEO_CONSUM_UKR,Geothermal and Biomass Power Consumption - Ukraine
+BP/GEO_CONSUM_UZB,Geothermal and Biomass Power Consumption - Uzbekistan
+BP/GEO_CONSUM_GBR,Geothermal and Biomass Power Consumption - United Kingdom
+BP/GEO_CONSUM_OEUE,Geothermal and Biomass Power Consumption - Other Europe & Eurasia
+BP/GEO_CONSUM_TEUE,Geothermal and Biomass Power Consumption - Total Europe & Eurasia
+BP/GEO_CONSUM_ISR,Geothermal and Biomass Power Consumption - Israel
+BP/GEO_CONSUM_IRN,Geothermal and Biomass Power Consumption - Iran
+BP/GEO_CONSUM_QAT,Geothermal and Biomass Power Consumption - Qatar
+BP/GEO_CONSUM_KWT,Geothermal and Biomass Power Consumption - Kuwait
+BP/GEO_CONSUM_SAU,Geothermal and Biomass Power Consumption - Saudi Arabia
+BP/GEO_CONSUM_ARE,Geothermal and Biomass Power Consumption - United Arab Emirates
+BP/GEO_CONSUM_DZA,Geothermal and Biomass Power Consumption - Algeria
+BP/GEO_CONSUM_OMDE,Geothermal and Biomass Power Consumption - Other Middle East
+BP/GEO_CONSUM_MIDE,Geothermal and Biomass Power Consumption - Total Middle East
+BP/GEO_CONSUM_ZAF,Geothermal and Biomass Power Consumption - South Africa
+BP/GEO_CONSUM_EGY,Geothermal and Biomass Power Consumption - Egypt
+BP/GEO_CONSUM_AUS,Geothermal and Biomass Power Consumption - Australia
+BP/GEO_CONSUM_OAFR,Geothermal and Biomass Power Consumption - Other Africa
+BP/GEO_CONSUM_TAFR,Geothermal and Biomass Power Consumption - Total Africa
+BP/GEO_CONSUM_BGD,Geothermal and Biomass Power Consumption - Bangladesh
+BP/GEO_CONSUM_CHN,Geothermal and Biomass Power Consumption - China
+BP/GEO_CONSUM_HKG,Geothermal and Biomass Power Consumption - China Hong Kong SAR
+BP/GEO_CONSUM_IDN,Geothermal and Biomass Power Consumption - Indonesia
+BP/GEO_CONSUM_IND,Geothermal and Biomass Power Consumption - India
+BP/GEO_CONSUM_MYS,Geothermal and Biomass Power Consumption - Malaysia
+BP/GEO_CONSUM_JPN,Geothermal and Biomass Power Consumption - Japan
+BP/GEO_CONSUM_NZL,Geothermal and Biomass Power Consumption - New Zealand
+BP/GEO_CONSUM_PAK,Geothermal and Biomass Power Consumption - Pakistan
+BP/GEO_CONSUM_PHL,Geothermal and Biomass Power Consumption - Philippines
+BP/GEO_CONSUM_SGP,Geothermal and Biomass Power Consumption - Singapore
+BP/GEO_CONSUM_KOR,Geothermal and Biomass Power Consumption - South Korea
+BP/GEO_CONSUM_THA,Geothermal and Biomass Power Consumption - Thailand
+BP/GEO_CONSUM_VNM,Geothermal and Biomass Power Consumption - Vietnam
+BP/GEO_CONSUM_TWN,Geothermal and Biomass Power Consumption - Taiwan
+BP/GEO_CONSUM_OASP,Geothermal and Biomass Power Consumption - Other Asia Pacific
+BP/GEO_CONSUM_TASP,Geothermal and Biomass Power Consumption - Total Asia Pacific
+BP/GEO_CONSUM_WRLD,Geothermal and Biomass Power Consumption - Total World
+BP/GEO_CONSUM_O_USA,Geothermal and Biomass Power Consumption - Oil Equivalent - USA
+BP/GEO_CONSUM_O_CAN,Geothermal and Biomass Power Consumption - Oil Equivalent - Canada
+BP/GEO_CONSUM_O_NOAM,Geothermal and Biomass Power Consumption - Oil Equivalent - Total North America
+BP/GEO_CONSUM_O_MEX,Geothermal and Biomass Power Consumption - Oil Equivalent - Mexico
+BP/GEO_CONSUM_O_ARG,Geothermal and Biomass Power Consumption - Oil Equivalent - Argentina
+BP/GEO_CONSUM_O_BRA,Geothermal and Biomass Power Consumption - Oil Equivalent - Brazil
+BP/GEO_CONSUM_O_CHL,Geothermal and Biomass Power Consumption - Oil Equivalent - Chile
+BP/GEO_CONSUM_O_COL,Geothermal and Biomass Power Consumption - Oil Equivalent - Colombia
+BP/GEO_CONSUM_O_ECU,Geothermal and Biomass Power Consumption - Oil Equivalent - Ecuador
+BP/GEO_CONSUM_O_PER,Geothermal and Biomass Power Consumption - Oil Equivalent - Peru
+BP/GEO_CONSUM_O_TTO,Geothermal and Biomass Power Consumption - Oil Equivalent - Trinidad & Tobago
+BP/GEO_CONSUM_O_VEN,Geothermal and Biomass Power Consumption - Oil Equivalent - Venezuela
+BP/GEO_CONSUM_O_OSCA,Geothermal and Biomass Power Consumption - Oil Equivalent - Other S. & Cent. America
+BP/GEO_CONSUM_O_CESA,Geothermal and Biomass Power Consumption - Oil Equivalent - Total S. & Cent. America
+BP/GEO_CONSUM_O_AUT,Geothermal and Biomass Power Consumption - Oil Equivalent - Austria
+BP/GEO_CONSUM_O_AZE,Geothermal and Biomass Power Consumption - Oil Equivalent - Azerbaijan
+BP/GEO_CONSUM_O_BLR,Geothermal and Biomass Power Consumption - Oil Equivalent - Belarus
+BP/GEO_CONSUM_O_BEL,Geothermal and Biomass Power Consumption - Oil Equivalent - Belgium
+BP/GEO_CONSUM_O_BGR,Geothermal and Biomass Power Consumption - Oil Equivalent - Bulgaria
+BP/GEO_CONSUM_O_CZE,Geothermal and Biomass Power Consumption - Oil Equivalent - Czech Republic
+BP/GEO_CONSUM_O_DNK,Geothermal and Biomass Power Consumption - Oil Equivalent - Denmark
+BP/GEO_CONSUM_O_FIN,Geothermal and Biomass Power Consumption - Oil Equivalent - Finland
+BP/GEO_CONSUM_O_FRA,Geothermal and Biomass Power Consumption - Oil Equivalent - France
+BP/GEO_CONSUM_O_DEU,Geothermal and Biomass Power Consumption - Oil Equivalent - Germany
+BP/GEO_CONSUM_O_GRC,Geothermal and Biomass Power Consumption - Oil Equivalent - Greece
+BP/GEO_CONSUM_O_HUN,Geothermal and Biomass Power Consumption - Oil Equivalent - Hungary
+BP/GEO_CONSUM_O_IRL,Geothermal and Biomass Power Consumption - Oil Equivalent - Ireland
+BP/GEO_CONSUM_O_ITA,Geothermal and Biomass Power Consumption - Oil Equivalent - Italy
+BP/GEO_CONSUM_O_KAZ,Geothermal and Biomass Power Consumption - Oil Equivalent - Kazakhstan
+BP/GEO_CONSUM_O_NLD,Geothermal and Biomass Power Consumption - Oil Equivalent - Netherlands
+BP/GEO_CONSUM_O_LTU,Geothermal and Biomass Power Consumption - Oil Equivalent - Lithuania
+BP/GEO_CONSUM_O_PRT,Geothermal and Biomass Power Consumption - Oil Equivalent - Portugal
+BP/GEO_CONSUM_O_POL,Geothermal and Biomass Power Consumption - Oil Equivalent - Poland
+BP/GEO_CONSUM_O_NOR,Geothermal and Biomass Power Consumption - Oil Equivalent - Norway
+BP/GEO_CONSUM_O_ROU,Geothermal and Biomass Power Consumption - Oil Equivalent - Romania
+BP/GEO_CONSUM_O_RUS,Geothermal and Biomass Power Consumption - Oil Equivalent - Russian Federation
+BP/GEO_CONSUM_O_SVK,Geothermal and Biomass Power Consumption - Oil Equivalent - Slovakia
+BP/GEO_CONSUM_O_ESP,Geothermal and Biomass Power Consumption - Oil Equivalent - Spain
+BP/GEO_CONSUM_O_SWE,Geothermal and Biomass Power Consumption - Oil Equivalent - Sweden
+BP/GEO_CONSUM_O_CHE,Geothermal and Biomass Power Consumption - Oil Equivalent - Switzerland
+BP/GEO_CONSUM_O_TKM,Geothermal and Biomass Power Consumption - Oil Equivalent - Turkmenistan
+BP/GEO_CONSUM_O_TUR,Geothermal and Biomass Power Consumption - Oil Equivalent - Turkey
+BP/GEO_CONSUM_O_UKR,Geothermal and Biomass Power Consumption - Oil Equivalent - Ukraine
+BP/GEO_CONSUM_O_GBR,Geothermal and Biomass Power Consumption - Oil Equivalent - United Kingdom
+BP/GEO_CONSUM_O_UZB,Geothermal and Biomass Power Consumption - Oil Equivalent - Uzbekistan
+BP/GEO_CONSUM_O_OEUE,Geothermal and Biomass Power Consumption - Oil Equivalent - Other Europe & Eurasia
+BP/GEO_CONSUM_O_TEUE,Geothermal and Biomass Power Consumption - Oil Equivalent - Total Europe & Eurasia
+BP/GEO_CONSUM_O_IRN,Geothermal and Biomass Power Consumption - Oil Equivalent - Iran
+BP/GEO_CONSUM_O_KWT,Geothermal and Biomass Power Consumption - Oil Equivalent - Kuwait
+BP/GEO_CONSUM_O_ISR,Geothermal and Biomass Power Consumption - Oil Equivalent - Israel
+BP/GEO_CONSUM_O_QAT,Geothermal and Biomass Power Consumption - Oil Equivalent - Qatar
+BP/GEO_CONSUM_O_SAU,Geothermal and Biomass Power Consumption - Oil Equivalent - Saudi Arabia
+BP/GEO_CONSUM_O_ARE,Geothermal and Biomass Power Consumption - Oil Equivalent - United Arab Emirates
+BP/GEO_CONSUM_O_OMDE,Geothermal and Biomass Power Consumption - Oil Equivalent - Other Middle East
+BP/GEO_CONSUM_O_MIDE,Geothermal and Biomass Power Consumption - Oil Equivalent - Total Middle East
+BP/GEO_CONSUM_O_DZA,Geothermal and Biomass Power Consumption - Oil Equivalent - Algeria
+BP/GEO_CONSUM_O_EGY,Geothermal and Biomass Power Consumption - Oil Equivalent - Egypt
+BP/GEO_CONSUM_O_OAFR,Geothermal and Biomass Power Consumption - Oil Equivalent - Other Africa
+BP/GEO_CONSUM_O_ZAF,Geothermal and Biomass Power Consumption - Oil Equivalent - South Africa
+BP/GEO_CONSUM_O_TAFR,Geothermal and Biomass Power Consumption - Oil Equivalent - Total Africa
+BP/GEO_CONSUM_O_AUS,Geothermal and Biomass Power Consumption - Oil Equivalent - Australia
+BP/GEO_CONSUM_O_BGD,Geothermal and Biomass Power Consumption - Oil Equivalent - Bangladesh
+BP/GEO_CONSUM_O_CHN,Geothermal and Biomass Power Consumption - Oil Equivalent - China
+BP/GEO_CONSUM_O_HKG,Geothermal and Biomass Power Consumption - Oil Equivalent - China Hong Kong SAR
+BP/GEO_CONSUM_O_IDN,Geothermal and Biomass Power Consumption - Oil Equivalent - Indonesia
+BP/GEO_CONSUM_O_IND,Geothermal and Biomass Power Consumption - Oil Equivalent - India
+BP/GEO_CONSUM_O_PAK,Geothermal and Biomass Power Consumption - Oil Equivalent - Pakistan
+BP/GEO_CONSUM_O_NZL,Geothermal and Biomass Power Consumption - Oil Equivalent - New Zealand
+BP/GEO_CONSUM_O_JPN,Geothermal and Biomass Power Consumption - Oil Equivalent - Japan
+BP/GEO_CONSUM_O_MYS,Geothermal and Biomass Power Consumption - Oil Equivalent - Malaysia
+BP/GEO_CONSUM_O_PHL,Geothermal and Biomass Power Consumption - Oil Equivalent - Philippines
+BP/GEO_CONSUM_O_SGP,Geothermal and Biomass Power Consumption - Oil Equivalent - Singapore
+BP/GEO_CONSUM_O_KOR,Geothermal and Biomass Power Consumption - Oil Equivalent - South Korea
+BP/GEO_CONSUM_O_TWN,Geothermal and Biomass Power Consumption - Oil Equivalent - Taiwan
+BP/GEO_CONSUM_O_VNM,Geothermal and Biomass Power Consumption - Oil Equivalent - Vietnam
+BP/GEO_CONSUM_O_THA,Geothermal and Biomass Power Consumption - Oil Equivalent - Thailand
+BP/GEO_CONSUM_O_OASP,Geothermal and Biomass Power Consumption - Oil Equivalent - Other Asia Pacific
+BP/GEO_CONSUM_O_TASP,Geothermal and Biomass Power Consumption - Oil Equivalent - Total Asia Pacific
+BP/GEO_CONSUM_O_WRLD,Geothermal and Biomass Power Consumption - Oil Equivalent - Total World
+BP/BIOFUEL_PROD_O_CAN,Biofuel Production - Oil Equivalent - Canada
+BP/BIOFUEL_PROD_O_USA,Biofuel Production - Oil Equivalent - USA
+BP/BIOFUEL_PROD_O_NOAM,Biofuel Production - Oil Equivalent - Total North America
+BP/BIOFUEL_PROD_O_ARG,Biofuel Production - Oil Equivalent - Argentina
+BP/BIOFUEL_PROD_O_COL,Biofuel Production - Oil Equivalent - Colombia
+BP/BIOFUEL_PROD_O_BRA,Biofuel Production - Oil Equivalent - Brazil
+BP/BIOFUEL_PROD_O_OSCA,Biofuel Production - Oil Equivalent - Other S. & Cent. America
+BP/BIOFUEL_PROD_O_CESA,Biofuel Production - Oil Equivalent - Total S. & Cent. America
+BP/BIOFUEL_PROD_O_AUT,Biofuel Production - Oil Equivalent - Austria
+BP/BIOFUEL_PROD_O_BEL,Biofuel Production - Oil Equivalent - Belgium
+BP/BIOFUEL_PROD_O_FRA,Biofuel Production - Oil Equivalent - France
+BP/BIOFUEL_PROD_O_DEU,Biofuel Production - Oil Equivalent - Germany
+BP/BIOFUEL_PROD_O_ITA,Biofuel Production - Oil Equivalent - Italy
+BP/BIOFUEL_PROD_O_NLD,Biofuel Production - Oil Equivalent - Netherlands
+BP/BIOFUEL_PROD_O_POL,Biofuel Production - Oil Equivalent - Poland
+BP/BIOFUEL_PROD_O_ESP,Biofuel Production - Oil Equivalent - Spain
+BP/BIOFUEL_PROD_O_PRT,Biofuel Production - Oil Equivalent - Portugal
+BP/BIOFUEL_PROD_O_FIN,Biofuel Production - Oil Equivalent - Finland
+BP/BIOFUEL_PROD_O_SWE,Biofuel Production - Oil Equivalent - Sweden
+BP/BIOFUEL_PROD_O_GBR,Biofuel Production - Oil Equivalent - United Kingdom
+BP/BIOFUEL_PROD_O_OEUE,Biofuel Production - Oil Equivalent - Other Europe & Eurasia
+BP/BIOFUEL_PROD_O_TEUE,Biofuel Production - Oil Equivalent - Total Europe & Eurasia
+BP/BIOFUEL_PROD_O_MIDE,Biofuel Production - Oil Equivalent - Total Middle East
+BP/BIOFUEL_PROD_O_TAFR,Biofuel Production - Oil Equivalent - Total Africa
+BP/BIOFUEL_PROD_O_CHN,Biofuel Production - Oil Equivalent - China
+BP/BIOFUEL_PROD_O_AUS,Biofuel Production - Oil Equivalent - Australia
+BP/BIOFUEL_PROD_O_IND,Biofuel Production - Oil Equivalent - India
+BP/BIOFUEL_PROD_O_IDN,Biofuel Production - Oil Equivalent - Indonesia
+BP/BIOFUEL_PROD_O_KOR,Biofuel Production - Oil Equivalent - South Korea
+BP/BIOFUEL_PROD_O_THA,Biofuel Production - Oil Equivalent - Thailand
+BP/BIOFUEL_PROD_O_OASP,Biofuel Production - Oil Equivalent - Other Asia Pacific
+BP/BIOFUEL_PROD_O_TASP,Biofuel Production - Oil Equivalent - Total Asia Pacific
+BP/BIOFUEL_PROD_O_WRLD,Biofuel Production - Oil Equivalent - Total World
+BP/PRIMARY_CONSUM_O_CAN,Primary Energy Consumption - Oil Equivalent - Canada
+BP/PRIMARY_CONSUM_O_USA,Primary Energy Consumption - Oil Equivalent - USA
+BP/PRIMARY_CONSUM_O_MEX,Primary Energy Consumption - Oil Equivalent - Mexico
+BP/PRIMARY_CONSUM_O_NOAM,Primary Energy Consumption - Oil Equivalent - Total North America
+BP/PRIMARY_CONSUM_O_ARG,Primary Energy Consumption - Oil Equivalent - Argentina
+BP/PRIMARY_CONSUM_O_BRA,Primary Energy Consumption - Oil Equivalent - Brazil
+BP/PRIMARY_CONSUM_O_COL,Primary Energy Consumption - Oil Equivalent - Colombia
+BP/PRIMARY_CONSUM_O_CHL,Primary Energy Consumption - Oil Equivalent - Chile
+BP/PRIMARY_CONSUM_O_ECU,Primary Energy Consumption - Oil Equivalent - Ecuador
+BP/PRIMARY_CONSUM_O_PER,Primary Energy Consumption - Oil Equivalent - Peru
+BP/PRIMARY_CONSUM_O_TTO,Primary Energy Consumption - Oil Equivalent - Trinidad & Tobago
+BP/PRIMARY_CONSUM_O_OSCA,Primary Energy Consumption - Oil Equivalent - Other S. & Cent. America
+BP/PRIMARY_CONSUM_O_VEN,Primary Energy Consumption - Oil Equivalent - Venezuela
+BP/PRIMARY_CONSUM_O_CESA,Primary Energy Consumption - Oil Equivalent - Total S. & Cent. America
+BP/PRIMARY_CONSUM_O_AZE,Primary Energy Consumption - Oil Equivalent - Azerbaijan
+BP/PRIMARY_CONSUM_O_AUT,Primary Energy Consumption - Oil Equivalent - Austria
+BP/PRIMARY_CONSUM_O_BEL,Primary Energy Consumption - Oil Equivalent - Belgium
+BP/PRIMARY_CONSUM_O_BLR,Primary Energy Consumption - Oil Equivalent - Belarus
+BP/PRIMARY_CONSUM_O_CZE,Primary Energy Consumption - Oil Equivalent - Czech Republic
+BP/PRIMARY_CONSUM_O_BGR,Primary Energy Consumption - Oil Equivalent - Bulgaria
+BP/PRIMARY_CONSUM_O_DNK,Primary Energy Consumption - Oil Equivalent - Denmark
+BP/PRIMARY_CONSUM_O_FIN,Primary Energy Consumption - Oil Equivalent - Finland
+BP/PRIMARY_CONSUM_O_FRA,Primary Energy Consumption - Oil Equivalent - France
+BP/PRIMARY_CONSUM_O_GRC,Primary Energy Consumption - Oil Equivalent - Greece
+BP/PRIMARY_CONSUM_O_DEU,Primary Energy Consumption - Oil Equivalent - Germany
+BP/PRIMARY_CONSUM_O_HUN,Primary Energy Consumption - Oil Equivalent - Hungary
+BP/PRIMARY_CONSUM_O_IRL,Primary Energy Consumption - Oil Equivalent - Ireland
+BP/PRIMARY_CONSUM_O_ITA,Primary Energy Consumption - Oil Equivalent - Italy
+BP/PRIMARY_CONSUM_O_LTU,Primary Energy Consumption - Oil Equivalent - Lithuania
+BP/PRIMARY_CONSUM_O_KAZ,Primary Energy Consumption - Oil Equivalent - Kazakhstan
+BP/PRIMARY_CONSUM_O_NLD,Primary Energy Consumption - Oil Equivalent - Netherlands
+BP/PRIMARY_CONSUM_O_NOR,Primary Energy Consumption - Oil Equivalent - Norway
+BP/PRIMARY_CONSUM_O_POL,Primary Energy Consumption - Oil Equivalent - Poland
+BP/PRIMARY_CONSUM_O_PRT,Primary Energy Consumption - Oil Equivalent - Portugal
+BP/PRIMARY_CONSUM_O_ROU,Primary Energy Consumption - Oil Equivalent - Romania
+BP/PRIMARY_CONSUM_O_RUS,Primary Energy Consumption - Oil Equivalent - Russian Federation
+BP/PRIMARY_CONSUM_O_SVK,Primary Energy Consumption - Oil Equivalent - Slovakia
+BP/PRIMARY_CONSUM_O_ESP,Primary Energy Consumption - Oil Equivalent - Spain
+BP/PRIMARY_CONSUM_O_CHE,Primary Energy Consumption - Oil Equivalent - Switzerland
+BP/PRIMARY_CONSUM_O_SWE,Primary Energy Consumption - Oil Equivalent - Sweden
+BP/PRIMARY_CONSUM_O_TUR,Primary Energy Consumption - Oil Equivalent - Turkey
+BP/PRIMARY_CONSUM_O_TKM,Primary Energy Consumption - Oil Equivalent - Turkmenistan
+BP/PRIMARY_CONSUM_O_UKR,Primary Energy Consumption - Oil Equivalent - Ukraine
+BP/PRIMARY_CONSUM_O_GBR,Primary Energy Consumption - Oil Equivalent - United Kingdom
+BP/PRIMARY_CONSUM_O_UZB,Primary Energy Consumption - Oil Equivalent - Uzbekistan
+BP/PRIMARY_CONSUM_O_OEUE,Primary Energy Consumption - Oil Equivalent - Other Europe & Eurasia
+BP/PRIMARY_CONSUM_O_TEUE,Primary Energy Consumption - Oil Equivalent - Total Europe & Eurasia
+BP/PRIMARY_CONSUM_O_QAT,Primary Energy Consumption - Oil Equivalent - Qatar
+BP/PRIMARY_CONSUM_O_IRN,Primary Energy Consumption - Oil Equivalent - Iran
+BP/PRIMARY_CONSUM_O_ISR,Primary Energy Consumption - Oil Equivalent - Israel
+BP/PRIMARY_CONSUM_O_KWT,Primary Energy Consumption - Oil Equivalent - Kuwait
+BP/PRIMARY_CONSUM_O_SAU,Primary Energy Consumption - Oil Equivalent - Saudi Arabia
+BP/PRIMARY_CONSUM_O_ARE,Primary Energy Consumption - Oil Equivalent - United Arab Emirates
+BP/PRIMARY_CONSUM_O_OMDE,Primary Energy Consumption - Oil Equivalent - Other Middle East
+BP/PRIMARY_CONSUM_O_MIDE,Primary Energy Consumption - Oil Equivalent - Total Middle East
+BP/PRIMARY_CONSUM_O_DZA,Primary Energy Consumption - Oil Equivalent - Algeria
+BP/PRIMARY_CONSUM_O_EGY,Primary Energy Consumption - Oil Equivalent - Egypt
+BP/PRIMARY_CONSUM_O_ZAF,Primary Energy Consumption - Oil Equivalent - South Africa
+BP/PRIMARY_CONSUM_O_OAFR,Primary Energy Consumption - Oil Equivalent - Other Africa
+BP/PRIMARY_CONSUM_O_TAFR,Primary Energy Consumption - Oil Equivalent - Total Africa
+BP/PRIMARY_CONSUM_O_AUS,Primary Energy Consumption - Oil Equivalent - Australia
+BP/PRIMARY_CONSUM_O_BGD,Primary Energy Consumption - Oil Equivalent - Bangladesh
+BP/PRIMARY_CONSUM_O_CHN,Primary Energy Consumption - Oil Equivalent - China
+BP/PRIMARY_CONSUM_O_HKG,Primary Energy Consumption - Oil Equivalent - China Hong Kong SAR
+BP/PRIMARY_CONSUM_O_IND,Primary Energy Consumption - Oil Equivalent - India
+BP/PRIMARY_CONSUM_O_IDN,Primary Energy Consumption - Oil Equivalent - Indonesia
+BP/PRIMARY_CONSUM_O_JPN,Primary Energy Consumption - Oil Equivalent - Japan
+BP/PRIMARY_CONSUM_O_MYS,Primary Energy Consumption - Oil Equivalent - Malaysia
+BP/PRIMARY_CONSUM_O_NZL,Primary Energy Consumption - Oil Equivalent - New Zealand
+BP/PRIMARY_CONSUM_O_PAK,Primary Energy Consumption - Oil Equivalent - Pakistan
+BP/PRIMARY_CONSUM_O_PHL,Primary Energy Consumption - Oil Equivalent - Philippines
+BP/PRIMARY_CONSUM_O_SGP,Primary Energy Consumption - Oil Equivalent - Singapore
+BP/PRIMARY_CONSUM_O_TWN,Primary Energy Consumption - Oil Equivalent - Taiwan
+BP/PRIMARY_CONSUM_O_KOR,Primary Energy Consumption - Oil Equivalent - South Korea
+BP/PRIMARY_CONSUM_O_THA,Primary Energy Consumption - Oil Equivalent - Thailand
+BP/PRIMARY_CONSUM_O_VNM,Primary Energy Consumption - Oil Equivalent - Vietnam
+BP/PRIMARY_CONSUM_O_OASP,Primary Energy Consumption - Oil Equivalent - Other Asia Pacific
+BP/PRIMARY_CONSUM_O_TASP,Primary Energy Consumption - Oil Equivalent - Total Asia Pacific
+BP/PRIMARY_CONSUM_O_WRLD,Primary Energy Consumption - Oil Equivalent - Total World
+BP/C02_EMMISSIONS_USA,Carbon Dioxide (CO2) Emmissions - USA
+BP/C02_EMMISSIONS_CAN,Carbon Dioxide (CO2) Emmissions - Canada
+BP/C02_EMMISSIONS_MEX,Carbon Dioxide (CO2) Emmissions - Mexico
+BP/C02_EMMISSIONS_NOAM,Carbon Dioxide (CO2) Emmissions - Total North America
+BP/C02_EMMISSIONS_ARG,Carbon Dioxide (CO2) Emmissions - Argentina
+BP/C02_EMMISSIONS_BRA,Carbon Dioxide (CO2) Emmissions - Brazil
+BP/C02_EMMISSIONS_CHL,Carbon Dioxide (CO2) Emmissions - Chile
+BP/C02_EMMISSIONS_COL,Carbon Dioxide (CO2) Emmissions - Colombia
+BP/C02_EMMISSIONS_ECU,Carbon Dioxide (CO2) Emmissions - Ecuador
+BP/C02_EMMISSIONS_PER,Carbon Dioxide (CO2) Emmissions - Peru
+BP/C02_EMMISSIONS_TTO,Carbon Dioxide (CO2) Emmissions - Trinidad & Tobago
+BP/C02_EMMISSIONS_VEN,Carbon Dioxide (CO2) Emmissions - Venezuela
+BP/C02_EMMISSIONS_OSCA,Carbon Dioxide (CO2) Emmissions - Other S. & Cent. America
+BP/C02_EMMISSIONS_AUT,Carbon Dioxide (CO2) Emmissions - Austria
+BP/C02_EMMISSIONS_CESA,Carbon Dioxide (CO2) Emmissions - Total S. & Cent. America
+BP/C02_EMMISSIONS_AZE,Carbon Dioxide (CO2) Emmissions - Azerbaijan
+BP/C02_EMMISSIONS_BLR,Carbon Dioxide (CO2) Emmissions - Belarus
+BP/C02_EMMISSIONS_BEL,Carbon Dioxide (CO2) Emmissions - Belgium
+BP/C02_EMMISSIONS_BGR,Carbon Dioxide (CO2) Emmissions - Bulgaria
+BP/C02_EMMISSIONS_CZE,Carbon Dioxide (CO2) Emmissions - Czech Republic
+BP/C02_EMMISSIONS_FIN,Carbon Dioxide (CO2) Emmissions - Finland
+BP/C02_EMMISSIONS_DNK,Carbon Dioxide (CO2) Emmissions - Denmark
+BP/C02_EMMISSIONS_FRA,Carbon Dioxide (CO2) Emmissions - France
+BP/C02_EMMISSIONS_DEU,Carbon Dioxide (CO2) Emmissions - Germany
+BP/C02_EMMISSIONS_GRC,Carbon Dioxide (CO2) Emmissions - Greece
+BP/C02_EMMISSIONS_HUN,Carbon Dioxide (CO2) Emmissions - Hungary
+BP/C02_EMMISSIONS_IRL,Carbon Dioxide (CO2) Emmissions - Ireland
+BP/C02_EMMISSIONS_ITA,Carbon Dioxide (CO2) Emmissions - Italy
+BP/C02_EMMISSIONS_KAZ,Carbon Dioxide (CO2) Emmissions - Kazakhstan
+BP/C02_EMMISSIONS_LTU,Carbon Dioxide (CO2) Emmissions - Lithuania
+BP/C02_EMMISSIONS_NOR,Carbon Dioxide (CO2) Emmissions - Norway
+BP/C02_EMMISSIONS_NLD,Carbon Dioxide (CO2) Emmissions - Netherlands
+BP/C02_EMMISSIONS_POL,Carbon Dioxide (CO2) Emmissions - Poland
+BP/C02_EMMISSIONS_PRT,Carbon Dioxide (CO2) Emmissions - Portugal
+BP/C02_EMMISSIONS_ROU,Carbon Dioxide (CO2) Emmissions - Romania
+BP/C02_EMMISSIONS_RUS,Carbon Dioxide (CO2) Emmissions - Russian Federation
+BP/C02_EMMISSIONS_SVK,Carbon Dioxide (CO2) Emmissions - Slovakia
+BP/C02_EMMISSIONS_ESP,Carbon Dioxide (CO2) Emmissions - Spain
+BP/C02_EMMISSIONS_SWE,Carbon Dioxide (CO2) Emmissions - Sweden
+BP/C02_EMMISSIONS_CHE,Carbon Dioxide (CO2) Emmissions - Switzerland
+BP/C02_EMMISSIONS_TUR,Carbon Dioxide (CO2) Emmissions - Turkey
+BP/C02_EMMISSIONS_TKM,Carbon Dioxide (CO2) Emmissions - Turkmenistan
+BP/C02_EMMISSIONS_UKR,Carbon Dioxide (CO2) Emmissions - Ukraine
+BP/C02_EMMISSIONS_UZB,Carbon Dioxide (CO2) Emmissions - Uzbekistan
+BP/C02_EMMISSIONS_GBR,Carbon Dioxide (CO2) Emmissions - United Kingdom
+BP/C02_EMMISSIONS_OEUE,Carbon Dioxide (CO2) Emmissions - Other Europe & Eurasia
+BP/C02_EMMISSIONS_TEUE,Carbon Dioxide (CO2) Emmissions - Total Europe & Eurasia
+BP/C02_EMMISSIONS_IRN,Carbon Dioxide (CO2) Emmissions - Iran
+BP/C02_EMMISSIONS_ISR,Carbon Dioxide (CO2) Emmissions - Israel
+BP/C02_EMMISSIONS_KWT,Carbon Dioxide (CO2) Emmissions - Kuwait
+BP/C02_EMMISSIONS_QAT,Carbon Dioxide (CO2) Emmissions - Qatar
+BP/C02_EMMISSIONS_SAU,Carbon Dioxide (CO2) Emmissions - Saudi Arabia
+BP/C02_EMMISSIONS_ARE,Carbon Dioxide (CO2) Emmissions - United Arab Emirates
+BP/C02_EMMISSIONS_OMDE,Carbon Dioxide (CO2) Emmissions - Other Middle East
+BP/C02_EMMISSIONS_MIDE,Carbon Dioxide (CO2) Emmissions - Total Middle East
+BP/C02_EMMISSIONS_DZA,Carbon Dioxide (CO2) Emmissions - Algeria
+BP/C02_EMMISSIONS_EGY,Carbon Dioxide (CO2) Emmissions - Egypt
+BP/C02_EMMISSIONS_ZAF,Carbon Dioxide (CO2) Emmissions - South Africa
+BP/C02_EMMISSIONS_OAFR,Carbon Dioxide (CO2) Emmissions - Other Africa
+BP/C02_EMMISSIONS_TAFR,Carbon Dioxide (CO2) Emmissions - Total Africa
+BP/C02_EMMISSIONS_AUS,Carbon Dioxide (CO2) Emmissions - Australia
+BP/C02_EMMISSIONS_BGD,Carbon Dioxide (CO2) Emmissions - Bangladesh
+BP/C02_EMMISSIONS_CHN,Carbon Dioxide (CO2) Emmissions - China
+BP/C02_EMMISSIONS_HKG,Carbon Dioxide (CO2) Emmissions - China Hong Kong SAR
+BP/C02_EMMISSIONS_IND,Carbon Dioxide (CO2) Emmissions - India
+BP/C02_EMMISSIONS_IDN,Carbon Dioxide (CO2) Emmissions - Indonesia
+BP/C02_EMMISSIONS_JPN,Carbon Dioxide (CO2) Emmissions - Japan
+BP/C02_EMMISSIONS_MYS,Carbon Dioxide (CO2) Emmissions - Malaysia
+BP/C02_EMMISSIONS_NZL,Carbon Dioxide (CO2) Emmissions - New Zealand
+BP/C02_EMMISSIONS_PAK,Carbon Dioxide (CO2) Emmissions - Pakistan
+BP/C02_EMMISSIONS_PHL,Carbon Dioxide (CO2) Emmissions - Philippines
+BP/C02_EMMISSIONS_SGP,Carbon Dioxide (CO2) Emmissions - Singapore
+BP/C02_EMMISSIONS_KOR,Carbon Dioxide (CO2) Emmissions - South Korea
+BP/C02_EMMISSIONS_TWN,Carbon Dioxide (CO2) Emmissions - Taiwan
+BP/C02_EMMISSIONS_THA,Carbon Dioxide (CO2) Emmissions - Thailand
+BP/C02_EMMISSIONS_VNM,Carbon Dioxide (CO2) Emmissions - Vietnam
+BP/C02_EMMISSIONS_OASP,Carbon Dioxide (CO2) Emmissions - Other Asia Pacific
+BP/C02_EMMISSIONS_WRLD,Carbon Dioxide (CO2) Emmissions - Total World
+BP/C02_EMMISSIONS_TASP,Carbon Dioxide (CO2) Emmissions - Total Asia Pacific
+BP/BIOFUEL_PROD_D_MEX,Biofuel Production - Daily Average - Mexico
+BP/SOLAR_CAP_ROU,Solar Power Capacity - Romania
+BP/SOLAR_CAP_TWN,Solar Power Capacity - Taiwan
+BP/SOLAR_CAP_THA,Solar Power Capacity - Thailand
+BP/COAL_CONSUM_O_ECU,Coal Consumption - Oil Equivalent - Ecuador
+BP/COAL_CONSUM_O_TTO,Coal Consumption - Oil Equivalent - Trinidad & Tobago
+BP/COAL_CONSUM_O_KWT,Coal Consumption - Oil Equivalent - Kuwait
+BP/COAL_CONSUM_O_QAT,Coal Consumption - Oil Equivalent - Qatar
+BP/COAL_CONSUM_O_ARE,Coal Consumption - Oil Equivalent - United Arab Emirates
+BP/COAL_CONSUM_O_SAU,Coal Consumption - Oil Equivalent - Saudi Arabia
+BP/COAL_CONSUM_O_SGP,Coal Consumption - Oil Equivalent - Singapore
+BP/BIOFUEL_PROD_O_MEX,Biofuel Production - Oil Equivalent - Mexico
+BP/GAS_RESERVES_ISR,Proved Natural Gas Reserves - Israel
+BP/COAL_PROD_UZB,Coal Production - Uzbekistan
+BP/SOLAR_CAP_CHL,Solar Power Capacity - Chile
+BP/SOLAR_CAP_ZAF,Solar Power Capacity - South Africa
+BP/WIND_CAP_ZAF,Wind Power Capacity - South Africa
+BP/WIND_CAP_PAK,Wind Power Capacity - Pakistan
+BP/WIND_CAP_PHL,Wind Power Capacity - Philippines
+BP/WIND_CAP_THA,Wind Power Capacity - Thailand
+BP/COAL_PROD_O_UZB,Coal Production - Oil Equivalent - Uzbekistan
+BP/OIL_RESERVES_USSR,Proved Oil Reserves - USSR
+BP/GAS_RESERVES_USSR,Proved Natural Gas Reserves - USSR
+BP/HYDRO_CONSUM_USSR,Hydroelectric Consumption - USSR
+BP/OIL_PROD_D_USSR,Oil Production - Daily Average - USSR
+BP/OIL_CONSUM_D_USSR,Oil Consumption - Daily Average - USSR
+BP/COAL_PROD_SRB,Coal Production - Serbia
+BP/COAL_PROD_USSR,Coal Production - USSR
+BP/COAL_PROD_MNG,Coal Production - Mongolia
+BP/GAS_CONSUM_USSR,Natural Gas Consumption - USSR
+BP/GAS_PROD_USSR,Natural Gas Production - USSR
+BP/NUC_CONSUM_USSR,Nuclear Power Consumption - USSR
+BP/WIND_CAP_ETH,Wind Power Capacity - Ethiopia
+BP/OIL_PROD_USSR,Oil Production - USSR
+BP/OIL_CONSUM_USSR,Oil Consumption - USSR
+BP/OIL_REF_CAP_CHL,Oil Refinery Capacity - Chile
+BP/OIL_REF_CAP_CUW,Oil Refinery Capacity - Curacao
+BP/OIL_REF_CAP_COL,Oil Refinery Capacity - Colombia
+BP/OIL_REF_CAP_ECU,Oil Refinery Capacity - Ecuador
+BP/OIL_REF_CAP_PER,Oil Refinery Capacity - Peru
+BP/OIL_REF_CAP_TTO,Oil Refinery Capacity - Trinidad & Tobago
+BP/OIL_REF_CAP_AUT,Oil Refinery Capacity - Austria
+BP/OIL_REF_CAP_AZE,Oil Refinery Capacity - Azerbaijan
+BP/OIL_REF_CAP_BLR,Oil Refinery Capacity - Belarus
+BP/OIL_REF_CAP_CZE,Oil Refinery Capacity - Czech Republic
+BP/OIL_REF_CAP_BGR,Oil Refinery Capacity - Bulgaria
+BP/OIL_REF_CAP_DNK,Oil Refinery Capacity - Denmark
+BP/OIL_REF_CAP_FIN,Oil Refinery Capacity - Finland
+BP/OIL_REF_CAP_HUN,Oil Refinery Capacity - Hungary
+BP/OIL_REF_CAP_LTU,Oil Refinery Capacity - Lithuania
+BP/OIL_REF_CAP_KAZ,Oil Refinery Capacity - Kazakhstan
+BP/OIL_REF_CAP_IRL,Oil Refinery Capacity - Ireland
+BP/OIL_REF_CAP_PRT,Oil Refinery Capacity - Portugal
+BP/OIL_REF_CAP_ROU,Oil Refinery Capacity - Romania
+BP/OIL_REF_CAP_POL,Oil Refinery Capacity - Poland
+BP/OIL_REF_CAP_SVK,Oil Refinery Capacity - Slovakia
+BP/OIL_REF_CAP_CHE,Oil Refinery Capacity - Switzerland
+BP/OIL_REF_CAP_TKM,Oil Refinery Capacity - Turkmenistan
+BP/OIL_REF_CAP_UKR,Oil Refinery Capacity - Ukraine
+BP/OIL_REF_CAP_USSR,Oil Refinery Capacity - USSR
+BP/OIL_REF_CAP_UZB,Oil Refinery Capacity - Uzbekistan
+BP/OIL_REF_CAP_ISR,Oil Refinery Capacity - Israel
+BP/OIL_REF_CAP_QAT,Oil Refinery Capacity - Qatar
+BP/OIL_REF_CAP_DZA,Oil Refinery Capacity - Algeria
+BP/OIL_REF_CAP_EGY,Oil Refinery Capacity - Egypt
+BP/OIL_REF_CAP_ZAF,Oil Refinery Capacity - South Africa
+BP/OIL_REF_CAP_OAFR,Oil Refinery Capacity - Other Africa
+BP/OIL_REF_CAP_BGD,Oil Refinery Capacity - Bangladesh
+BP/OIL_REF_CAP_PAK,Oil Refinery Capacity - Pakistan
+BP/OIL_REF_CAP_MYS,Oil Refinery Capacity - Malaysia
+BP/OIL_REF_CAP_NZL,Oil Refinery Capacity - New Zealand
+BP/OIL_REF_CAP_PHL,Oil Refinery Capacity - Philippines
+BP/OIL_REF_CAP_VNM,Oil Refinery Capacity - Vietnam
+BP/GAS_PROD_D_USSR,Natural Gas Production - Daily Average - USSR
+BP/GAS_PROD_O_USSR,Natural Gas Production - Oil Equivalent - USSR
+BP/GAS_CONSUM_D_USSR,Natural Gas Consumption - Daily Average - USSR
+BP/GAS_CONSUM_O_USSR,Natural Gas Consumption - Oil Equivalent - USSR
+BP/COAL_PROD_O_SRB,Coal Production - Oil Equivalent - Serbia
+BP/COAL_PROD_O_USSR,Coal Production - Oil Equivalent - USSR
+BP/COAL_PROD_O_MNG,Coal Production - Oil Equivalent - Mongolia
+BP/COAL_CONSUM_O_USSR,Coal Consumption - Oil Equivalent - USSR
+BP/NUC_CONSUM_O_USSR,Nuclear Power Consumption - Oil Equivalent - USSR
+BP/HYDRO_CONSUM_O_USSR,Hydroelectric Consumption - Oil Equivalent - USSR
+BP/SOLAR_CONSUM_USSR,Solar Power Consumption - USSR
+BP/SOLAR_CONSUM_O_USSR,Solar Power Consumption - Oil Equivalent - USSR
+BP/WIND_CONSUM_USSR,Wind Power Consumption - USSR
+BP/WIND_CONSUM_O_USSR,Wind Power Consumption - Oil Equivalent - USSR
+BP/GEO_CONSUM_USSR,Geothermal and Biomass Power Consumption - USSR
+BP/GEO_CONSUM_O_USSR,Geothermal and Biomass Power Consumption - Oil Equivalent - USSR
+BP/PRIMARY_CONSUM_O_USSR,Primary Energy Consumption - Oil Equivalent - USSR
+BP/C02_EMMISSIONS_USSR,Carbon Dioxide (CO2) Emmissions - USSR
